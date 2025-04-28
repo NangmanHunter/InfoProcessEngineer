@@ -1,0 +1,15 @@
+- Cardinality
+- 개수
+- 수
+- 개
+- the number of its elements
+- 원소개수
+- 원소수
+- $|A|$
+- $| |$
+- $card()$
+- $card(A)$
+- $n()$
+- $n(A)$
+- $\bar{}$
+- $\bar{A}$

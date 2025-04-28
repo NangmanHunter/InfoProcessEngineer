@@ -1,0 +1,10 @@
+- Degree
+- Deg
+- Deg()
+- Degree()
+- degree
+- degree()
+- deg
+- deg()
+- 디그리
+- 차수

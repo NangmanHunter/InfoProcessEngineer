@@ -1,0 +1,18 @@
+- Primary Key
+- PrimaryKey
+- Primarykey
+- Primary key
+- Primary-key
+- primary-key
+- primarykey
+- primaryKey
+- PK
+- pk
+- 기본키
+- 주요키
+- 우선키
+- 제일키
+- 제일
+- 우선
+- 주요
+- 기본

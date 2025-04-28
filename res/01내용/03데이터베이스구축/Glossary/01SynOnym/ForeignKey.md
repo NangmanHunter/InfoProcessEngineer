@@ -1,0 +1,12 @@
+- Foreign Key
+- ForeignKey
+- Foreignkey
+- Foreign key
+- Foreign-key
+- foreign-key
+- foreignkey
+- foreignKey
+- FK
+- fk
+- 외래키
+- 외래

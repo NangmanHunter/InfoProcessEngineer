@@ -1,0 +1,7 @@
+- Private Key Encryption
+- PrivateKeyEncryption
+- 개인키 암호 방식
+- 비밀키 암호 방식
+- 대칭 암호 방식
+- 단일키 암호화 기법
+- 동일키 암호화 기법
