@@ -1,0 +1,12 @@
+﻿- Secure SHell
+- Secure Shell
+- Secure SHell Protocol
+- Secure Shell Protocol
+- SSH
+- SSH Protocol
+- SSHProtocol
+- SSH보안통신프로토콜
+- SSH보안프로토콜
+- SSH통신프로토콜
+- SSH프로토콜
+- 시큐어 셸

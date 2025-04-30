@@ -1,0 +1,63 @@
+﻿- C
+- c
+- CodeLine
+- l
+- L
+- Line
+- Line Of Code
+- LineCode
+- LineOfCode
+- lines of code
+- lines of code (LOC)
+- LOC
+- LoC
+- LOC=Line
+- LOC=Line/Effort ㆍ Effort
+- LOC=Line/Effort ㆍEffort
+- LOC=Line/EffortㆍEffort
+- LOC=Lines/Effort ㆍ Effort
+- LOC=Lines/Effort ㆍEffort
+- LOC=Lines/EffortㆍEffort
+- LOC=ProductivityㆍEffort
+- LOC=노력*생산성
+- LOC=노력ㆍ생산성
+- LOC=생산성 ㆍ개발인원ㆍ개발월수
+- LOC=생산성*노력
+- LOC=생산성ㆍ(개발인원ㆍ개발기간)
+- LOC=생산성ㆍ(개발인원ㆍ개발월수)
+- LOC=생산성ㆍ(인원ㆍ기간)
+- LOC=생산성ㆍ(인원ㆍ월수)
+- LOC=생산성ㆍ(인월)
+- LOC=생산성ㆍ(인ㆍ월)
+- LOC=생산성ㆍ노력
+- LOC=생산성ㆍ인원ㆍ기간
+- LOC=생산성ㆍ인월
+- LOC=생산성ㆍ인ㆍ월
+- LOC=줄
+- LOC=줄/인 ㆍ인
+- LOC=줄/인월 ㆍ개발인원ㆍ개발월수
+- LOC=줄/인월 ㆍ인월
+- LOC=줄/인월 ㆍ인ㆍ월
+- SLOC
+- source Line Of Code
+- Source lines of code
+- Source lines of code (SLOC)
+- 라인
+- 라인수
+- 생산 코드 라인 수
+- 생산 코드 라인수
+- 생산 코드라인수
+- 생산라인수
+- 생산코드 라인수
+- 생산코드라인수
+- 원시 코드 라인 수
+- 원시 코드 라인수
+- 원시 코드라인 수
+- 원시 코드라인수
+- 원시코드 라인 수
+- 원시코드 라인수
+- 원시코드라인수
+- 줄
+- 코드
+- 코드라인수
+- 코드수

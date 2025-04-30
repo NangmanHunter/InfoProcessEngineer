@@ -1,0 +1,23 @@
+﻿- Cipher
+- Ciphertext
+- CipherText
+- Encrypted PlainText
+- Encrypted Text
+- EncryptedPlainText
+- EncryptedText
+- EncryptionText
+- 비평문
+- 암호된평문
+- 암호문
+- 암호정보
+- 암호평문
+- 암호화
+- 암호화된
+- 암호화된 정보
+- 암호화된 평문
+- 암호화된정보
+- 암호화된평문
+- 암호화정보
+- 암호화평문
+- 평문아닌
+- 평문아님
