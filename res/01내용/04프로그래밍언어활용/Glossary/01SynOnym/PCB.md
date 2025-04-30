@@ -1,0 +1,5 @@
+- PCB
+- Process Control Block
+- 프로세스 제어 블록
+- Task Control Block
+- Job Control Block

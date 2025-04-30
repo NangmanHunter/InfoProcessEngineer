@@ -1,0 +1,6 @@
+- FCFS
+- First Come First Service
+- 선입 선출
+- 선입선출
+- FIFO
+- First In First Out

@@ -1,0 +1,8 @@
+- Process
+- 프로세스
+- 프로세스(Process)
+- 작업(Job)
+- 작업
+- Job
+- 태스크
+- Task

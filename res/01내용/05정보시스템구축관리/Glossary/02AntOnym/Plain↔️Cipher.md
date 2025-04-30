@@ -1,0 +1,2 @@
+- Plain↔️Cipher
+- PlainText↔️CipherText
