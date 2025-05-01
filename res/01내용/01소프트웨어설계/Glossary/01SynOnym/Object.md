@@ -1,2 +1,2 @@
-﻿Object
-객체
+﻿- Object
+- 객체

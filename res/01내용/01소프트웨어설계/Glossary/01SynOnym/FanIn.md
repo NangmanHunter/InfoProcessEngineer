@@ -1,3 +1,3 @@
-﻿FanIn
-Fan-In
-팬인
+﻿- FanIn
+- Fan-In
+- 팬인

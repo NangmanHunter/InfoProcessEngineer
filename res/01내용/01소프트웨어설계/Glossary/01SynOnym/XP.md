@@ -1,2 +1,2 @@
-﻿eXtreme Programming
-XP
+﻿- eXtreme Programming
+- XP

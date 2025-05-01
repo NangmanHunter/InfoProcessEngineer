@@ -1,2 +1,2 @@
-﻿Relationship
-연관성
+﻿- Relationship
+- 연관성

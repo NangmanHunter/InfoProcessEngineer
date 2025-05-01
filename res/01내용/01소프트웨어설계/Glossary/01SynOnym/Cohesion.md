@@ -1,2 +1,2 @@
-﻿Cohesion
-응집도
+﻿- Cohesion
+- 응집도

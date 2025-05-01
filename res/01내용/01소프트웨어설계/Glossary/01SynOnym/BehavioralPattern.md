@@ -1,4 +1,4 @@
-﻿Behavioral Pattern
-BehavioralPattern
-행위 패턴
-행위패턴
+﻿- Behavioral Pattern
+- BehavioralPattern
+- 행위 패턴
+- 행위패턴

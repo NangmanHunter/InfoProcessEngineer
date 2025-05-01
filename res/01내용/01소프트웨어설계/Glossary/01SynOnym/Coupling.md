@@ -1,2 +1,2 @@
-﻿Coupling
-결합도
+﻿- Coupling
+- 결합도

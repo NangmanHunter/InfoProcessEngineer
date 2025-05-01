@@ -1,3 +1,3 @@
-﻿FanOut
-Fan-Out
-팬아웃
+﻿- FanOut
+- Fan-Out
+- 팬아웃

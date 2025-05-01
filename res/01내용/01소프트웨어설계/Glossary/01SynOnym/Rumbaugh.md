@@ -1,2 +1,2 @@
-﻿Rumbaugh
-럼바우
+﻿- Rumbaugh
+- 럼바우

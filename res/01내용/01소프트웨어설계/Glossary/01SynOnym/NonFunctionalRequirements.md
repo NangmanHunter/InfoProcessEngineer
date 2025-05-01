@@ -1,11 +1,11 @@
-﻿NonFunctional Requirements
-Nonfunctional Requirements
-Nonfunctional requirements
-NonFunctional requirements
-Non-functional requirements
-NonfunctionalRequirements
-NonFunctionalRequirements
-Non-FunctionalRequirements
-Non-functionalRequirements
-비기능 요구사항
-비기능요구사항
+﻿- Nonfunctional requirements
+- NonFunctional requirements
+- NonFunctional Requirements
+- Nonfunctional Requirements
+- Non-functional requirements
+- NonFunctionalRequirements
+- NonfunctionalRequirements
+- Non-functionalRequirements
+- Non-FunctionalRequirements
+- 비기능 요구사항
+- 비기능요구사항

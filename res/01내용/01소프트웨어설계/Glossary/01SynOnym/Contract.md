@@ -1,2 +1,2 @@
-﻿Contract
-협약
+﻿- Contract
+- 협약

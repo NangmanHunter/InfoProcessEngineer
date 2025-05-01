@@ -1,2 +1,2 @@
-﻿Software Life Cycle
-SoftwareLifeCycle
+﻿- Software Life Cycle
+- SoftwareLifeCycle

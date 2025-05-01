@@ -1,0 +1,15 @@
+﻿- optimal
+- Optimal
+- optimization
+- Optimization
+- Optimize
+- optimize
+- Optimizing
+- optimizing
+- 최적
+- 최적시키다
+- 최적의
+- 최적화
+- 최적화(Optimization)
+- 최적화(Optimizing)
+- 최적화하다
