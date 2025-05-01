@@ -1,3 +1,3 @@
-- REVS(Requirement Engineering and Validation System)
+﻿- Requirement Engineering and Validation System
 - REVS
-- Requirement Engineering and Validation System
+- REVS(Requirement Engineering and Validation System)

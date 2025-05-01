@@ -1,4 +1,4 @@
-- 스크럼팀
-- ST
-- Scrum Team
+﻿- Scrum Team
 - ScrumTeam
+- ST
+- 스크럼팀

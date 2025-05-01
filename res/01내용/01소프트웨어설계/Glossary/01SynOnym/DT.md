@@ -1,4 +1,4 @@
-- 개발팀
-- DT
-- Development Team
+﻿- Development Team
 - DevelopmentTeam
+- DT
+- 개발팀

@@ -1,3 +1,3 @@
-- RSL(Requirement Statement Language)
+﻿- Requirement Statement Language
 - RSL
-- Requirement Statement Language
+- RSL(Requirement Statement Language)

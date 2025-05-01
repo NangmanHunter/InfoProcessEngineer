@@ -1,6 +1,6 @@
-모델-뷰-컨트롤러 패턴
-Model-View-Controller Pattern
+﻿Model-View-Controller Pattern
 MVC Pattern
+MVC_Pattern
 MVCPattern
 MVC-Pattern
-MVC_Pattern
+모델-뷰-컨트롤러 패턴

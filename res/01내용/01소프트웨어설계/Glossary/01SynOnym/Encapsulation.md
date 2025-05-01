@@ -1,2 +1,2 @@
+﻿Encapsulation
 캡슐화
-Encapsulation

@@ -1,4 +1,4 @@
-- 스크럼마스터
-- 스크럼 마스터
+﻿- Scrum Master
 - SM
-- Scrum Master
+- 스크럼 마스터
+- 스크럼마스터

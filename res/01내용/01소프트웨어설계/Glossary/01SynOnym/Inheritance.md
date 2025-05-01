@@ -1,2 +1,2 @@
-Inheritance
+﻿Inheritance
 상속
