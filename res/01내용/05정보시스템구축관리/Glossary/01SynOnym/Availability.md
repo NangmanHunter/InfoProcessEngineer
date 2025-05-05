@@ -1,0 +1,3 @@
+- Availability
+- 가용성(Availability) 
+- 가용성

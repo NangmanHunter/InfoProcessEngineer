@@ -1,0 +1,13 @@
+- Multiple Access
+- MultipleAccess
+- Multiple-Access
+- Multiple_Access
+- MA
+- 다중접속
+- 다중 접속
+- 1:다수 연결 
+- 1:다수연결
+- 일대다
+- 1:다 
+- 1대다 
+- 예: Wi-Fi, 옛날 이더넷 허브

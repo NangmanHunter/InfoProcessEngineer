@@ -7,6 +7,10 @@
 - HRN방식 스케줄링
 - HRN방식스케줄링
 - HRN스케줄링
+- HRN스케줄링알고리즘
+- HRN스케줄링 알고리즘
+- HRN 스케줄링알고리즘
+- HRN 스케줄링 알고리즘
 - HRNScheduling
 - HRN_Scheduling
 - HRN-Scheduling

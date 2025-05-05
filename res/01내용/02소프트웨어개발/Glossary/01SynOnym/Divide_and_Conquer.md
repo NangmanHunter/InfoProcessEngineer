@@ -2,6 +2,7 @@
 - Divide and Conquer
 - Divide-and-Conquer
 - Divide And Conquer
+- Divide and Conquer
 - DivideAndConquer
 - Divide Conquer
 - Divide-Conquer
@@ -26,3 +27,4 @@
 - 분할 정복(Divide and Conquer)에 기반한 알고리즘
 - 분할 정복에 기반한 알고리즘
 - 분할정복에 기반한 알고리즘
+- 분할과 정복(Divide and Conquer) 

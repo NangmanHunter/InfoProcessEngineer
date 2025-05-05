@@ -1,0 +1,8 @@
+- Organic Mode
+- OrganicMode
+- Organic형
+- Organic모드
+- 조직형(Organic Mode)
+- 조직형
+- 조직모드
+- 조직Mode

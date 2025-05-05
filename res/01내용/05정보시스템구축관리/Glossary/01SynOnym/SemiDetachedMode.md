@@ -1,0 +1,16 @@
+- Semi-Detached Mode
+- Semi-DetachedMode
+- SemiDetached Mode
+- SemiDetachedMode
+- SemiDetached형
+- Semi-Detached형
+- Semi-Detached 형
+- Semi-Detached 모드
+- SemiDetached모드
+- 반분리형
+- SDMode
+- SDM
+- SD M
+- SD형
+- SD 형
+- 반분리형(Semi-Detached Mode)
