@@ -1,0 +1,4 @@
+- JSP(Java Server Page)
+- JSP
+- Java Server Page
+- JavaServerPage

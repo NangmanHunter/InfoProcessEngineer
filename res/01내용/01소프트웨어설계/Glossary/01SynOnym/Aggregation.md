@@ -1,0 +1,6 @@
+- Aggregation
+- 집단화(Aggregation)
+- 집단화
+- 집단
+- 부분
+- 부분화

@@ -1,0 +1,16 @@
+- Composite Partitioning
+- CompositePartitioning
+- Composite파티셔닝
+- 컴포싯파티셔닝
+- 컴포시트파티셔닝
+- 컴포지트파티셔닝
+- 조합파티셔닝
+- 조합분할
+- 분할
+- Composite분할
+- Composite 분할
+- 조합파티셔닝
+- 조합 파티셔닝
+- 조합 분할
+- 조합 분할(Composite Partitioning)
+- 조합분할(CompositePartitioning)

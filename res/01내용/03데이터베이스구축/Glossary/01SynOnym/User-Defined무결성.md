@@ -1,0 +1,11 @@
+- 사용자 정의 무결성(User-Defined Integrity) 
+- 사용자 정의 무결성
+- 사용자정의 무결성
+- 사용자정의무결성
+- UserDefined Integrity
+- User-DefinedIntegrity
+- UserDefinedIntegrity
+- UserDefined무결성
+- UserDefined 무결성
+- User-Defined무결성
+- User-Defined 무결성

@@ -1,0 +1,17 @@
+- 행위
+- Method
+- method
+- 메소드
+- 행위
+- 메소드(Method, 행위)
+- 서비스(Service)
+- Service
+- 동작(Operation)
+- Operation
+- 연산
+- 수행할 수 있는 동작
+- 함수
+- 데이터처리함수
+- 데이터를 처리하는함수
+- 데이터를 처리하는 함수
+- 데이터함수

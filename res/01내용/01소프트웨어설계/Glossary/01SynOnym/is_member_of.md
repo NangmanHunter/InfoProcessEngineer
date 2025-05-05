@@ -1,0 +1,20 @@
+- is member of
+- is-member-of
+- is_member_of
+- 어떤 요소가 어떤 집합이나 구조 안에 포함되는가?
+- 주로 집합, 목록, 컬렉션에 속해 있는지를 판단
+- 집합, 목록, 컬렉션에 속해 있는지를 판단
+- 집합
+- 목록
+- 컬렉션
+- Associate관계
+- Associate
+- 어쏘
+- 어쏘관계
+- 소속
+- 소속관계
+- Association
+- 연관화(Association)
+- 연관화
+- 연관
+- 상호관련

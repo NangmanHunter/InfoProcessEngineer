@@ -1,6 +1,11 @@
 ﻿- Spiral Model
 - SpiralModel
+- Spiral모형
+- Spiral 모형
 - 나선모형
+- 나선 모형
+- 나선적 모형
+- 나선적모형
 - 나선형 모형
 - 나선형모형
 - 점진모형

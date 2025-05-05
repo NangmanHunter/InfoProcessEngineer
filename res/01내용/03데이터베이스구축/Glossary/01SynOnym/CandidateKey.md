@@ -1,0 +1,6 @@
+- CandidateKey
+- Candidate키
+- Candidate 키
+- 후보키(Candidate Key)
+- 후보키
+- Candidate Key

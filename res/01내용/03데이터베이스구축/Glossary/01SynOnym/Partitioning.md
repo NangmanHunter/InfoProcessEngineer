@@ -1,0 +1,8 @@
+- Partitioning
+- Partition
+- Partition하다
+- Partition하는것
+- Partition분할
+- 분할
+- 파티션닝
+- 파티셔닝

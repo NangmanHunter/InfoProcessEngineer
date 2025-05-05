@@ -1,0 +1,4 @@
+- Minimal
+- Minimality
+- 최소성
+- 최소

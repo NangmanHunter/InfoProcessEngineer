@@ -1,0 +1,6 @@
+- is part of
+- is-part-of
+- is_part_of
+- Aggregation
+- 집단화(Aggregation)
+- 집단화

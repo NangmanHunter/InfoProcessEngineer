@@ -1,0 +1,12 @@
+- Dependency관계
+- Dependency 관계
+- Dependency Relationship
+- DependencyRelationship
+- 의존(Dependency) 관계
+- 의존(Dependency)관계
+- 의존관계
+- 의존
+- 의존 관계
+- 의존 (잠깐 사용)
+- 짧고 일시적
+- 점선 화살표 (-->)

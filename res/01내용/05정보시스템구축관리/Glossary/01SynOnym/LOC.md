@@ -4,7 +4,10 @@
 - l
 - L
 - Line
+- Lines
 - Line Of Code
+- Lines Of Code
+- LinesOfCode
 - LineCode
 - LineOfCode
 - lines of code

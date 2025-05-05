@@ -1,0 +1,6 @@
+- Range Partitioning
+- RangePartitioning
+- Range파티셔닝
+- Range분할
+- 범위분할
+- 범위 분할

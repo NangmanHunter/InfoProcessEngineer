@@ -1,0 +1,24 @@
+- is_a
+- is a
+- is-a
+- 상속(Inheritance)
+- 상속
+- 피상속
+- 피상속관계
+- Inheritance
+- 상속(Inheritance)관계
+- 상속(Inheritance) 관계
+- 일반화(Generalization)관계
+- 일반화(Generalization) 관계
+- 일반화(Generalization)
+- 일반화
+- Generalization
+- 구현
+- 상속
+- 상속관계
+- 하위 타입
+- 하위타입
+- 상위 타입의 일종
+- 상위타입의 일종
+- 상위타입의일종
+- 상위타입일종

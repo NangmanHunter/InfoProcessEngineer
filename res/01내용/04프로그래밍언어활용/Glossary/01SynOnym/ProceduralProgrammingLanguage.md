@@ -1,0 +1,10 @@
+- procedural programming language
+- Procedural Programming Language
+- ProceduralProgrammingLanguage
+- Procedural Language
+- 절차적 프로그래밍 언어
+- procedural programming
+- Procedural programming
+- Procedural Programming
+- procedural
+- Procedural

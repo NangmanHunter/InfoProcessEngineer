@@ -1,0 +1,14 @@
+- ERD
+- E-R 다이어그램
+- ER 다이어그램
+- ER다이어그램
+- ER Diagram
+- ERDiagram
+- 개체-관계 다이어그램(Entity-Relationship Diagram)
+- 개체-관계 다이어그램
+- 개체관계 다이어그램
+- 개체관계다이어그램
+- 개체-관계다이어그램
+- Entity-Relationship Diagram
+- EntityRelationship Diagram
+- EntityRelationshipDiagram

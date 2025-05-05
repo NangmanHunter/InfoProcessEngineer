@@ -1,0 +1,4 @@
+- Delete
+- D
+- 삭제(Delete)
+- 삭제

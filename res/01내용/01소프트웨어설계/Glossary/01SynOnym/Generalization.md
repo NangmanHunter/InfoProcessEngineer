@@ -1,0 +1,4 @@
+- 일반화(Generalization)
+- 일반화
+- 추상화
+- Generalization

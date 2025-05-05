@@ -1,0 +1,11 @@
+- 나쁜 코드(Bad Code)
+- 나쁜코드(BadCode)
+- 나쁜코드
+- BadCode
+- Bad-Code
+- bad-code
+- badcode
+- badCode
+- Bad코드
+- Bad 코드
+- Bad Code

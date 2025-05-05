@@ -1,0 +1,9 @@
+- 프로세스(Process)
+- 프로세스
+- Process
+- P
+- process
+- 처리
+- 기능
+- 변환
+- 버블

@@ -1,0 +1,12 @@
+- Tamper Resistance
+- 변경 저항
+- 변경 방지
+- 변경방지
+- 변조방지
+- 크랙 방지(Crack Prevention)
+- 크랙방지(Crack Prevention)
+- 크랙방지(CrackPrevention)
+- 크랙방지
+- CrackPrevention
+- 크랙 방지(Tamper Resistance)
+- 크랙방지(TamperResistance)

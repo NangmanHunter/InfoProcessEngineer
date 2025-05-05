@@ -1,0 +1,7 @@
+- Putnam
+- Putnam모델
+- Putnam 모델
+- Putnam 모형
+- Putnam모형
+- PutnamModel
+- Putnam Model

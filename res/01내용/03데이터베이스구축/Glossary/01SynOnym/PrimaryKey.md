@@ -1,4 +1,6 @@
 - Primary Key
+- Primary키
+- Primary 키
 - PrimaryKey
 - Primarykey
 - Primary key
@@ -16,3 +18,9 @@
 - 우선
 - 주요
 - 기본
+- 후보키 중에서 특별히 선정된 주키(Main Key)
+- 주키(Main Key)
+- 주키
+- Main Key
+- MainKey
+- 기본키(Primary Key)

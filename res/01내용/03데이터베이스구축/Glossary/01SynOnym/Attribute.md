@@ -1,0 +1,7 @@
+- Attribute
+- 속성
+- 열
+- col
+- j
+- column
+- Column

@@ -1,6 +1,11 @@
 ﻿- Agile Model
 - AgileModel
+- Agile
 - 기민한
+- Agile모델
+- Agile 모델
+- Agile모형
+- Agile 모형
 - 민첩한
 - 애자일
 - 애자일 모형

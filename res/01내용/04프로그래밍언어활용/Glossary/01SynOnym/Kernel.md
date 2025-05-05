@@ -1,0 +1,3 @@
+- 커널(Kernel)
+- 커널
+- Kernel

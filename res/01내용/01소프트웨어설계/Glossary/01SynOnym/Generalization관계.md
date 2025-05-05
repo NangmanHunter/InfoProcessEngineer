@@ -1,0 +1,8 @@
+- 일반화(Generalization) 관계
+- 일반화(Generalization)관계
+- 일반화관계
+- 일반화 관계
+- Generalization관계
+- Generalization 관계
+- Generalization Relationship
+- GeneralizationRelationship

@@ -1,0 +1,14 @@
+- 포함(Composition) 관계
+- 포함(Composition)관계
+- 포함관계
+- 포함 관계
+- Composition관계
+- Composition 관계
+- Composition Relationship
+- CompositionRelationship
+- 강한 포함
+- 강한포함관계
+- 전체-부분
+- 전체-부분 관계
+- 강하게 연결됨
+- ◆ (검은 마름모)

@@ -1,0 +1,9 @@
+- Jacobson 방법
+- Jacobson방법
+- Jacobson
+- Jacobson(제이콥슨)방법
+- Jacobson(자콥슨)방법
+- 자콥슨방법
+- 자콥슨
+- 제이콥슨방법
+- 제이콥슨

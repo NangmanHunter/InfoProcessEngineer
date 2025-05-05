@@ -1,0 +1,14 @@
+- data-store
+- datastore
+- dataStore
+- DataStore
+- Data Store
+- DS
+- S
+- Store
+- store
+- 자료 저장소(Data Store)
+- 자료저장소(DataStore)
+- 자료저장소
+- 자료저장
+- 자료 저장소

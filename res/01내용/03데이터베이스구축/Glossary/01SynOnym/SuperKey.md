@@ -1,0 +1,7 @@
+- Super Key
+- SuperKey
+- Super키
+- Super 키
+- 슈퍼키
+- 슈퍼
+- 슈퍼키(Super Key)

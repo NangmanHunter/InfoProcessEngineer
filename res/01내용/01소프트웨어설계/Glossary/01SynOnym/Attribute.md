@@ -1,0 +1,16 @@
+- Attribute
+- attribute
+- 데이터
+- 필드
+- variable
+- Variable
+- 속성(Attribute)
+- 상태
+- 변수
+- 상수
+- 정보
+- 자료 구조
+- 분류
+- Data
+- 속성 (필드)
+- 속성(필드)

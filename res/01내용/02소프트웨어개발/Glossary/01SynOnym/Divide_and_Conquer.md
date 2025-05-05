@@ -1,0 +1,28 @@
+- Divide_and_Conquer
+- Divide and Conquer
+- Divide-and-Conquer
+- Divide And Conquer
+- DivideAndConquer
+- Divide Conquer
+- Divide-Conquer
+- Divide_Conquer
+- DivideConquer
+- Divide/Conquer
+- Divide / Conquer
+- Divide&Conquer
+- Divide_&_Conquer
+- Divide &Conquer
+- Divide & Conquer
+- 분할정복
+- 분할과정복
+- 분할과 정복
+- 분할 정복
+- 분할 정복 알고리즘(Divide and conquer algorithm)
+- 분할 정복 알고리즘
+- Divide and conquer algorithm
+- Divide and conquer Algorithm
+- Divide and conquer
+- 분할(Divide)과 정복(Conquer)
+- 분할 정복(Divide and Conquer)에 기반한 알고리즘
+- 분할 정복에 기반한 알고리즘
+- 분할정복에 기반한 알고리즘

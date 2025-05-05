@@ -1,0 +1,30 @@
+﻿- Waterfall Model
+- WaterFall Model
+- WaterFallModel
+- WaterfallModel
+- Waterfall모형
+- Waterfall모델
+- Waterfall 모델
+- Waterfall 모형
+- 폭포수 모형
+- 폭포수모델
+- 폭포수모형
+- WM
+- WFM
+- 고전적 생명 주기 모형
+- 고전적 생명주기 모형
+- 고전적생명주기 모형
+- 고전적생명주기모형
+- 생명주기모형
+- 생명주기 모형
+- 고전적모형
+- 고전적 모형
+- 선형 순차적 모형
+- 선형 순차적모형
+- 선형순차적모형
+- 순차적모형
+- 순차모형
+- 선형모형
+- 이전 단계로 돌아갈 수 없다는 전제하에
+- 단계적모형
+- 단계적 모형

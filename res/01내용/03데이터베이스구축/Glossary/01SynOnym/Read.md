@@ -1,0 +1,5 @@
+- Read
+- 읽기(Read)
+- 읽기
+- Read
+- R

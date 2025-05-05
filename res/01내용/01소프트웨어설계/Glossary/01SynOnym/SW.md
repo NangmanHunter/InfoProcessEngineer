@@ -1,0 +1,3 @@
+- SW
+- SoftWware
+- 소프트웨어

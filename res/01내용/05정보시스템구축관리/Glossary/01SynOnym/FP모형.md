@@ -1,0 +1,23 @@
+- 기능점수(FP)모형
+- 기능점수(FP) 모형
+- 기능 점수(FP) 모형
+- 기능 점수(Function Point) 모형
+- 기능점수(Function Point) 모형
+- 기능점수(Function Point)모형
+- 기능점수모형
+- 기능점수 모형
+- Function Point
+- FunctionPoint
+- FP모형
+- FP 모형
+- FPModel
+- FP Model
+- 가중치 부여
+- 가중치부여
+- 가중치
+- 기능가중치부여
+- 기능가중치
+- 기능별가중치
+- 기능별가중치부여
+- 기능별 가중치부여
+- 기능을 증대시키는 요인별로 가중치를 부여

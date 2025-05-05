@@ -1,0 +1,9 @@
+- 개체 무결성(Entity Integrity, 실체 무결성) 
+- 개체 무결성
+- 개체무결성
+- Entity Integrity
+- EntityIntegrity
+- Entity무결성
+- Entity 무결성
+- 실체 무결성
+- 실체무결성
