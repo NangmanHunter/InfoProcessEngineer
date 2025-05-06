@@ -1,0 +1,5 @@
+- 폴딩법(Folding) 
+- 폴딩법
+- 폴딩
+- Folding
+- Folding법

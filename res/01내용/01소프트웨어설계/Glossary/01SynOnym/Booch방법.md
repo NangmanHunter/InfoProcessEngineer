@@ -3,4 +3,7 @@
 - 부치방법
 - 부치
 - Booch방법
+- Booch 방법
 - Booch
+- Booch방식
+- Booch 방식

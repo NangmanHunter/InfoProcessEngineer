@@ -1,0 +1,12 @@
+- 숫자 분석법(Digit Analysis, 계수 분석법)
+- 숫자 분석법
+- 숫자분석법
+- Digit Analysis
+- DigitAnalysis
+- DigitAnalysis법
+- 계수 분석법
+- 계수분석법
+- 비교적 고른 자리를 필요한 만큼 택해서
+- 비교적 고른 자리
+- 비교적 고른자리
+- 고른자리

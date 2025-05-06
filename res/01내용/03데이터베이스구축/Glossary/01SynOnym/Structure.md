@@ -3,7 +3,7 @@
 - Data Structure
 - DataModelStructure
 - DataModel-Structure
-_- DatamodelStructure
+- DatamodelStructure
 - Datamodel-Structure
 - Datamodel_Structure
 - 구조

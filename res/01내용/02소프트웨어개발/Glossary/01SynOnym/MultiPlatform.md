@@ -1,0 +1,10 @@
+- MultiPlatform
+- Multi
+- 멀티플팻폼
+- 크로스플팻폼
+- 크로스
+- 멀티
+- 멀티 플팻폼
+- Cross Platform
+- Cross
+- CrossPlatform

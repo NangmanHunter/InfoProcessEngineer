@@ -1,0 +1,6 @@
+- SinglePlatform
+- Single Platform
+- Single
+- 단일플랫폼
+- 단일 플랫폼
+- 단일

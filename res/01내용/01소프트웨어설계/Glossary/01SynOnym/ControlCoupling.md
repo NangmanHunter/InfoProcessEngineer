@@ -1,0 +1,5 @@
+- 제어 결합도(Control Coupling) 
+- 제어 결합도
+- 제어결합도
+- Control Coupling
+- ControlCoupling

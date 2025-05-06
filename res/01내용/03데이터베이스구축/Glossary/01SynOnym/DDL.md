@@ -6,3 +6,4 @@
 - 데이터정의 어
 - CREATEㆍDROPㆍALTER
 - CREATEㆍALTERㆍDROP
+- CAD

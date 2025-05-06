@@ -1,0 +1,72 @@
+- front
+- Front
+- Frontend
+- frontend
+- Frontend Server
+- FrontEndServer
+- FrontendServer
+- frontServer
+- FrontServer
+- HTTP Server
+- Server
+- Static Web
+- Static Web Server
+- Static WebServer
+- StaticWeb
+- StaticWebServer
+- Web
+- Web Page
+- WebPage
+- WebServer
+- Web Server
+- WEBServer
+- WEBS
+- WBS
+- WES
+- WebServer Software
+- WebServerProgram
+- WebServerSoftware
+- WS
+- 기술적개념-웹서버
+- 역할적개념-프론트서버
+- 웹 서버 소프트웨어
+- 웹 서버 프로그램
+- 웹사이트
+- 웹서버
+- 웹 서버
+- 웹서버 소프트웨어
+- 웹서버 프로그램
+- 웹서버소프트웨어
+- 웹서버프로그램
+- 웹페이지
+- 정적서버
+- 정적인서버
+- 정적페이지
+- 정적페이지서버
+- 정적페이지서빙
+- 프론트서버
+- 프론트앤드 서버
+- 프론트앤드서버
+- 프론트엔드 서버
+- WEB
+- WebProgram
+- WebServerProgram
+- 정적인 콘텐츠를 처리
+- 정적인 컨텐츠를 처리
+- 정적인 컨텐츠 처리
+- 정적인컨텐츠 처리
+- 정적인 컨텐츠처리
+- 정적인컨텐츠처리
+- 정적인 콘텐츠 처리
+- 정적인 콘텐츠처리
+- 정적 콘텐츠처리
+- 정적인콘텐츠 처리
+- 정적콘텐츠 처리
+- 정적콘텐츠처리
+- 정적컨텐츠처리
+- 정적처리
+- 정적
+- 정
+- 클라이언트/서버 환경
+- 클라이언트/서버환경
+- 서버환경

@@ -1,0 +1,4 @@
+- 제곱법(Mid-Square) 
+- 제곱법
+- Mid-Square
+- Mid-Square법

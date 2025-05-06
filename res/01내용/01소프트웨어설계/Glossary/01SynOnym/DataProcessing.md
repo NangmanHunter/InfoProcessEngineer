@@ -1,0 +1,5 @@
+- 데이터처리방식
+- 데이터처리
+- DataProcessing
+- Data Processing
+- Data Process

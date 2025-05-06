@@ -1,0 +1,5 @@
+- 자료 결합도(Data Coupling) 
+- 자료 결합도
+- 자료결합도
+- Data Coupling
+- DataCoupling

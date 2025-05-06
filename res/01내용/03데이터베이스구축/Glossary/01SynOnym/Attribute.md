@@ -5,3 +5,4 @@
 - j
 - column
 - Column
+- 속성(Attribute)
