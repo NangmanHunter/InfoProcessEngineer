@@ -1,0 +1,13 @@
+- 상태(State)
+- 상태(State) 패턴
+- 상태(State)패턴
+- 상태패턴(State)
+- 상태패턴
+- State
+- State패턴
+- State 패턴
+- StatePattern
+- State Pattern
+- StateDesignPattern
+- State DesignPattern
+- State Design Pattern

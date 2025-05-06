@@ -1,2 +1,0 @@
-﻿- Relationships
-- 관계

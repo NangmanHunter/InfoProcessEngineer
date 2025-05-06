@@ -1,4 +1,19 @@
 ﻿- Creational Pattern
 - CreationalPattern
+- CreationalDesignPattern
+- Creational DesignPattern
+- Creational Design Pattern
+- Creational패턴
+- Creational디자인패턴
+- Creational 디자인패턴
+- Creational 디자인 패턴
+- CDP
+- Creational 패턴
 - 생성 패턴
 - 생성패턴
+- 생성적패턴
+- 생성적 패턴
+- 생성 패턴 (Creational Pattern)
+- 생성 패턴(Creational Pattern)
+- 생성패턴(CreationalPattern)
+- CP

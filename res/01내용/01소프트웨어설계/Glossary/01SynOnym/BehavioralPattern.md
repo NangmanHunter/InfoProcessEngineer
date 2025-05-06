@@ -1,4 +1,19 @@
 ﻿- Behavioral Pattern
 - BehavioralPattern
+- BehavioralDesignPattern
+- Behavioral DesignPattern
+- Behavioral Design Pattern
+- Behavioral패턴
+- Behavioral 패턴
+- Behavioral디자인패턴
+- Behavioral디자인 패턴
+- Behavioral 디자인패턴
+- Behavioral 디자인 패턴
 - 행위 패턴
+- 행위적 패턴
 - 행위패턴
+- 행위적패턴
+- 행위 패턴 (Behavioral Pattern)
+- 행위 패턴(Behavioral Pattern)
+- 행위패턴(BehavioralPattern)
+- BP

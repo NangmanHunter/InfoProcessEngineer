@@ -1,0 +1,35 @@
+- System Ports (0-1023)
+- (0-1023)
+- System Ports
+- System Port
+- System_Port
+- System-Port
+- SystemPort
+- SP
+- Well-known ports
+- Well-known port
+- Well-known Port
+- Well-Known Port
+- Well-known-Port
+- Well-known_Port
+- Well-knownPort
+- WellknownPort
+- WellKnownPort
+- WP
+- WKP
+- 0-1023
+- 0-1023Port
+- 0~1023Port
+- 0~1023 Port
+- 0-1023 Port
+- 0-$2^{10}-1$
+- 0≤ ≤$2^{10}-1$
+- 0≤ <$2^{10}$
+- <$2^{10}$
+- N<$2^{10}$
+- $N<2^{10}$
+- n<$2^{10}$
+- $n<2^{10}$
+- $2^{10}$
+- 0 - $2^{10}-1$
+- 0 ~ $2^{10}-1$

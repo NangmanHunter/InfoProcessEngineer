@@ -1,4 +1,10 @@
 # PortNumber
+- SystemPort
+  - $2^{10}$
+- UserPort
+  - $2^{15}+2^{14}$
+- DynamicPort
+  - $2^{16}$
 ## MainPortNumber
 ```
 Port

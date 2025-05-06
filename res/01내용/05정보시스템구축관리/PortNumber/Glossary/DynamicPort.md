@@ -1,0 +1,35 @@
+- DP
+- DPP
+- DPEP
+- Dynamic Ports
+- Dynamic Port
+- Dynamic/Private Port
+- Dynamic/Private/Ephemeral Port
+- Dynamic-Private-Ephemeral Port
+- Dynamic_Private_Ephemeral Port
+- DynamicPrivateEphemeral Port
+- DynamicPrivateEphemeralPort
+- DynamicPrivate Port
+- DynamicPrivatePort
+- DynamicPort
+- Dynamic-Port
+- Dynamic_Port
+- Dynamic and/or Private Ports (49152-65535)
+- (49152-65535)
+- Dynamic, private or ephemeral ports
+- 49152-65535
+- 49152-65535Port
+- 49152~65535Port
+- 49152~65535 Port
+- 49152-65535 Port
+- $2^{15}+2^{14}$-$2^{16}-1$
+- $2^{15}+2^{14}$≤ ≤$2^{16}-1$
+- $2^{15}+2^{14}$≤ <$2^{16}$
+- <$2^{16}$
+- N<$2^{16}$
+- n<$2^{16}$
+- $N<2^{16}$
+- $n<2^{16}$
+- $2^{16}$
+- $2^{15}+2^{14}$ - $2^{16}-1$
+- $2^{15}+2^{14}$ ~ $2^{16}-1$

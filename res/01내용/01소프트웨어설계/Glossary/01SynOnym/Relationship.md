@@ -1,2 +1,13 @@
 ﻿- Relationship
 - 연관성
+- 유관성
+- 관성
+- 관련성
+- 관계성
+- Relationships
+- Relation
+- Rel
+- R
+- rel
+- r
+- 관계
