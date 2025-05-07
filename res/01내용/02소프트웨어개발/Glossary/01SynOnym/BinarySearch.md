@@ -11,3 +11,4 @@
 - Binary Search
 - BinarySearch
 - BS
+- 이진 검색(Binary Search)

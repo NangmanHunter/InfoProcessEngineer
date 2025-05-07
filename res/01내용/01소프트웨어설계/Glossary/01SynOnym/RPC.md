@@ -1,0 +1,4 @@
+- 원격 프로시저를 마치 로컬 프로시저처럼 호출
+- RPC(Remote Procedure Call)
+- RPC
+- Remote Procedure Call

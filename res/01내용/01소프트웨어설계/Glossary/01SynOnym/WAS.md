@@ -1,4 +1,5 @@
 ﻿- WAS
+- WAS(Web Application Server)
 - WebApplicationServer
 - Web ApplicationServer
 - WebApplication Server

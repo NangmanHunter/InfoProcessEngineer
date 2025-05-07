@@ -1,0 +1,7 @@
+- 데크(Deque)
+- 데크
+- Deque
+- 디큐
+- Deque(덱)
+- 덱
+- Double-Ended Queue

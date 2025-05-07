@@ -1,0 +1,7 @@
+- 추정(Heuristic) 오라클
+- 추정(Heuristic)오라클
+- 추정오라클
+- 추정 오라클
+- HeuristicOracle
+- Heuristic
+- Heuristic Oracle

@@ -1,0 +1,12 @@
+- ORB(Object Request Broker)
+- ORB
+- Object Request Broker
+- ORB(객체 요청 브로커)
+- 객체 요청 브로커
+- 객체 요청브로커
+- 객체요청 브로커
+- 객체요청브로커
+- 코바(CORBA) 표준 스펙을 구현한 미들웨어
+- 코바(CORBA) 표준 스펙을 구현
+- 코바(CORBA) 표준스펙을 구현
+- 코바(CORBA) 표준스펙 구현

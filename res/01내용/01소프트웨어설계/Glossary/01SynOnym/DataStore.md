@@ -1,5 +1,6 @@
 - data-store
 - datastore
+- data store
 - dataStore
 - DataStore
 - Data Store

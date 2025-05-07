@@ -1,0 +1,4 @@
+- 스토리보드(Story Board)
+- 스토리보드
+- Story Board
+- StoryBoard

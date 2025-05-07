@@ -5,3 +5,4 @@
 - Test Stub
 - TestStub
 - Stub
+- 스텁(Stub)

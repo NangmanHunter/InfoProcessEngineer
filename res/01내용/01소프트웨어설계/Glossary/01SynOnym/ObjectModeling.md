@@ -1,0 +1,13 @@
+- 정보모델링
+- 객체모델링(ObjectModeling)
+- 객체 모델링(Object Modeling)
+- 객체 모델링
+- 객체 모델
+- Object Modeling
+- ObjectModeling
+- Object Model
+- ObjectModel
+- Object모델
+- Object 모델
+- Object모델링
+- Object 모델링

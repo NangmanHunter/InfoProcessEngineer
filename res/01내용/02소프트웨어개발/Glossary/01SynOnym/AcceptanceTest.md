@@ -1,0 +1,7 @@
+- 인수 테스트 (Acceptance Test)  
+- 인수 테스트
+- 인수테스트
+- 인수
+- Acceptance Test
+- AcceptanceTest
+- Acceptance

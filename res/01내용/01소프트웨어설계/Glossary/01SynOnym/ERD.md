@@ -12,3 +12,6 @@
 - Entity-Relationship Diagram
 - EntityRelationship Diagram
 - EntityRelationshipDiagram
+- 개체 관계도(ERD)
+- 개체 관계도
+- 개체관계도
