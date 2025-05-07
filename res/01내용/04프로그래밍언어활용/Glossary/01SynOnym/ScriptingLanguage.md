@@ -6,6 +6,10 @@
 - scripting language
 - Scripting language
 - Scripting Language
+- ScriptingLanguage
 - Script Language
+- ScriptLanguage
 - 스크립트 언어
 - 스크립트언어
+- SL
+- S

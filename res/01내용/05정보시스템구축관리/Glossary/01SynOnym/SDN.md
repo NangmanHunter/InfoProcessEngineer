@@ -7,3 +7,4 @@
 - Software DefinedNetworking
 - SoftwareDefinedNetworking
 - SoftwareDefined Networking
+- 제어부ㆍ전달부 분리

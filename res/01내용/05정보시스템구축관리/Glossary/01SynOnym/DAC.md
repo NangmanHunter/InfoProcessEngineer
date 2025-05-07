@@ -1,0 +1,44 @@
+﻿- DAC
+- Discretionary Access Control
+- DiscretionaryAccess Control
+- Discretionary AccessControl
+- DiscretionaryAccessControl
+- DiscretionaryAC
+- 신분 기반 정책
+- 신분기반 정책
+- 신분기반정책
+- 신분정책
+- 신분기반
+- 신분
+- 임의적 접근통제
+- 임의적접근통제
+- 임의접근통제
+- 임의 접근통제
+- Discretionary
+- Discretion
+- discretio = 분리, 식별
+- 자유로운 판단(discretion)을 따르는
+- discretion
+- discretion + ary
+- discernere (분리하다, 구별하다 → 판단하다)
+- dis- (떨어져) + cernere (가르다, 분리하다)
+- dis- (떨어져)
+- 자유 재량에 따른
+- 자유재량에 따른
+- 자유재량에따른
+- 자유재량
+- 임의의
+- 임의
+- 자율적인
+- 자율적
+- 자율
+- 사용자지정
+- 사용자
+- 사람
+- 사람▶️사람
+- cretion
+- -cret-
+- 라틴어 crescere = "자라다(grow), 늘어나다"
+- -cret- 또는 -cretio, -cretum
+- cret 자라다
+- cret 분리하다

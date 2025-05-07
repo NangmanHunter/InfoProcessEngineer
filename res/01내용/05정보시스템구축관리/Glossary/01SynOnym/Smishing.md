@@ -1,0 +1,7 @@
+- 스미싱(Smishing)
+- 스미싱
+- Smishing
+- SMS + Phishing
+- SMS
+- 문자메세지(SMS)
+- 문자메세지

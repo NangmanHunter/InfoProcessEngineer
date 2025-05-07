@@ -1,6 +1,8 @@
 - NetworkLayer
 - Network Layer
+- Network
 - Internet Layer
+- Internet
 - InternetLayer
 - IPLayer
 - IP Layer
@@ -12,3 +14,9 @@
 - 네트워크 계층
 - 인터넷 계층
 - 인터넷계층
+- 네트워크 계층(Network Layer, 망 계층)
+- 네트워크 계층
+- 네트워크계층
+- 네트워크
+- 망 계층
+- 망

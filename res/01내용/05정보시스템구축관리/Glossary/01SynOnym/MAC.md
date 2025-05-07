@@ -1,0 +1,16 @@
+﻿- MAC
+- Mandatory Access Control
+- Mandatory AccessControl
+- Mandatory
+- MandatoryAC
+- Mandatory AC
+- 강제적 접근통제
+- 강제적접근통제
+- 강제접근통제
+- 강제
+- 규칙 기반 정책
+- 규칙기반 정책
+- 규칙기반정책
+- 규칙정책
+- 규칙
+- 규칙기반

@@ -1,0 +1,16 @@
+- 역할기반접근통제
+- 역할 기반 접근통제(RBAC)
+- 역할 기반 접근통제
+- 역할기반 접근통제
+- RBAC
+- RBAC (Role-Based Access Control)
+- RBAC 
+- Role-Based Access Control
+- Role-Based AccessControl
+- Role-BasedAccessControl
+- RoleBasedAccessControl
+- RoleBasedAC
+- 역할
+- 역할지정
+- 역할부여
+- 사람▶️역할
