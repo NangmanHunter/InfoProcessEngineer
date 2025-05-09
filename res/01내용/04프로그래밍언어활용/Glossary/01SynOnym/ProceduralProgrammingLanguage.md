@@ -3,6 +3,18 @@
 - ProceduralProgrammingLanguage
 - Procedural Language
 - 절차적 프로그래밍 언어
+- 절차형 프로그래밍 언어
+- 절차형 프로그래밍언어
+- 절차형프로그래밍언어
+- 절차형언어
+- 절차형 언어
+- 절차형
+- 절차적 프로그래밍언어
+- 절차적프로그래밍언어
+- 절차적언어
+- 절차적 언어
+- 절차적
+- 절차
 - procedural programming
 - Procedural programming
 - Procedural Programming
