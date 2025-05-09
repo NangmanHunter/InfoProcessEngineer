@@ -1,0 +1,36 @@
+- 관계형 모델 (Relational)
+- 관계형 모델
+- 관계형모델
+- 관계형
+- 관계
+- 관계형 데이터모델
+- 관계형 데이터베이스
+- 관계형데이터베이스
+- 관계형DB
+- 관계형 DB
+- 관계형데이터모델
+- 관계데이터모델
+- 관계형 데이터 모델
+- Relational
+- RelationalDB
+- Relational DB
+- RDM
+- RM
+- RDB
+- RDBMS
+- RelationalModel
+- Relational Model
+- RelationalDataModel
+- Relational DataModel
+- Relational Data Model
+- 관계형 모델 (Relational Model)
+- HDB▶️NDB▶️RDB
+- 테이블 구조 (모든 관계 표현 가능)
+- 테이블 구조 
+- 테이블구조 
+- 테이블
+- Table
+- 모든 관계 표현 가능
+- 모든관계 표현 가능
+- 모든관계 표현가능
+- 모든관계표현가능

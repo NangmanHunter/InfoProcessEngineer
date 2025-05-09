@@ -1,0 +1,22 @@
+- Schema
+- Schema(스키마)
+- schema
+- 스키마
+- 스키마(Schema)
+- 데이터베이스 스키마(database schema)
+- 데이터베이스 스키마
+- 데이터베이스스키마
+- database schema
+- databaseschema
+- database-schema
+- Database-schema
+- Database-Schema
+- DatabaseSchema
+- Database Schema
+- Database_Schema
+- 자료의 구조, 자료의 표현 방법, 자료 간의 관계를 형식 언어로 정의한 구조
+- 3단계 스키마 구조(Three-Schema Architecture)
+- 외부 스키마, 개념 스키마, 내부 스키마
+- 외부스키마, 개념스키마, 내부스키마
+- 외부스키마ㆍ개념스키마ㆍ내부스키마
+- 외부스키마 개념스키마 내부스키마

@@ -5,6 +5,9 @@
 - AlternateKey
 - Alternate키
 - Alternate 키
+- AK
+- AKey
+- A Key
 - 보조키
 - 보조
 - 기본키를 제외한 나머지 후보키

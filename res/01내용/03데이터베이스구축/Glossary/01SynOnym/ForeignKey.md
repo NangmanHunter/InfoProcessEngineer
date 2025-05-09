@@ -7,6 +7,8 @@
 - foreignkey
 - foreignKey
 - FK
+- FKey
+- F Key
 - fk
 - 외래키
 - 외래
@@ -15,3 +17,8 @@
 - 참조하는
 - 참조
 - 참조키
+- 외래키(Foreign Key)
+- 외래키
+- Foreign Key
+- ForeignKey
+- Foreign키

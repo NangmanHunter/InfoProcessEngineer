@@ -5,3 +5,6 @@
 - 슈퍼키
 - 슈퍼
 - 슈퍼키(Super Key)
+- SK
+- SKey
+- S Key

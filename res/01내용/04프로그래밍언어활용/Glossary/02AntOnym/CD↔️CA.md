@@ -1,0 +1,2 @@
+- CD↔️CA
+- CSMA/CD↔️CSMA/CA

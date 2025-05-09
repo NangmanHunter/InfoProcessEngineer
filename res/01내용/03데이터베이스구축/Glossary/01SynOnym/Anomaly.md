@@ -1,0 +1,11 @@
+- 이상(Anomaly)
+- 이상
+- Anomaly
+- InsertionAnomalyㆍUpdateAnomalyㆍDeletionAnomaly
+- InsertionㆍUpdateㆍDeletionAnomaly
+- InsertionㆍUpdateㆍDeletion Anomaly
+- IAㆍUAㆍDA
+- IUDA
+- IUDAnomaly
+- IUD Anomaly
+- -nomaly▶️평평한, 규칙적인

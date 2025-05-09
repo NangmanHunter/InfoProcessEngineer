@@ -5,6 +5,9 @@
 - the number of its elements
 - 원소개수
 - 원소수
+- 자료수
+- 자료개수
+- |A|
 - $|A|$
 - $| |$
 - $|R|$

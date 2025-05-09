@@ -1,0 +1,8 @@
+- 외부 스키마 (External Schema)
+- 외부 스키마
+- 외부스키마
+- 외부
+- External Schema
+- ES
+- External
+- ExternalSchema

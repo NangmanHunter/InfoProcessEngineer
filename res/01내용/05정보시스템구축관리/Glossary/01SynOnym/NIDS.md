@@ -1,0 +1,5 @@
+- NIDS(Network-Based Intrusion Detection System)
+- NIDS
+- Network-Based Intrusion Detection System
+- 외부중점
+- 외부

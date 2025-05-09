@@ -3,6 +3,13 @@
 - 애트리뷰트
 - 속성
 - Attribute
+- 열
+- j
+- Column
+- Col
+- C
+- col
+- c
 - 키
 - 키속성
 - 키 속성
@@ -13,4 +20,8 @@
 - Key속성
 - Key 속성
 - Key
+- K
 - key
+- k
+- CKㆍSKㆍFK
+- CK(PKㆍAK)ㆍSKㆍFK

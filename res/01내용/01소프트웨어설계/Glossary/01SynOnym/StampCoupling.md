@@ -6,3 +6,8 @@
 - 스탬프결합도
 - Stamp Coupling
 - StampCoupling
+- Stamp
+- stamp
+- 도장
+- 데이터 구조 전체를 전달하는 방식
+- 데이터 구조 전체를 한 번에 찍듯이 넘긴다

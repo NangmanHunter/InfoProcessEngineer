@@ -1,5 +1,0 @@
-- 외래키(Foreign Key)
-- 외래키
-- Foreign Key
-- ForeignKey
-- Foreign키

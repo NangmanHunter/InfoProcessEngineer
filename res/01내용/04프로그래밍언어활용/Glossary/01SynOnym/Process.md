@@ -6,3 +6,8 @@
 - Job
 - 태스크
 - Task
+- 작업단위
+- 단위
+- 프로세스단위
+- Process>>Thread
+- SingleThreadㆍMultiThread

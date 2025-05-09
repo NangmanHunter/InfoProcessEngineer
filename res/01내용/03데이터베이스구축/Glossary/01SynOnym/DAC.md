@@ -42,3 +42,7 @@
 - -cret- 또는 -cretio, -cretum
 - cret 자라다
 - cret 분리하다
+- 권한부여-데이터소유자
+- 접근결정-신분(Identity)
+- 구현용이ㆍ유연함
+- 임의 접근통제(DAC; Discretionary Access Control)

@@ -1,0 +1,20 @@
+- CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
+- CSMA/CD (Carrier Sense Multiple/Collision Detection)
+- Carrier Sense Multiple/Collision Detection
+- CarrierSenseMultiple CollisionDetection
+- CarrierSenseMultiple-CollisionDetection
+- CarrierSenseMultiple_CollisionDetection
+- CSMA/CD
+- CSMA_CD
+- CSMA-CD
+- CD
+- 충돌을 허용한 뒤 감지하고 처리
+- 충돌이 발생하면 감지하고 (Collision Detection)▶️전송중단▶️임의시간후 재전송
+- 충돌이 발생한 후 대응
+- 이더넷 같은 유선 환경에 적합
+- 충돌 발생 후 감지(CD)
+- 유선 LAN (이더넷)
+- 충돌 감지 가능
+- 충돌 후 재전송 필요
+- 감지
+- 감지하여
