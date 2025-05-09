@@ -6,3 +6,15 @@
 - 분할
 - 파티션닝
 - 파티셔닝
+
+- Range Partitioning ㆍHash PartitioningㆍComposite PartitioningㆍList PartitioningㆍRoundRobin Partitioning
+- RangePartitioning ㆍHashPartitioningㆍCompositePartitioningㆍListPartitioningㆍRoundRobinPartitioning
+- Range ㆍHashㆍCompositeㆍListㆍRoundRobin
+- Range ㆍHashㆍCompositeㆍListㆍRoundRobinPartitioning
+- Range ㆍHashㆍCompositeㆍListㆍRoundRobin Partitioning
+- R ㆍHㆍCㆍLㆍRR Partitioning
+- R ㆍHㆍCㆍLㆍRRPartitioning
+- Partitioning-R ㆍHㆍCㆍLㆍRR
+- Partitioning R ㆍHㆍCㆍLㆍRR
+- PartitioningR ㆍHㆍCㆍLㆍRR
+- Partitioning▶️R ㆍHㆍCㆍLㆍRR

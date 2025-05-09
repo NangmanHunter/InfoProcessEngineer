@@ -35,3 +35,17 @@
 - 럼바우(Rumbaugh) 분석기법
 - 럼바우(Rumbaugh)분석기법
 - 럼바우(Rumbaugh)의 분석 기법
+
+
+
+
+- Object ModelingㆍDynamic ModelingㆍFunctional Modeling
+- ObjectModelingㆍDynamicModelingㆍFunctionalModeling
+- OMㆍDMㆍFM
+- OㆍDㆍF M
+- OㆍDㆍFM
+- ODF M
+- ODFM
+- ODF
+- Rumbaugh-ODF
+- Rumbaugh▶️ODF

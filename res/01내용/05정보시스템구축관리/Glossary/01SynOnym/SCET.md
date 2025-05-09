@@ -1,0 +1,42 @@
+- Software Cost Estimation Techniques
+- Software CostEstimation Techniques
+- SoftwareCostEstimation Techniques
+- SoftwareCostEstimationTechniques
+- Software Cost Estimation
+- SoftwareCost Estimation
+- Software CostEstimation
+- SoftwareCostEstimation
+- Cost Estimation
+- CostEstimation
+- 소프트웨어 비용 산정 기법
+- 소프트웨어 비용 산정기법
+- 소프트웨어 비용산정기법
+- 소프트웨어비용 산정기법
+- 소프트웨어비용산정기법
+- 소프트웨어 비용산정 기법
+- 소프트웨어비용산정 기법
+- 소프트웨어 비용산정기법
+- 소프트웨어 비용 산정
+- 소프트웨어비용 산정
+- 소프트웨어 비용산정
+- 소프트웨어비용산정
+- 비용 산정 기법
+- 비용 산정기법
+- 비용산정 기법
+- 비용산정기법
+- 비용산정
+- 비용 산정
+- 비용
+- SCET
+- CE
+- CET
+- SCE
+- 소프트웨어비용산정기법▶️상향식ㆍ하향식
+- 비용산정기법▶️상향식ㆍ하향식
+- 비용산정▶️상향식ㆍ하향식
+- 비용산정▶️⭕상향식ㆍ⭕하향식
+- 비용산정▶️⭕상향식ㆍ⭕하향식ㆍ❌혼합식
+- 비용산정▶️⭕상향식ㆍ하향식ㆍ❌혼합식
+- 비용산정▶️⭕상향식하향식ㆍ❌혼합식
+- 비용산정▶️⭕상향식하향식❌혼합식
+- 비용산정▶️❌혼합식

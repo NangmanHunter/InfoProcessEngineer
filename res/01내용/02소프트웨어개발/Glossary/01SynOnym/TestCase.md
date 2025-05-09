@@ -5,3 +5,5 @@
 - Test Case
 - TestCase
 - Case
+- 테스트 항목에 대한 명세서
+- 명세 기반 테스트의 설계 산출물

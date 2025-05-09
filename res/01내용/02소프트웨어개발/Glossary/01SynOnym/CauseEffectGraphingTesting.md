@@ -1,10 +1,20 @@
 - 원인-효과 그래프 검사(Cause-Effect Graphing Testing)
 - 원인-효과 그래프 검사
 - 원인-효과그래프 검사
+- 원인-효과그래프
+- 원인-효과 그래프
+- 원인효과 그래프
+- 원인 효과 그래프
 - 원인-효과그래프검사
 - 원인효과그래프검사
 - 원인효과그래프 검사
 - 원인효과 그래프 검사
+- 원인 결과 그래프
+- 원인 결과 그래프검사
+- 원인결과 그래프
+- 원인결과 그래프검사
+- 원인결과그래프
+- 원인결과그래프검사
 - Cause-Effect Graphing Testing
 - Cause-Effect Graphing
 - Cause-Effect Graph Testing
@@ -32,3 +42,4 @@
 - C.E.G
 - CEG
 - CEGT
+- CEG-T

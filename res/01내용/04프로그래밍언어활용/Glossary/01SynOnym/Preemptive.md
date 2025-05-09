@@ -1,0 +1,27 @@
+- Preemptive
+- preemptive
+- pre- -empt -ive
+- -empt
+- emere(라틴어)▶️사다, 취하다(take)
+- empty는 Old English ‘ǣmettig’에서 유래▶️empt와 어원이 전혀 다름 (비슷하게 보여도 다른 뿌리)
+- 선점형: 새로운 작업이 오면 현재 작업이라도 강제로 중단 가능
+- 중단가능
+- 중단
+- 선점
+- 선점성
+- 더 중요한 작업이 오면 현재 작업을 중단
+- 빠름 (긴급 작업 처리 용이)
+- 복잡함 (문맥 교환, 오버헤드 있음)
+- 다른 작업이 오면 현재 작업 중단 가능
+- 비선점형▶️선점형
+- NonPreemptive▶️Preemptive
+- NP▶️P
+- FCFSㆍSJFㆍHRN▶️SRT
+- FCFSㆍSJFㆍHRN▶️SRTF
+- 선점형 스케줄링
+- 선점형스케줄링
+- 선점스케줄링
+- 선점 스케줄링
+- Preemptive스케줄링
+- Preemptive
+- 선점형

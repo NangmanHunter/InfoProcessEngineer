@@ -1,3 +1,11 @@
 ﻿- Class
 - class
 - 클래스
+- Class= Attribute + Operation
+- Attribute + Operation
+- Attribute+Operation
+- AttributeㆍOperation
+- AㆍO
+- AO
+- Class=AO
+- Class▶️AO

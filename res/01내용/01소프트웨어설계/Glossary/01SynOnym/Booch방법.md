@@ -7,3 +7,8 @@
 - Booch
 - Booch방식
 - Booch 방식
+- MacroProcessㆍMicroProcess
+- MacroㆍMicro
+- MACㆍMIC
+- MAㆍMI
+- MaㆍMi

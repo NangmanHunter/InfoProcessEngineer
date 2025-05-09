@@ -1,4 +1,9 @@
 - Ma
+- MA
+- MAC
+- MaC
+- Mac
+- MaCro
 - Macro
 - 거
 - 거시

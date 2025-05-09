@@ -5,3 +5,5 @@
 - Putnam모형
 - PutnamModel
 - Putnam Model
+- 푸트남
+- 푸트남모형

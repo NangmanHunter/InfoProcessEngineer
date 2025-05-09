@@ -1,4 +1,10 @@
 - Attribute
+- AttributeDB
+- Attribute DB
+- DBAttribute
+- DBMS Attribute
+- DBMSAttribute
+- DB Attribute
 - 속성
 - 열
 - col

@@ -1,0 +1,16 @@
+- 예상 결과	
+- 예상결과	
+- 예상
+- Expected Result
+- ExpectedResult
+- ER
+- EO
+- EB
+- 기대 결과
+- 기대
+- 기대결과
+- 결과
+- Expected Output
+- ExpectedOutput
+- Expected Behavior
+- ExpectedBehavior

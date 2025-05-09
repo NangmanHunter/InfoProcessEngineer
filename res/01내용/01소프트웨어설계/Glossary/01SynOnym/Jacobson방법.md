@@ -7,3 +7,8 @@
 - 자콥슨
 - 제이콥슨방법
 - 제이콥슨
+- UseCase강조
+- UseCase
+- Use-Case
+- UseCase방법
+- UC

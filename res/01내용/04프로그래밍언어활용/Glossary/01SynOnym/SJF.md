@@ -1,5 +1,8 @@
 - SJF(Shortest Job First, 단기 작업 우선)
 - SJF
+- SJ
+- SJ First
+- SJFirst
 - SJF스케줄링
 - SJF스케줄링알고리즘
 - SJF스케줄링 알고리즘
@@ -26,3 +29,5 @@
 - 최단 서비스시간 우선
 - 서비스시간우선 원칙
 - 서비스시간 우선 원칙
+- 비선점형
+- 전체 작업 시간 (Shortest Job First)

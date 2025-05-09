@@ -1,0 +1,6 @@
+- W↔️B
+- White↔️Black
+- WhiteBox↔️BlackBox
+- WhiteBoxTest↔️BlackBoxTest
+- WhiteBoxTesting↔️BlackBoxTesting
+- WBT↔️BBT

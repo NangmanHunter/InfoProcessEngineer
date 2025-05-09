@@ -13,6 +13,7 @@
 - BVA
 - BVATesting
 - BVAT
+- BVA-T
 - BVA Testing
 - BV
 - Boundary-Value Analysis

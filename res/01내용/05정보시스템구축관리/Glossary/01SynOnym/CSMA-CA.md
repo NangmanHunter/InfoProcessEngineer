@@ -2,7 +2,11 @@
 - CSMA/CA
 - CSMA-CA
 - CSMA_CA
+- CSMACA
+- CSMAㆍCA
 - CA
+- A
+- Avoidance
 - CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)
 - Carrier Sense Multiple Access/Collision Avoidance
 - Carrier Sense Multiple Access_Collision Avoidance
@@ -24,10 +28,17 @@
 - 충돌미리회피
 - 미리회피
 - 무선 LAN (Wi-Fi)
+- 무선 LAN
+- 무선LAN
+- 무선
+- 무
+- Wi-Fi
+- WiFi
 - 충돌 발생 전 회피(CA)
 - 감지 불가능 (회피만 가능)
 - 회피 절차로 인해 지연 가능
 - 회피
+- 충돌회피
 - 대비
 - 대비하여
 - CD❌▶️Half-duplex특성▶️송신중 수신신호를 확인할수없어 충돌여부를 즉시알수없음
