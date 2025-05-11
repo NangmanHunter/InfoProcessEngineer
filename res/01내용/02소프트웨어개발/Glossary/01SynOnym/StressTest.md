@@ -1,13 +1,13 @@
-- 강도(Stress) 테스트
-- 강도(Stress)테스트
-- Stress테스트
+﻿- Stress
+- Stress Test
 - Stress 테스트
 - StressTest
-- Stress Test
-- Stress
-- 강도테스트
+- Stress테스트
 - 강도
 - 강도 테스트
+- 강도(Stress) 테스트
+- 강도(Stress)테스트
+- 강도테스트
+- 과부하
 - 과부하 시에도 소프트웨어가 정상적으로 실행되는지
 - 과부하테스트
-- 과부하

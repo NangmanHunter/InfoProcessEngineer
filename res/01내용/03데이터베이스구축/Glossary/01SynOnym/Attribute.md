@@ -1,14 +1,14 @@
-- Attribute
-- AttributeDB
+﻿- Attribute
 - Attribute DB
+- AttributeDB
+- col
+- Column
+- column
+- DB Attribute
 - DBAttribute
 - DBMS Attribute
 - DBMSAttribute
-- DB Attribute
-- 속성
-- 열
-- col
 - j
-- column
-- Column
+- 속성
 - 속성(Attribute)
+- 열

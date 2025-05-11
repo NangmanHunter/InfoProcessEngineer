@@ -1,4 +1,4 @@
-- 제산법(Division)
-- 제산법
-- Division
+﻿- Division
 - Division법
+- 제산법
+- 제산법(Division)

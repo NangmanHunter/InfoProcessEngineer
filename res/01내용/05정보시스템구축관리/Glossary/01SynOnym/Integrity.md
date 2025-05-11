@@ -1,3 +1,3 @@
-- 무결성(Integrity)
+﻿- Integrity
 - 무결성
-- Integrity
+- 무결성(Integrity)

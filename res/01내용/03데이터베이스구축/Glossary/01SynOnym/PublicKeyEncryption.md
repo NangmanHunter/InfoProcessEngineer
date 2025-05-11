@@ -1,19 +1,19 @@
-- Public Key Encryption
+﻿- Public Key Encryption
 - PublicKeyEncryption
+- Secret Key Encryption
+- SecretKeyEncryption
 - 공개키 암호 방식
-- 비대칭 암호 방식
+- 다른키 암호화 기법
 - 비대칭 암호 기법
+- 비대칭 암호 방식
 - 비대칭 암호기법
 - 비대칭암호기법
-- 비대칭키암호기법
+- 비대칭키 암호 기법
 - 비대칭키 암호기법
 - 비대칭키 암호화
 - 비대칭키 암호화 방식
 - 비대칭키 암호화방식
+- 비대칭키암호기법
 - 비대칭키암호화방식
-- 비대칭키 암호 기법
-- 다른키 암호화 기법
-- 상이키 암호화 기법
 - 비밀키 암호화 기법
-- Secret Key Encryption
-- SecretKeyEncryption
+- 상이키 암호화 기법

@@ -1,22 +1,22 @@
-- 나쁜 코드(Bad Code)
-- 나쁜코드(BadCode)
-- 나쁜코드
-- BadCode
-- Bad-Code
-- bad-code
-- badcode
-- badCode
-- Bad코드
+﻿- Bad Code
 - Bad 코드
-- Bad Code
+- badcode
+- BadCode
+- badCode
+- bad-code
+- Bad-Code
+- Bad코드
+- 나쁜 코드(Bad Code)
+- 나쁜코드
+- 나쁜코드(BadCode)
+- 난해
+- 로직복잡
 - 로직이 복잡
 - 로직이복잡
-- 로직복잡
 - 복잡로직
+- 어려운이해
+- 이해어려운
 - 이해하기 어려운 프로그램
 - 이해하기 어려운프로그램
-- 이해하기어려운프로그램
 - 이해하기어려운
-- 이해어려운
-- 어려운이해
-- 난해
+- 이해하기어려운프로그램

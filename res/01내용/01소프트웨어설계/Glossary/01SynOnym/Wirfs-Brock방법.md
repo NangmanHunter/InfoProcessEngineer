@@ -1,18 +1,18 @@
-- Wirfs-Brock방법
-- WirfsBrock방법
+﻿- RDD
+- Responsibility-Driven Design
 - WirfsBrock
 - Wirfs-Brock 방법
 - Wirfs-Brock 방법 (Wirfs-Brock Method)
-- 책임 중심 설계(Responsibility-Driven Design, RDD) 개념
+- WirfsBrock방법
+- Wirfs-Brock방법
+- 단순히 데이터가 아니라 
+- 단순히 데이터가 아니라, 행동(behavior) 중심
+- 유지보수성과 확장성이 높은 설계
 - 책임 중심 설계
+- 책임 중심 설계(Responsibility-Driven Design, RDD) 개념
 - 책임중심 설계
 - 책임중심설계
-- Responsibility-Driven Design
-- RDD
-- 단순히 데이터가 아니라, 행동(behavior) 중심
-- 단순히 데이터가 아니라 
+- 초보자보다는 설계 경험이 있는 개발자에게 적합
 - 행동(behavior) 중심
 - 행위 중심(Behavior-centric) 접근
 - 협력 기반 설계
-- 유지보수성과 확장성이 높은 설계
-- 초보자보다는 설계 경험이 있는 개발자에게 적합

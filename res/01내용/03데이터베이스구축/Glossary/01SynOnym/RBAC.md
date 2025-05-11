@@ -1,20 +1,20 @@
-- 역할기반접근통제
-- 역할 기반 접근통제(RBAC)
-- 역할 기반 접근통제
-- 역할기반 접근통제
-- RBAC
-- RBAC (Role-Based Access Control)
+﻿- RBAC
 - RBAC 
+- RBAC (Role-Based Access Control)
 - Role-Based Access Control
 - Role-Based AccessControl
-- Role-BasedAccessControl
-- RoleBasedAccessControl
 - RoleBasedAC
-- 역할
-- 역할지정
-- 역할부여
-- 사람▶️역할
-- 역할기반 접근통제(RBAC; Role Based Access Control)
-- 권한부여-중앙관리자
-- 접근결정-역할(Role)
+- RoleBasedAccessControl
+- Role-BasedAccessControl
 - 관리용이
+- 권한부여-중앙관리자
+- 사람▶️역할
+- 역할
+- 역할 기반 접근통제
+- 역할 기반 접근통제(RBAC)
+- 역할기반 접근통제
+- 역할기반 접근통제(RBAC; Role Based Access Control)
+- 역할기반접근통제
+- 역할부여
+- 역할지정
+- 접근결정-역할(Role)

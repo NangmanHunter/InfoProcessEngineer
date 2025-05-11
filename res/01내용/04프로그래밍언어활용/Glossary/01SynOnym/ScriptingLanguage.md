@@ -1,15 +1,15 @@
-- 스크립트 프로그래밍 언어(script programming language)
+﻿- S
+- Script Language
+- script programming language
+- Scripting Language
+- Scripting language
+- scripting language
+- ScriptingLanguage
+- ScriptLanguage
+- SL
+- 스크립트 언어
 - 스크립트 프로그래밍 언어
+- 스크립트 프로그래밍 언어(script programming language)
+- 스크립트언어
 - 스크립트프로그래밍 언어
 - 스크립트프로그래밍언어
-- script programming language
-- scripting language
-- Scripting language
-- Scripting Language
-- ScriptingLanguage
-- Script Language
-- ScriptLanguage
-- 스크립트 언어
-- 스크립트언어
-- SL
-- S

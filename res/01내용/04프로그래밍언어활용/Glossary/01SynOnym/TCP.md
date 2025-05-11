@@ -1,13 +1,13 @@
-- TCP(Transmission Control Protocol)
-- TCP
-- Transmission Control Protocol
+﻿- Connection Oriented Service
+- connection-oriented service
+- ConnectionOrientedService
+- connection-oriented-service
+- Connection-Oriented-Service
 - COS
 - CS
-- Connection Oriented Service
-- Connection-Oriented-Service
-- ConnectionOrientedService
+- TCP
+- TCP(Transmission Control Protocol)
 - Transmission Control 
+- Transmission Control Protocol
 - TransmissionControl 
 - TransmissionControlProtocol
-- connection-oriented service
-- connection-oriented-service

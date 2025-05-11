@@ -1,26 +1,26 @@
-- HRN(Hightest Response-ratio Next)
+﻿- Hightest Response-ratio Next
 - HRN
-- Hightest Response-ratio Next
+- HRN Scheduling
+- HRN 스케줄링 알고리즘
+- HRN 스케줄링알고리즘
+- HRN(Hightest Response-ratio Next)
+- HRN_Scheduling
+- HRNScheduling
+- HRN-Scheduling
 - HRN방식
-- HRN방식으로 스케줄링
-- HRN방식으로스케줄링
 - HRN방식 스케줄링
 - HRN방식스케줄링
+- HRN방식으로 스케줄링
+- HRN방식으로스케줄링
 - HRN스케줄링
-- HRN스케줄링알고리즘
 - HRN스케줄링 알고리즘
-- HRN 스케줄링알고리즘
-- HRN 스케줄링 알고리즘
-- HRNScheduling
-- HRN_Scheduling
-- HRN-Scheduling
-- HRN Scheduling
-- 우선순위 계산식 =(대기 시간+서비스 시간)/서비스 시간
-- 우선순위 계산식 =(대기 시간)/서비스 시간 + 1
+- HRN스케줄링알고리즘
 - 우선순위 = (대기시간 + 서비스시간)/서비스시간
-- 우선순위 = 대기시간/서비스시간 + 1 
-- 우선순위 = 대기/서비스시간 + 1 
-- 우선순위 = 대기/서비스 + 1 
 - 우선순위 = 대기 시간/서비스 시간 + 1 
-- 우선순위 = 대기시간/서비스시간
 - 우선순위 = 대기/서비스
+- 우선순위 = 대기/서비스 + 1 
+- 우선순위 = 대기/서비스시간 + 1 
+- 우선순위 = 대기시간/서비스시간
+- 우선순위 = 대기시간/서비스시간 + 1 
+- 우선순위 계산식 =(대기 시간)/서비스 시간 + 1
+- 우선순위 계산식 =(대기 시간+서비스 시간)/서비스 시간

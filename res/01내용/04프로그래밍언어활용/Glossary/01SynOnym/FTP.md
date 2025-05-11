@@ -1,11 +1,11 @@
-- FTP(File Transfer Protocol)
-- FTP
-- File Transfer Protocol
+﻿- File Transfer Protocol
+- FileTransfer
 - FileTransfer Protocol
 - FileTransferProtocol
-- FileTransfer
-- 파일전송프로토콜
-- 파일전송 프로토콜
+- FTP
+- FTP(File Transfer Protocol)
+- 파일 전송
 - 파일 전송 프로토콜
 - 파일전송
-- 파일 전송
+- 파일전송 프로토콜
+- 파일전송프로토콜

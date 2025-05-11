@@ -1,44 +1,44 @@
-- 망형 모델 (Network)
-- 망형 모델 (Network Model)
-- 네트워크형 모델 (Network)
-- 망형 모델
-- 네트워크형 모델
-- 망형모델
-- 네트워크형모델
-- 망형
-- 망
-- 네트워크형
-- 네트워크
-- 망형 데이터모델
-- 네트워크형 데이터모델
-- 망형 데이터베이스
-- 네트워크형 데이터베이스
-- 망형데이터베이스
-- 네트워크형데이터베이스
-- 망형DB
-- 네트워크형DB
-- 망형 DB
-- 네트워크형 DB
-- 망형데이터모델
-- 네트워크형데이터모델
-- 망형 데이터 모델
-- 네트워크형 데이터 모델
-- Network
-- NetworkDB
-- Network DB
+﻿- Graph
+- HDB▶️NDB
 - ND
-- NDM
 - NDB
 - NDBMS
-- HDB▶️NDB
-- NetworkModel
+- NDM
+- Network
+- Network Data Model
+- Network DataModel
+- Network DB
 - Network Model
 - NetworkDataModel
-- Network DataModel
-- Network Data Model
-- 그래프(Graph) 구조
-- 그래프 구조
-- 그래프구조
+- NetworkDB
+- NetworkModel
 - 그래프
-- Graph
+- 그래프 구조
+- 그래프(Graph) 구조
+- 그래프구조
+- 네트워크
+- 네트워크형
+- 네트워크형 DB
+- 네트워크형 데이터 모델
+- 네트워크형 데이터모델
+- 네트워크형 데이터베이스
+- 네트워크형 모델
+- 네트워크형 모델 (Network)
+- 네트워크형DB
+- 네트워크형데이터모델
+- 네트워크형데이터베이스
+- 네트워크형모델
 - 레코드 간의 복잡한 관계를 표현
+- 망
+- 망형
+- 망형 DB
+- 망형 데이터 모델
+- 망형 데이터모델
+- 망형 데이터베이스
+- 망형 모델
+- 망형 모델 (Network Model)
+- 망형 모델 (Network)
+- 망형DB
+- 망형데이터모델
+- 망형데이터베이스
+- 망형모델

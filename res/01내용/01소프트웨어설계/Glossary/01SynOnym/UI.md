@@ -1,6 +1,6 @@
-﻿- UI
-- I
+﻿- I
+- Interface
+- UI
 - User Interface
 - UserInterface
-- Interface
 - 사용자인터페이스

@@ -1,3 +1,3 @@
-- 액터(Actor)
+﻿- Actor
 - 액터
-- Actor
+- 액터(Actor)

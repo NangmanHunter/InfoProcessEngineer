@@ -1,15 +1,15 @@
-- 대체키(Alternate Key)
-- 대체키
-- 대체
-- Alternate Key
-- AlternateKey
-- Alternate키
-- Alternate 키
+﻿- A Key
 - AK
 - AKey
-- A Key
-- 보조키
-- 보조
+- Alternate Key
+- Alternate 키
+- AlternateKey
+- Alternate키
 - 기본키를 제외한 나머지 후보키
 - 기본키를제외한 나머지후보키
 - 기본키제외한 나머지후보키
+- 대체
+- 대체키
+- 대체키(Alternate Key)
+- 보조
+- 보조키

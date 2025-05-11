@@ -1,24 +1,24 @@
+﻿- F Key
+- FK
+- fk
+- FKey
 - Foreign Key
+- Foreign Key
+- Foreign key
 - ForeignKey
 - Foreignkey
-- Foreign key
-- Foreign-key
-- foreign-key
+- ForeignKey
 - foreignkey
 - foreignKey
-- FK
-- FKey
-- F Key
-- fk
-- 외래키
+- Foreign-key
+- foreign-key
+- Foreign키
 - 외래
-- 참조하는속성
-- 참조하는키
-- 참조하는
+- 외래키
+- 외래키
+- 외래키(Foreign Key)
 - 참조
 - 참조키
-- 외래키(Foreign Key)
-- 외래키
-- Foreign Key
-- ForeignKey
-- Foreign키
+- 참조하는
+- 참조하는속성
+- 참조하는키

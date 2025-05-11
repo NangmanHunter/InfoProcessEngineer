@@ -1,2 +1,2 @@
-- Structural↔️Behavioral
+﻿- Structural↔️Behavioral
 - StructuralDiagram↔️BehavioralDiagram

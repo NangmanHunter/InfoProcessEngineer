@@ -1,20 +1,20 @@
-- Partitioning
+﻿
 - Partition
-- Partition하다
-- Partition하는것
+- Partitioning
+- Partitioning R ㆍHㆍCㆍLㆍRR
+- Partitioning▶️R ㆍHㆍCㆍLㆍRR
+- PartitioningR ㆍHㆍCㆍLㆍRR
+- Partitioning-R ㆍHㆍCㆍLㆍRR
 - Partition분할
-- 분할
-- 파티션닝
-- 파티셔닝
-
-- Range Partitioning ㆍHash PartitioningㆍComposite PartitioningㆍList PartitioningㆍRoundRobin Partitioning
-- RangePartitioning ㆍHashPartitioningㆍCompositePartitioningㆍListPartitioningㆍRoundRobinPartitioning
-- Range ㆍHashㆍCompositeㆍListㆍRoundRobin
-- Range ㆍHashㆍCompositeㆍListㆍRoundRobinPartitioning
-- Range ㆍHashㆍCompositeㆍListㆍRoundRobin Partitioning
+- Partition하는것
+- Partition하다
 - R ㆍHㆍCㆍLㆍRR Partitioning
 - R ㆍHㆍCㆍLㆍRRPartitioning
-- Partitioning-R ㆍHㆍCㆍLㆍRR
-- Partitioning R ㆍHㆍCㆍLㆍRR
-- PartitioningR ㆍHㆍCㆍLㆍRR
-- Partitioning▶️R ㆍHㆍCㆍLㆍRR
+- Range Partitioning ㆍHash PartitioningㆍComposite PartitioningㆍList PartitioningㆍRoundRobin Partitioning
+- Range ㆍHashㆍCompositeㆍListㆍRoundRobin
+- Range ㆍHashㆍCompositeㆍListㆍRoundRobin Partitioning
+- Range ㆍHashㆍCompositeㆍListㆍRoundRobinPartitioning
+- RangePartitioning ㆍHashPartitioningㆍCompositePartitioningㆍListPartitioningㆍRoundRobinPartitioning
+- 분할
+- 파티셔닝
+- 파티션닝

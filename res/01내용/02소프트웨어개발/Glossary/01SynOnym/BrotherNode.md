@@ -1,6 +1,6 @@
+﻿- Brother Node
 - BrotherNode
-- Brother Node
-- Sibling Node
 - Sibling
+- Sibling Node
 - 형제
 - 형제노드

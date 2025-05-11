@@ -1,7 +1,7 @@
-- 삽입 이상(Insertion Anomaly)
-- 삽입 이상
-- 삽입이상
-- 삽입
+﻿- Insertion
 - Insertion Anomaly
 - InsertionAnomaly
-- Insertion
+- 삽입
+- 삽입 이상
+- 삽입 이상(Insertion Anomaly)
+- 삽입이상

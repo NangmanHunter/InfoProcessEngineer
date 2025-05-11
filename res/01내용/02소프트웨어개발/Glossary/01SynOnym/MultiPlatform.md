@@ -1,10 +1,10 @@
-- MultiPlatform
+﻿- Cross
+- Cross Platform
+- CrossPlatform
 - Multi
-- 멀티플팻폼
-- 크로스플팻폼
-- 크로스
+- MultiPlatform
 - 멀티
 - 멀티 플팻폼
-- Cross Platform
-- Cross
-- CrossPlatform
+- 멀티플팻폼
+- 크로스
+- 크로스플팻폼

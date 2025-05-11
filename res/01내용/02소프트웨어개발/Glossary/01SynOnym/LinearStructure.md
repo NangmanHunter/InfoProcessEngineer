@@ -1,7 +1,7 @@
-- 선형 구조(Linear Structure)
-- 선형 구조
-- 선형구조
-- 선형
+﻿- Linear
 - Linear Structure
 - LinearStructure
-- Linear
+- 선형
+- 선형 구조
+- 선형 구조(Linear Structure)
+- 선형구조

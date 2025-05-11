@@ -1,27 +1,27 @@
-- 튜플들을 서로 구분할 수 있는 기준이 되는 애트리뷰트
-- 기준이 되는 애트리뷰트
-- 애트리뷰트
-- 속성
-- Attribute
-- 열
-- j
-- Column
-- Col
-- C
-- col
+﻿- Attribute
 - c
-- 키
-- 키속성
-- 키 속성
-- 키Attribute
-- 키 Attribute
-- Key Attribute
-- KeyAttribute
-- Key속성
-- Key 속성
-- Key
+- C
+- CK(PKㆍAK)ㆍSKㆍFK
+- CKㆍSKㆍFK
+- Col
+- col
+- Column
+- j
+- k
 - K
 - key
-- k
-- CKㆍSKㆍFK
-- CK(PKㆍAK)ㆍSKㆍFK
+- Key
+- Key Attribute
+- Key 속성
+- KeyAttribute
+- Key속성
+- 기준이 되는 애트리뷰트
+- 속성
+- 애트리뷰트
+- 열
+- 키
+- 키 Attribute
+- 키 속성
+- 키Attribute
+- 키속성
+- 튜플들을 서로 구분할 수 있는 기준이 되는 애트리뷰트

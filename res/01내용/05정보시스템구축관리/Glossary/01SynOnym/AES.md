@@ -1,6 +1,6 @@
-- AES(Advanced Encryption Standard)
-- AES
-- Advanced Encryption Standard
+﻿- Advanced Encryption Standard
 - Advanced EncryptionStandard
 - AdvancedEncryption Standard
 - AdvancedEncryptionStandard
+- AES
+- AES(Advanced Encryption Standard)

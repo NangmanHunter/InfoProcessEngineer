@@ -1,17 +1,17 @@
-﻿- Software Process Improvement and Capability dEtermination
+﻿- ISO/IEC 15504
+- Software Process Improvement and Capability dEtermination
 - SPICE
-- 소프트웨어 처리 개선 및 능력 평가 기준
 - SPICE(Software Process Improvement and Capability dEtermination)
 - SPICE(소프트웨어 처리 개선 및 능력 평가 기준)
+- 국제 표준
+- 국제표준
+- 소프트웨어 처리 개선 및 능력 평가 기준
 - 소프트웨어 프로세스를 평가 및 개선하는 국제 표준
-- 프로세스를 평가 및 개선하는 국제 표준
-- 프로세스를 평가및개선하는 국제표준
-- 프로세스 평가및개선하는 국제표준
+- 프로세스
 - 프로세스 평가
 - 프로세스 평가 및 개선
 - 프로세스 평가및개선
+- 프로세스 평가및개선하는 국제표준
+- 프로세스를 평가 및 개선하는 국제 표준
+- 프로세스를 평가및개선하는 국제표준
 - 프로세스평가
-- 프로세스
-- 국제 표준
-- 국제표준
-- ISO/IEC 15504

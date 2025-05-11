@@ -1,13 +1,13 @@
 ﻿- UML
-- Unified Modeling Language
 - UML(Unified Modeling Language)
-- 통합 모델링 언어
-- 통합모델링언어
+- Unified Modeling Language
 - 범용 모델링 언어
 - 범용모델링언어
+- 통합 모델링 언어
+- 통합모델링언어
+- 표준모델링언어
+- 표준범용모델링언어
 - 표준화된 범용 모델링 언어
 - 표준화된 범용모델링언어
 - 표준화된범용모델링언어
 - 표준화범용모델링언어
-- 표준범용모델링언어
-- 표준모델링언어

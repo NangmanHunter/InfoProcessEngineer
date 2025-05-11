@@ -1,13 +1,13 @@
+﻿- Check In
+- Check In
+- Check_In
+- checkIn
 - CheckIn
 - Checkin
-- Check-in
-- check-in
 - checkin
-- checkIn
-- Check In
-- 체크인
-- 체크 인
-- Check_In
+- Check-in
 - Check-In
-- Check In
+- check-in
+- 체크 인
+- 체크인
 - 체크인(Check-In)

@@ -1,17 +1,17 @@
-- 패킷 혹은 UDP의 데이터그램
-- 패킷 혹은 UDP데이터그램
-- 패킷 혹은 데이터그램
-- 패킷 
-- 데이터그램
-- TCP패킷
-- TCPPacket
-- TCP Packet
+﻿- Datagram
 - Packet
-- PacketDatagram
+- Packet / Datagram
 - Packet Datagram
 - Packet/Datagram
-- Packet / Datagram
+- PacketDatagram
 - PacketㆍDatagram
-- Datagram
-- UDPDatagram
+- TCP Packet
+- TCPPacket
+- TCP패킷
 - UDP Datagram
+- UDPDatagram
+- 데이터그램
+- 패킷 
+- 패킷 혹은 UDP데이터그램
+- 패킷 혹은 UDP의 데이터그램
+- 패킷 혹은 데이터그램

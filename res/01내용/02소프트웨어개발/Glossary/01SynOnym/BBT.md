@@ -1,15 +1,15 @@
-- 블랙박스 테스트 (Black Box Test) 
+﻿- BBT
+- Black Box Test
+- Black Box Testing
+- Black BoxTest
+- Black BoxTesting
+- BlackBox Test
+- BlackBox Testing
+- Black-box Testing
+- BlackBoxTest
+- BlackBoxTesting
 - 블랙박스 테스트
+- 블랙박스 테스트 (Black Box Test) 
+- 블랙박스 테스트(Black-box Testing) 
 - 블랙박스테스트
 - 블랙박스테스트팅
-- 블랙박스 테스트(Black-box Testing) 
-- Black-box Testing
-- Black Box Test
-- Black BoxTest
-- BlackBox Test
-- BlackBoxTest
-- Black Box Testing
-- Black BoxTesting
-- BlackBox Testing
-- BlackBoxTesting
-- BBT

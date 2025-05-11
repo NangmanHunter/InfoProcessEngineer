@@ -1,18 +1,18 @@
-- 옵서버(Observer)
-- 옵저버(Observer)
-- 옵서버(Observer) 패턴
-- 옵저버(Observer) 패턴
-- 옵서버(Observer)패턴
-- 옵저버(Observer)패턴
-- 옵서버패턴(Observer)
-- 옵저버패턴(Observer)
-- 옵서버패턴
-- 옵저버패턴
-- Observer
-- Observer패턴
-- Observer 패턴
-- ObserverPattern
-- Observer Pattern
-- ObserverDesignPattern
-- Observer DesignPattern
+﻿- Observer
 - Observer Design Pattern
+- Observer DesignPattern
+- Observer Pattern
+- Observer 패턴
+- ObserverDesignPattern
+- ObserverPattern
+- Observer패턴
+- 옵서버(Observer)
+- 옵서버(Observer) 패턴
+- 옵서버(Observer)패턴
+- 옵서버패턴
+- 옵서버패턴(Observer)
+- 옵저버(Observer)
+- 옵저버(Observer) 패턴
+- 옵저버(Observer)패턴
+- 옵저버패턴
+- 옵저버패턴(Observer)

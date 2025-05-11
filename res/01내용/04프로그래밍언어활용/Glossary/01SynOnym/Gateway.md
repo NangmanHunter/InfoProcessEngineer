@@ -1,3 +1,3 @@
-- 게이트웨이(Gateway)
+﻿- Gateway
 - 게이트웨이
-- Gateway
+- 게이트웨이(Gateway)

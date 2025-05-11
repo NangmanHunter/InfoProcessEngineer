@@ -1,3 +1,3 @@
-- 사물(Things)
+﻿- Things
 - 사물
-- Things
+- 사물(Things)

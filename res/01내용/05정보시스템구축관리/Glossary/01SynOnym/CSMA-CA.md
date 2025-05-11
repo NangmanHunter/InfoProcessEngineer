@@ -1,46 +1,46 @@
-- CSMA/CA(Carrier Sense Multiple Access/Collision Avoidance)
-- CSMA/CA
-- CSMA-CA
-- CSMA_CA
-- CSMACA
-- CSMAㆍCA
-- CA
-- A
+﻿- A
 - Avoidance
-- CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)
+- CA
 - Carrier Sense Multiple Access/Collision Avoidance
 - Carrier Sense Multiple Access_Collision Avoidance
 - Carrier Sense Multiple Access-Collision Avoidance
-- CarrierSenseMultipleAccess-CollisionAvoidance
 - CarrierSenseMultipleAccess CollisionAvoidance
-- CarrierSenseMultipleAccessCollisionAvoidance
 - CarrierSenseMultipleAccess_CollisionAvoidance
+- CarrierSenseMultipleAccessCollisionAvoidance
+- CarrierSenseMultipleAccess-CollisionAvoidance
+- CD❌▶️Half-duplex특성▶️송신중 수신신호를 확인할수없어 충돌여부를 즉시알수없음
+- CD❌▶️간섭과 신호반사
+- CD❌▶️전파감쇠와 거리문제 (Hidden Node Problem)
+- CSMA/CA
+- CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)
+- CSMA/CA(Carrier Sense Multiple Access/Collision Avoidance)
+- CSMA_CA
+- CSMACA
+- CSMA-CA
+- CSMAㆍCA
+- WiFi
+- Wi-Fi
+- 감지 불가능 (회피만 가능)
+- 대비
+- 대비하여
 - 매체가 비어있음을 확인한 뒤 충돌을 회피
 - 매체가 비어있음을 확인한뒤 충돌회피
 - 매체가비어있음을 확인한뒤 충돌회피
-- 매체비어있음을 확인한뒤 충돌회피
 - 매체비어있음 확인한뒤 충돌회피
+- 매체비어있음을 확인한뒤 충돌회피
+- 무
+- 무선
+- 무선 LAN
+- 무선 LAN (Wi-Fi)
+- 무선LAN
+- 미리회피
+- 충돌 미리회피
+- 충돌 미리회피하려고시도
+- 충돌 발생 전 회피(CA)
+- 충돌미리회피
 - 충돌을 미리 회피하려고 시도
 - 충돌을 미리회피하려고 시도
 - 충돌을 미리회피하려고시도
-- 충돌 미리회피하려고시도
-- 충돌 미리회피
-- 충돌미리회피
-- 미리회피
-- 무선 LAN (Wi-Fi)
-- 무선 LAN
-- 무선LAN
-- 무선
-- 무
-- Wi-Fi
-- WiFi
-- 충돌 발생 전 회피(CA)
-- 감지 불가능 (회피만 가능)
-- 회피 절차로 인해 지연 가능
-- 회피
 - 충돌회피
-- 대비
-- 대비하여
-- CD❌▶️Half-duplex특성▶️송신중 수신신호를 확인할수없어 충돌여부를 즉시알수없음
-- CD❌▶️전파감쇠와 거리문제 (Hidden Node Problem)
-- CD❌▶️간섭과 신호반사
+- 회피
+- 회피 절차로 인해 지연 가능

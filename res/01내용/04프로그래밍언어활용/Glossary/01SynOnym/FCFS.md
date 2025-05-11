@@ -1,25 +1,25 @@
-- FCFS
-- FCFS스케줄링
+﻿- FCFS
 - FCFS 스케줄링
 - FCFS 스케줄링 알고리즘
-- FCFS스케줄링 알고리즘
 - FCFS 스케줄링알고리즘
-- FCFS스케쥴링
 - FCFS 스케쥴링
+- FCFS(First Come First Service, 선입 선출)
+- FCFS스케줄링
+- FCFS스케줄링 알고리즘
+- FCFS스케쥴링
+- FIFO
+- FIFO 스케줄링
+- FIFO스케줄링
 - First Come First Service
 - First Come First Service 스케줄링
-- 선입 선출
-- 선입선출
-- 선입선출스케줄링
-- 선입선출 스케줄링
-- FIFO
-- FIFO스케줄링
-- FIFO 스케줄링
 - First In First Out
-- FCFS(First Come First Service, 선입 선출)
+- 대기시간
 - 대기시간우선
 - 대기시간우선방식
-- 대기시간우선원칙방식
 - 대기시간우선원칙
+- 대기시간우선원칙방식
 - 대기시간원칙
-- 대기시간
+- 선입 선출
+- 선입선출
+- 선입선출 스케줄링
+- 선입선출스케줄링

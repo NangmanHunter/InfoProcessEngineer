@@ -1,3 +1,3 @@
-- GUI(Graphical User Interface)
+﻿- Graphical User Interface
 - GUI
-- Graphical User Interface
+- GUI(Graphical User Interface)

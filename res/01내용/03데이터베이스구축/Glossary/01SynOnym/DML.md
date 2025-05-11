@@ -1,10 +1,10 @@
-- DML(Data Manipulation Language, 데이터 조작어)
+﻿- Data Manipulation Language
 - DML
-- Data Manipulation Language
-- 데이터 조작어
-- 데이터조작어
-- 데이터조작 어
+- DML(Data Manipulation Language, 데이터 조작어)
+- INSERTㆍSELECTㆍUPDATEㆍDELETE
 - SELECTㆍINSERTㆍDELETEㆍUPDATE
 - SELECTㆍINSERTㆍUPDATEㆍDELETE
-- INSERTㆍSELECTㆍUPDATEㆍDELETE
 - SIUD
+- 데이터 조작어
+- 데이터조작 어
+- 데이터조작어

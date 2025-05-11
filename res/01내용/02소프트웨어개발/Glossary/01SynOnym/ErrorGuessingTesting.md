@@ -1,17 +1,17 @@
-- ErrorGuessingTesting
-- ErrorGuessing Testing
-- ErrorGuess Testing
-- ErrorGuessTesting
-- EGTesting
+﻿- EG Testing
 - EGT
-- EG Testing
-- ErrorGuess Test
-- ErrorGuessTest
-- ErrorGuessing
-- Error Guessing
-- ErrorGuessing
+- EGTesting
 - Error Guess
+- Error Guessing
 - ErrorGuess
-- 오류 예측 검사(Error Guessing)
+- ErrorGuess Test
+- ErrorGuess Testing
+- ErrorGuessing
+- ErrorGuessing
+- ErrorGuessing Testing
+- ErrorGuessingTesting
+- ErrorGuessTest
+- ErrorGuessTesting
 - 오류 예측 검사
+- 오류 예측 검사(Error Guessing)
 - 오류예측 검사

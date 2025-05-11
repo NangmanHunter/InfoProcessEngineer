@@ -1,4 +1,4 @@
-- 근접무선통신(NFC; Near Field Communication)
-- 근접무선통신
+﻿- Near Field Communication
 - NFC
-- Near Field Communication
+- 근접무선통신
+- 근접무선통신(NFC; Near Field Communication)

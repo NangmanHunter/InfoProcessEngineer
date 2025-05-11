@@ -1,30 +1,30 @@
-- 소프트웨어 생명 주기를 표현하는 형태
-- 소프트웨어개발 생명 주기를 표현하는 형태
-- 소프트웨어 개발 생명 주기를 표현하는 형태
+﻿- LCM
+- LCM▶️WFMㆍPRMㆍSPMㆍAGM
+- LCM▶️WFMㆍPTMㆍSPMㆍAGM
 - Life Cycle Model
-- Software Life Cycle Model
-- Software Development Life Cycle Model
-- LCM
-- SLCM
 - SDLCM
-- 소프트웨어 생명 주기 모형
-- 소프트웨어 프로세스 모형
-- 소프트웨어 공학 패러다임
+- SLCM
+- Software Development Life Cycle Model
+- Software Life Cycle Model
 - WaterfallModelㆍPrototypeModelㆍSprialModelㆍAgileModel
 - WaterFallModelㆍProtoTypeModelㆍSPrialModelㆍAGileModel
 - WaterFallModelㆍPRototypeModelㆍSPrialModelㆍAGileModel
-- WFMㆍPTMㆍSPMㆍAGM
-- WFㆍPTㆍSPㆍAG M
-- WFㆍPTㆍSPㆍAGM
 - WFMㆍPRMㆍSPMㆍAGM
+- WFMㆍPTMㆍSPMㆍAGM
 - WFㆍPRㆍSPㆍAG M
 - WFㆍPRㆍSPㆍAGM
+- WFㆍPTㆍSPㆍAG M
+- WFㆍPTㆍSPㆍAGM
 - WMㆍPMㆍSMㆍAM
-- WㆍPㆍSㆍA M
-- WㆍPㆍSㆍAM
-- WPSAM
 - WPSA
 - wpsa
 - W-P-S-A
-- LCM▶️WFMㆍPRMㆍSPMㆍAGM
-- LCM▶️WFMㆍPTMㆍSPMㆍAGM
+- WPSAM
+- WㆍPㆍSㆍA M
+- WㆍPㆍSㆍAM
+- 소프트웨어 개발 생명 주기를 표현하는 형태
+- 소프트웨어 공학 패러다임
+- 소프트웨어 생명 주기 모형
+- 소프트웨어 생명 주기를 표현하는 형태
+- 소프트웨어 프로세스 모형
+- 소프트웨어개발 생명 주기를 표현하는 형태

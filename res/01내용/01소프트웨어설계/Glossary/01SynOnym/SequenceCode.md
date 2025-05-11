@@ -1,6 +1,6 @@
-- 순차 코드(Sequence Code)
-- 순차 코드
-- 순차코드
+﻿- SC
 - Sequence Code
 - SequenceCode
-- SC
+- 순차 코드
+- 순차 코드(Sequence Code)
+- 순차코드

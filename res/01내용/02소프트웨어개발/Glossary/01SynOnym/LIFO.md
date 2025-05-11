@@ -1,2 +1,2 @@
+﻿- Last In First Out
 - LIFO
-- Last In First Out

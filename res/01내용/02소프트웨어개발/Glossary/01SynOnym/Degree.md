@@ -1,15 +1,15 @@
+﻿- Branch
+- Branch수
 - Degree
 - Degree of Node
-- Number of LowerBranch
+- DoN
 - Number of Branch
 - Number of Branch on Node
-- DoN
-- 디그리
-- 차수
+- Number of LowerBranch
 - 노드차수
+- 디그리
+- 브랜치수
+- 차수
 - 하위브랜치
 - 하위브랜치개수
 - 하위브랜치수
-- 브랜치수
-- Branch수
-- Branch

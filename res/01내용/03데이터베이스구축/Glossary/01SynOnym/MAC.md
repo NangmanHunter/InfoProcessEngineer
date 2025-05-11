@@ -1,21 +1,21 @@
 ﻿- MAC
+- Mandatory
+- Mandatory AC
 - Mandatory Access Control
 - Mandatory AccessControl
-- Mandatory
 - MandatoryAC
-- Mandatory AC
+- 강제
+- 강제 접근통제(MAC; Mandatory Access Control)
 - 강제적 접근통제
 - 강제적접근통제
 - 강제접근통제
-- 강제
+- 권한부여-시스템
+- 규칙
 - 규칙 기반 정책
+- 규칙기반
 - 규칙기반 정책
 - 규칙기반정책
 - 규칙정책
-- 규칙
-- 규칙기반
-- 강제 접근통제(MAC; Mandatory Access Control)
-- 권한부여-시스템
+- 안정적ㆍ중앙집중적
 - 접근결정-보안등급(Label)
 - 정책변경-고정적
-- 안정적ㆍ중앙집중적

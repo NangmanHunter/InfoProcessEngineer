@@ -1,3 +1,3 @@
-- 개체(Entity)
+﻿- Entity
 - 개체
-- Entity
+- 개체(Entity)

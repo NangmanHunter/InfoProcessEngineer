@@ -1,6 +1,6 @@
-- DCL(Data Control Language, 데이터 제어어)
+﻿- Data Control Language
 - DCL
-- Data Control Language
+- DCL(Data Control Language, 데이터 제어어)
 - 데이터 제어어
-- 데이터제어어
 - 데이터제어 어
+- 데이터제어어

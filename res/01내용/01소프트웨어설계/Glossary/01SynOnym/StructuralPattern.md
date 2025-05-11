@@ -1,18 +1,18 @@
-﻿- Structural Pattern
-- StructuralPattern
-- Structural패턴
-- Structural디자인패턴
-- StructuralDesignPattern
-- Structural DesignPattern
+﻿- SDP
+- SP
 - Structural Design Pattern
 - Structural Design Patterns
+- Structural DesignPattern
+- Structural Pattern
 - Structural 패턴
-- SP
-- SDP
+- StructuralDesignPattern
+- StructuralPattern
+- Structural디자인패턴
+- Structural패턴
 - 구조 패턴
-- 구조패턴
-- 구조적패턴
-- 구조적 패턴
 - 구조 패턴 (Structural Pattern) 
 - 구조 패턴(Structural Pattern) 
+- 구조적 패턴
+- 구조적패턴
+- 구조패턴
 - 구조패턴(StructuralPattern) 

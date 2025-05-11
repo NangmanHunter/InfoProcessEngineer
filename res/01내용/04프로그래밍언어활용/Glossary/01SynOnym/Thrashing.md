@@ -1,3 +1,3 @@
-- 스래싱(Thrashing)
+﻿- Thrashing
 - 스래싱
-- Thrashing
+- 스래싱(Thrashing)

@@ -1,11 +1,11 @@
-- 자바 스크립트(JAVA Script)
-- 자바 스크립트
-- 자바스크립트
+﻿- .js
 - JAVA Script
 - JAVAScript
-- JAVA스크립트
 - JavaScript
-- JS
-- js
+- JAVA스크립트
 - Js
-- .js
+- js
+- JS
+- 자바 스크립트
+- 자바 스크립트(JAVA Script)
+- 자바스크립트

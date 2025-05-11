@@ -1,2 +1,2 @@
-- Total↔️Partial
+﻿- Total↔️Partial
 - Totally↔️Partially

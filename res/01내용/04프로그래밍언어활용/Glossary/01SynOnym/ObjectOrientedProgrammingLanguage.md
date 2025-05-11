@@ -1,39 +1,39 @@
-- object-oriented programming language
-- object-orientedprogramming language
-- object-oriented programminglanguage
-- object-orientedprogramminglanguage
-- Object-Oriented Programming Language
-- Object-Oriented ProgrammingLanguage
-- Object-OrientedProgrammingLanguage
-- ObjectOriented Programming Language
-- ObjectOrientedProgramming Language
-- ObjectOrientedProgrammingLanguage
-- Object-oriented Programming Language
-- Object-oriented
-- Objectoriented
-- Object_oriented
-- Object oriented
-- Object-Oriented
-- ObjectOriented
-- Object-Oriented
-- Object_Oriented
+﻿- Object oriented
 - Object Oriented
-- 객체지향 프로그래밍 언어
-- 객체지향형 프로그래밍 언어
-- 객체지향 언어
-- 객체지향형 언어
-- 객체지향언어
+- Object_oriented
+- Object_Oriented
+- ObjectOriented
+- Objectoriented
+- Object-oriented
+- Object-Oriented
+- Object-Oriented
+- ObjectOriented Programming Language
+- object-oriented programming language
+- Object-Oriented Programming Language
+- Object-oriented Programming Language
+- Object-Oriented ProgrammingLanguage
+- object-oriented programminglanguage
+- ObjectOrientedProgramming Language
+- object-orientedprogramming language
+- ObjectOrientedProgrammingLanguage
+- Object-OrientedProgrammingLanguage
+- object-orientedprogramminglanguage
+- OO
+- OOL
+- OOP
+- OOPL
 - 객체언어
+- 객체지향
+- 객체지향 언어
+- 객체지향 프로그래밍 언어
+- 객체지향 프로그래밍언어
+- 객체지향언어
+- 객체지향프로그래밍
+- 객체지향프로그래밍 언어
+- 객체지향프로그래밍언어
+- 객체지향형
+- 객체지향형 언어
+- 객체지향형 프로그래밍 언어
 - 객체지향형언어
 - 객체형언어
 - 객체형언어
-- 객체지향프로그래밍 언어
-- 객체지향 프로그래밍언어
-- 객체지향프로그래밍언어
-- 객체지향프로그래밍
-- 객체지향
-- 객체지향형
-- OOPL
-- OOL
-- OO
-- OOP

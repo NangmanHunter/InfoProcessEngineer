@@ -1,14 +1,14 @@
-- 스트림 처리 (Stream Processing)
-- 스트림 처리
-- 스트림처리
+﻿- Stream
 - Stream Processing
-- Stream
 - StreamProcessing
-- 스트림 처리(Stream Processing)
 - 개별 처리 단위
-- 실시간처리
-- 실시간처리방식
-- 실시간방식
+- 스트림 처리
+- 스트림 처리 (Stream Processing)
+- 스트림 처리(Stream Processing)
+- 스트림처리
+- 스트림처리방식
 - 실시간 방식
 - 실시간 처리
-- 스트림처리방식
+- 실시간방식
+- 실시간처리
+- 실시간처리방식

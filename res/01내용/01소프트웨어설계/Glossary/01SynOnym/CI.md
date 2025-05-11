@@ -1,19 +1,19 @@
-﻿- Continuous Integration
+﻿- CI
+- Continuous Integration
 - Continuous Integration (계속적인 통합)
 - Continuous Integration(계속적인 통합)
 - ContinuousIntegration
-- CI
+- 계속 통합
+- 계속적 통합
 - 계속적인 통합
 - 계속적인통합
-- 계속적 통합
 - 계속적통합
 - 계속통합
-- 계속 통합
-- 지속적통합
-- 지속적 통합
-- 지속적인통합
-- 지속적인 통합
-- 지속적으로통합
-- 지속적으로 통합
-- 지속통합
 - 지속 통합
+- 지속적 통합
+- 지속적으로 통합
+- 지속적으로통합
+- 지속적인 통합
+- 지속적인통합
+- 지속적통합
+- 지속통합

@@ -1,26 +1,26 @@
+﻿- Main Key
+- MainKey
+- pk
+- PK
 - Primary Key
-- Primary키
-- Primary 키
-- PrimaryKey
-- Primarykey
 - Primary key
+- Primary 키
+- primaryKey
+- Primarykey
+- PrimaryKey
+- primarykey
 - Primary-key
 - primary-key
-- primarykey
-- primaryKey
-- PK
-- pk
-- 기본키
-- 주요키
-- 우선키
-- 제일키
-- 제일
-- 우선
-- 주요
+- Primary키
 - 기본
-- 후보키 중에서 특별히 선정된 주키(Main Key)
-- 주키(Main Key)
-- 주키
-- Main Key
-- MainKey
+- 기본키
 - 기본키(Primary Key)
+- 우선
+- 우선키
+- 제일
+- 제일키
+- 주요
+- 주요키
+- 주키
+- 주키(Main Key)
+- 후보키 중에서 특별히 선정된 주키(Main Key)

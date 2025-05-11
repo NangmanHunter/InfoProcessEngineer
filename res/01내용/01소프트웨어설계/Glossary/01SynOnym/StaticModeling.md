@@ -1,8 +1,8 @@
-- 정적모델링
-- 정적 모델링
-- 정적모델
-- 정적 모델
-- StaticModeling
+﻿- Static Model
 - Static Modeling
 - StaticModel
-- Static Model
+- StaticModeling
+- 정적 모델
+- 정적 모델링
+- 정적모델
+- 정적모델링

@@ -1,14 +1,14 @@
-- Point-to-Point
-- Point to Point
+﻿- 1:1 연결
+- 1대1
+- B2B
 - Point To Point
+- Point to Point
+- Point_to_Point
 - PointToPoint
+- Point-to-Point
 - PTP
 - PtP
-- Point_to_Point
-- 1:1 연결
-- 1대1
-- 일대일
-- B2B
 - 비투비
 - 비투비연결
 - 예: 전화선
+- 일대일

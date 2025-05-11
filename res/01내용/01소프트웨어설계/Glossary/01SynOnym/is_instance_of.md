@@ -1,60 +1,60 @@
-- 이 객체가 저 클래스에서 만들어진 거 맞아?
-- 타입 검사
-- 다형성 처리
-- is instance of
-- isinstanceof
-- is_instance_of
-- is-instance-of
-- isInstanceOf
-- IsInstanceOf
+﻿- Classfication
+- Class-Instance관계
+- Class-Object관계
+- dog instanceof Dog
+- II
 - IIO
 - IIO관계
-- II
 - II관계
-- isInstanceof
-- instanceof
-- instance of
-- Instance of
-- Instance Of
 - instance
 - Instance
-- 클래스(설계도)를 기반으로 만든 실제 객체
-- 클래스-객체 관계
-- 클래스-객체관계
-- Class-Object관계
-- Class-Instance관계
-- 이 객체는 이 클래스에서 만들어졌나?
-- p instanceof Person
-- dog instanceof Dog
-- 어떤 객체가 특정 클래스의 인스턴스인가?
-- 객체와 클래스의 관계
-- 객체-클래스의 관계
-- 객체-클래스 관계
+- instance of
+- Instance Of
+- Instance of
+- Instance-Class관계
+- instanceof
+- Instance관계
+- is instance of
+- is_instance_of
+- isinstanceof
+- isInstanceof
+- IsInstanceOf
+- isInstanceOf
+- is-instance-of
 - Object-Class 관계
 - Object-Class관계
-- Instance-Class관계
-- Instance관계
-- 동일한 형의 특성을 갖는 객체들을 모아 구성하는 것
-- 동일한 Class형의 특성을 갖는 Object객체들을 모아 구성하는 것
-- 동일한 Class의 특성을 갖는 Object들을 모아 구성하는 것
+- p instanceof Person
+- 객체와 클래스의 관계
+- 객체-클래스 관계
+- 객체-클래스의 관계
+- 다형성 처리
+- 동일Class Instance모아구성
+- 동일Class갖는 Instance구성
+- 동일Class갖는 Instance모아구성
+- 동일Class특성갖는 Instance들모아구성
+- 동일Class특성갖는 Instance들모아구성한
+- 동일Class특성갖는 Instance들모아구성한것
+- 동일Class특성갖는 Instance들을모아구성한것
+- 동일Class특성갖는 Instance모아구성
 - 동일한 Class의 특성을 갖는 Instance들을 모아 구성하는 것
 - 동일한 Class의 특성을 갖는 Instance들을 모아 구성하는것
 - 동일한 Class의 특성을 갖는 Instance들을 모아 구성한것
+- 동일한 Class의 특성을 갖는 Object들을 모아 구성하는 것
+- 동일한 Class형의 특성을 갖는 Object객체들을 모아 구성하는 것
+- 동일한 형의 특성을 갖는 객체들을 모아 구성하는 것
 - 동일한Class의 특성을 갖는 Instance들을 모아 구성한것
 - 동일한Class의 특성을갖는 Instance들을 모아 구성한것
 - 동일한Class의 특성을갖는 Instance들을 모아구성한것
 - 동일한Class의 특성을갖는 Instance들을모아구성한것
 - 동일한Class의특성을갖는 Instance들을모아구성한것
-- 동일한Class특성을갖는 Instance들을모아구성한것
 - 동일한Class특성갖는 Instance들을모아구성한것
-- 동일Class특성갖는 Instance들을모아구성한것
-- 동일Class특성갖는 Instance들모아구성한것
-- 동일Class특성갖는 Instance들모아구성한
-- 동일Class특성갖는 Instance들모아구성
-- 동일Class특성갖는 Instance모아구성
-- 동일Class갖는 Instance모아구성
-- 동일Class갖는 Instance구성
-- 동일Class Instance모아구성
-- Classfication
-- 분류화(Classfication)
+- 동일한Class특성을갖는 Instance들을모아구성한것
 - 분류화
+- 분류화(Classfication)
+- 어떤 객체가 특정 클래스의 인스턴스인가?
+- 이 객체가 저 클래스에서 만들어진 거 맞아?
+- 이 객체는 이 클래스에서 만들어졌나?
+- 클래스(설계도)를 기반으로 만든 실제 객체
+- 클래스-객체 관계
+- 클래스-객체관계
+- 타입 검사

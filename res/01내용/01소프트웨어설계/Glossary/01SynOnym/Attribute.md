@@ -1,20 +1,20 @@
+﻿- attribute
 - Attribute
-- ClassAttribute
-- Class Attribute
-- AttributeClass
 - Attribute Class
-- attribute
-- 데이터
-- 필드
-- variable
-- Variable
-- 속성(Attribute)
-- 상태
-- 변수
-- 상수
-- 정보
-- 자료 구조
-- 분류
+- AttributeClass
+- Class Attribute
+- ClassAttribute
 - Data
+- Variable
+- variable
+- 데이터
+- 변수
+- 분류
+- 상수
+- 상태
 - 속성 (필드)
+- 속성(Attribute)
 - 속성(필드)
+- 자료 구조
+- 정보
+- 필드

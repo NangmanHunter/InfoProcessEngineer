@@ -1,11 +1,11 @@
-- Data Directory
-- DataDirectory
-- DataDirect
+﻿- Data Directory
 - DataDir
+- DataDirect
+- DataDirectory
 - 데이터 디렉토리
-- 데이터디렉토리
 - 데이터 사전에 있는 데이터에 실제로 접근하는 데 필요한 위치 정보 관리
 - 데이터 사전에 있는 데이터에 실제로 접근하는 데 필요한 위치정보 관리
 - 데이터 사전에 있는 위치정보 관리
+- 데이터디렉토리
 - 데이터사전에있는 위치정보
 - 위치정보

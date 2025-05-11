@@ -1,11 +1,11 @@
-- 대수적 코딩법(Algebraic Coding)
-- 대수적 코딩법
-- 대수적코딩법
-- 대수적코딩
-- Algebraic Coding
+﻿- Algebraic Coding
 - Algebraic Coding 법
 - AlgebraicCoding
 - AlgebraicCoding법
 - 다항식나눔
 - 다항식나눔ㆍ다항식나머지
 - 다항식나눔ㆍ다항식나머지ㆍ다항식계수
+- 대수적 코딩법
+- 대수적 코딩법(Algebraic Coding)
+- 대수적코딩
+- 대수적코딩법

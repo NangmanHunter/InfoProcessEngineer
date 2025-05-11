@@ -1,25 +1,25 @@
-- 교차곱
-- 곱
-- CARTESIAN PRODUCT 
-- CARTESIANPRODUCT 
+﻿- ×
 - Cartesian product
-- CartesianProduct
+- Cartesian Product
+- CARTESIAN PRODUCT 
+- Cartesian Product (카르테시안 곱)
+- Cartesian Product 집합 연산자
+- Cartesian Product 집합연산자
 - Cartesian products
-- CartesianProduct연산자
+- CartesianProduct
+- CARTESIANPRODUCT 
 - CartesianProduct 연산자
 - CartesianProduct 집합연산자
-- Cartesian Product 집합연산자
-- Cartesian Product 집합 연산자
-- Cartesian Product
-- ×
-- x
+- CartesianProduct연산자
+- CROSS JOIN
 - X
+- x
+- 곱
+- 교차곱
 - 두 개의 릴레이션을 카티션프로덕트
 - 릴레이션을 카티션프로덕트
-- 카티션프로덕트
-- 프로덕트
-- 카티션 프로덕트
-- CROSS JOIN
-- Cartesian Product (카르테시안 곱)
 - 카르테시안 곱
 - 카르테시안곱
+- 카티션 프로덕트
+- 카티션프로덕트
+- 프로덕트

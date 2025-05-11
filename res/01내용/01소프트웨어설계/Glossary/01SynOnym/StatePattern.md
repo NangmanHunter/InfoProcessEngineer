@@ -1,13 +1,13 @@
+﻿- State
+- State Design Pattern
+- State DesignPattern
+- State Pattern
+- State 패턴
+- StateDesignPattern
+- StatePattern
+- State패턴
 - 상태(State)
 - 상태(State) 패턴
 - 상태(State)패턴
-- 상태패턴(State)
 - 상태패턴
-- State
-- State패턴
-- State 패턴
-- StatePattern
-- State Pattern
-- StateDesignPattern
-- State DesignPattern
-- State Design Pattern
+- 상태패턴(State)

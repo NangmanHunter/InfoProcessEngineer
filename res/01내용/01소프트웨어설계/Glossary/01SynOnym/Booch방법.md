@@ -1,14 +1,14 @@
+﻿- Booch
+- Booch 방법
+- Booch 방식
 - Booch(부치) 방법
 - Booch(부치)방법
-- 부치방법
-- 부치
 - Booch방법
-- Booch 방법
-- Booch
 - Booch방식
-- Booch 방식
 - MacroProcessㆍMicroProcess
 - MacroㆍMicro
 - MACㆍMIC
 - MAㆍMI
 - MaㆍMi
+- 부치
+- 부치방법

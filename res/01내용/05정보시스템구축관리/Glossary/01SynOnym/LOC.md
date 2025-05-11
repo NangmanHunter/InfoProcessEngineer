@@ -1,19 +1,19 @@
-﻿- C
-- c
+﻿- c
+- C
 - CodeLine
-- l
 - L
+- l
 - Line
-- Lines
 - Line Of Code
-- Lines Of Code
-- LinesOfCode
 - LineCode
 - LineOfCode
+- Lines
+- Lines Of Code
 - lines of code
 - lines of code (LOC)
-- LOC
+- LinesOfCode
 - LoC
+- LOC
 - LOC=Line
 - LOC=Line/Effort ㆍ Effort
 - LOC=Line/Effort ㆍEffort

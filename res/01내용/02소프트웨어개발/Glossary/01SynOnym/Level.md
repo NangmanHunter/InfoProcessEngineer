@@ -1,12 +1,12 @@
-- Level
-- Level 1
+﻿- 01Level
+- 01레벨
 - 1 Level
 - 1Level
-- 01Level
+- Level
 - Level 01
+- Level 1
 - Lv
 - Lv.
 - 레벨
-- 레벨1
 - 레벨01
-- 01레벨
+- 레벨1

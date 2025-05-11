@@ -1,5 +1,5 @@
+﻿- REV
 - rev
-- reverse
 - Reverse
 - REVerse
-- REV
+- reverse

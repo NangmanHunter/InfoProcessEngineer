@@ -1,7 +1,7 @@
-- 연관(Association) 관계
+﻿- Association Relationship
 - Association 관계
-- Association관계
 - AssociationRelationship
-- Association Relationship
+- Association관계
 - 연관 관계
+- 연관(Association) 관계
 - 연관관계

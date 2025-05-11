@@ -1,6 +1,6 @@
-- Aggregation
-- 집단화(Aggregation)
-- 집단화
-- 집단
+﻿- Aggregation
 - 부분
 - 부분화
+- 집단
+- 집단화
+- 집단화(Aggregation)

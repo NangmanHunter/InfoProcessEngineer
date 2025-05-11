@@ -1,2 +1,2 @@
-- CD↔️CA
+﻿- CD↔️CA
 - CSMA/CD↔️CSMA/CA

@@ -1,3 +1,3 @@
-- LRU(Least Recently Used)
+﻿- Least Recently Used
 - LRU
-- Least Recently Used
+- LRU(Least Recently Used)

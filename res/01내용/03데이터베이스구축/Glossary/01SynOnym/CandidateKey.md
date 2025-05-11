@@ -1,19 +1,19 @@
-- CandidateKey
-- Candidate키
+﻿- Candidate Key
 - Candidate 키
-- 후보키(Candidate Key)
+- CandidateKey
+- CandidateKey=PrimaryKey + AlternateKey
+- CandidateKey=PrimaryKey+AlternateKey
+- Candidate키
+- CK
+- CK=PK+AK
+- CKey
+- PrimaryKey + AlternateKey
+- PrimaryKey+AlternateKey
+- PrimaryKeyㆍAlternateKey
+- 기본키+대체키
+- 기본키ㆍ대체키
 - 후보키
+- 후보키(Candidate Key)
+- 후보키=기본키 + 대체키
 - 후보키=기본키+대체키
 - 후보키=기본키ㆍ대체키
-- 기본키ㆍ대체키
-- 후보키=기본키 + 대체키
-- CandidateKey=PrimaryKey+AlternateKey
-- PrimaryKey+AlternateKey
-- CandidateKey=PrimaryKey + AlternateKey
-- PrimaryKey + AlternateKey
-- PrimaryKeyㆍAlternateKey
-- CK=PK+AK
-- 기본키+대체키
-- Candidate Key
-- CK
-- CKey

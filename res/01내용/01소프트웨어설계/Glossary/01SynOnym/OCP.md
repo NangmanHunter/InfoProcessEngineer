@@ -1,17 +1,17 @@
-- 개방-폐쇄 원칙(OCP, Open-Closed Principle)
-- 개방-폐쇄 원칙
+﻿- OCP
+- OpenClosed Principle
+- Open-Closed Principle
+- OpenClosedPrinciple
+- Open-ClosedPrinciple
+- OpenClosed원칙
 - 개방폐쇄 원칙
+- 개방-폐쇄 원칙
+- 개방-폐쇄 원칙(OCP, Open-Closed Principle)
 - 개방폐쇄원칙
 - 개방-폐쇄원칙
-- OCP
-- Open-Closed Principle
-- OpenClosed Principle
-- OpenClosedPrinciple
-- OpenClosed원칙
 - 기존의 코드를 변경하지 않고 기능을 추가할 수 있도록 설계해야 한다는 원칙
 - 추가설계
+- 추가설계 원칙
 - 추가설계원칙
 - 추가원칙
 - 추가형원칙
-- 추가설계 원칙
-- Open-ClosedPrinciple

@@ -1,4 +1,4 @@
-- 포스퀘어(Foursquare)
-- 포스퀘어
-- Foursquare
+﻿- Foursquare
 - 특정 지역이나 장소를 방문할 때 자신의 위치를 지도에 표시하고, 방문한 곳의 정보를 남길 수 있는 기능을 제공하는 위치 기반 SNS
+- 포스퀘어
+- 포스퀘어(Foursquare)

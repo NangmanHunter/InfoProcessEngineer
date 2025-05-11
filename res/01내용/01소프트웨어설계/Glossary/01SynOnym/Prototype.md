@@ -1,15 +1,15 @@
-﻿- Prototype
+﻿
+- Prototype
 - prototype
 - 견본(시제)품(Prototype)
-- 견본품(Prototype)
 - 견본품
-- 본품
+- 견본품(Prototype)
 - 본
-- 원본품
-- 원형품
-- 원품
-- 원본
-- 원
-- 원형
+- 본품
 - 시제품
-
+- 원
+- 원본
+- 원본품
+- 원품
+- 원형
+- 원형품

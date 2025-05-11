@@ -1,15 +1,15 @@
-- 집합(Aggregation) 관계
-- 집합(Aggregation)관계
-- 집합관계
-- 집합 관계
-- Aggregation관계
-- Aggregation 관계
+﻿- ◇ (흰 마름모)
 - Aggregation Relationship
+- Aggregation 관계
 - AggregationRelationship
+- Aggregation관계
+- 느슨하게 연결됨
+- 소유-구성원
+- 소유-구성원 관계
 - 약한 포함
 - 약한포함
 - 약한포함관계
-- 소유-구성원
-- 소유-구성원 관계
-- 느슨하게 연결됨
-- ◇ (흰 마름모)
+- 집합 관계
+- 집합(Aggregation) 관계
+- 집합(Aggregation)관계
+- 집합관계

@@ -1,37 +1,37 @@
-- 비관계형 데이터베이스 (NoSQL)
-- 비관계형 데이터베이스
-- 비관계형데이터베이스
-- 비관계데이터베이스
-- NoSQL
-- NoSQLDB
-- NoSQLDBMS
-- NoSQL DB
-- NoSQL DBMS
-- 비관계형 데이터베이스(Non-relational Database)
+﻿- HDB▶️NDB▶️RDB▶️NRDB
+- NDB
+- NonRDB
+- Non-RDB
+- NonRDBMS
+- Non-RDBMS
 - Non-relational Database
 - Non-Relational Database
+- NonRelationalDatabase
+- NonrelationalDatabase
 - Non-relationalDatabase
 - Non-RelationalDatabase
-- NonrelationalDatabase
-- NonRelationalDatabase
-- NRDB
-- NDB
-- HDB▶️NDB▶️RDB▶️NRDB
-- Non-RDBMS
-- NonRDBMS
-- Non-RDB
-- NonRDB
+- NoSQL
+- NoSQL DB
+- NoSQL DBMS
 - NoSQL 데이터베이스
+- NoSQLDB
+- NoSQLDBMS
 - Not Only SQL
-- 다양한 구조 (문서, 키-값 등)
-- 비테이블기반
-- 다양한 구조
-- 다양한구조
+- NRDB
 - 다양구조
+- 다양한 구조
+- 다양한 구조 (문서, 키-값 등)
+- 다양한구조
+- 문서형(Document)ㆍ키-값형(Key-Value)ㆍ컬럼형(Column-Family)ㆍ그래프형(Graph)
+- 비관계데이터베이스
+- 비관계형 데이터베이스
+- 비관계형 데이터베이스 (NoSQL)
+- 비관계형 데이터베이스(Non-relational Database)
+- 비관계형데이터베이스
+- 비테이블기반
+- 빅데이터, 유연한 구조, 고속 처리에 적합
+- 상황에 따라 느슨한 보장
 - 소셜 미디어, 실시간 분석 등
 - 수평 확장 중심
 - 수평확장 중심
 - 유연한 스키마
-- 상황에 따라 느슨한 보장
-- 문서형(Document)ㆍ키-값형(Key-Value)ㆍ컬럼형(Column-Family)ㆍ그래프형(Graph)
-- 빅데이터, 유연한 구조, 고속 처리에 적합

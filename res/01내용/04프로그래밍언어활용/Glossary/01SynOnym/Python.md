@@ -1,6 +1,6 @@
-- 파이썬(Python)
-- 파이썬
-- Python
+﻿- .py
 - Py
 - py
-- .py
+- Python
+- 파이썬
+- 파이썬(Python)

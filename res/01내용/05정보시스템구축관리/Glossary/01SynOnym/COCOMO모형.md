@@ -1,14 +1,14 @@
-- COCOMO모형
-- COCOMO 모형
-- COCOMO모델
+﻿- COCOMO Model
 - COCOMO 모델
-- COCOMOModel
-- COCOMO Model
+- COCOMO 모형
 - COCOMO_Model
+- COCOMOModel
 - COCOMO-Model
+- COCOMO모델
+- COCOMO모형
+- constructive cost model
+- COnstructive COst MOdel
 - Constructive Cost Model
 - Constructive CostModel
-- ConstructiveCostModel
 - ConstructiveCost Model
-- COnstructive COst MOdel
-- constructive cost model
+- ConstructiveCostModel

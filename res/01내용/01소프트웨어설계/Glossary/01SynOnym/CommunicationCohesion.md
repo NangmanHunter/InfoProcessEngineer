@@ -1,11 +1,11 @@
-- Communication Cohesion
+﻿- Communication Cohesion
+- Communication 응집도
 - CommunicationCohesion
 - Communication응집도
-- Communication 응집도
-- 교환(통신)적 응집도 (Communication Cohesion) 
 - 교환(통신)적 응집도
+- 교환(통신)적 응집도 (Communication Cohesion) 
 - 교환(통신)적응집도
-- 교환적응집도
 - 교환적 응집도
-- 통신적응집도
+- 교환적응집도
 - 통신적 응집도
+- 통신적응집도

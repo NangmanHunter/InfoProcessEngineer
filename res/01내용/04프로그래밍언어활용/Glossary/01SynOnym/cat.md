@@ -1,10 +1,10 @@
-- cat
-- 연결(concatenate)
-- 연결
+﻿- cat
 - concatenate
+- display
 - 내용을 출력(display)
 - 내용을출력(display)
-- 내용출력(display)
 - 내용출력
+- 내용출력(display)
+- 연결
+- 연결(concatenate)
 - 출력
-- display

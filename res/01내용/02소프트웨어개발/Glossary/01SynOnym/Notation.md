@@ -1,32 +1,32 @@
-- 표
-- 표법
-- 표기법
-- 기법
-- 법
-- 기
-- 표기
-- 표기식
-- 현
-- 표현
-- 표현법
-- 현법
-- 연산식
-- 식
-- 수식의 표기법
-- 수식의표기법
-- 수식표기법
-- 수식표법
-- 수식법
-- 수식기법
-- 수식표기
+﻿- expression
 - Expression
-- expression
-- Notation
-- notation
-- 표기된 수식
-- 표기된수식
-- 표기수식
 - expression notation
 - Expression notation
-- mathematical expression 
 - Mathematical expression
+- mathematical expression 
+- Notation
+- notation
+- 기
+- 기법
+- 법
+- 수식기법
+- 수식법
+- 수식의 표기법
+- 수식의표기법
+- 수식표기
+- 수식표기법
+- 수식표법
+- 식
+- 연산식
+- 표
+- 표기
+- 표기된 수식
+- 표기된수식
+- 표기법
+- 표기수식
+- 표기식
+- 표법
+- 표현
+- 표현법
+- 현
+- 현법

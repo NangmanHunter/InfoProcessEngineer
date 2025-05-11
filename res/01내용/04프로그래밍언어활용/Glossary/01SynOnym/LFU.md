@@ -1,3 +1,3 @@
-- LFU(Least Frequently Used)
+﻿- Least Frequently Used
 - LFU
-- Least Frequently Used
+- LFU(Least Frequently Used)

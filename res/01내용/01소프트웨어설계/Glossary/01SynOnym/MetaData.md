@@ -1,7 +1,9 @@
-﻿- Meta Data
+﻿- Meta
+- Meta Data
 - MetaData
-- Metadata
 - metadata
+- Metadata
+- Meta-Data
 - meta-data
 - 데이터를 설명하는 데이터
 - 데이터를 설명하는데이터
@@ -9,13 +11,11 @@
 - 데이터를설명하는데이터
 - 데이터의 데이터
 - 데이터의데이터
+- 메타
 - 메타 데이터
 - 메타 데이터(Meta-Data)
-- 메타데이터
 - 메타데이타
-- 메타
-- Meta-Data
-- Meta
+- 메타데이터
 - 시스템 카탈로그에 저장된 정보
 - 시스템 카탈로그에 저장된정보
 - 시스템카탈로그에 저장된정보

@@ -1,14 +1,14 @@
-- IPv4
-- IPv4주소
-- IPv4(Internet Protocol version 4)
+﻿- Internet Protocol Address
 - IP
-- IP주소
-- 현재IP주소
-- 현IP주소
-- 현재IP주소체계
-- 현IP주소체계
-- 현재사용하고있는 IP주소
-- 현재 사용하고 있는 IP 주소 체계
-- IP 주소(Internet Protocol Address)
 - IP 주소
-- Internet Protocol Address
+- IP 주소(Internet Protocol Address)
+- IPv4
+- IPv4(Internet Protocol version 4)
+- IPv4주소
+- IP주소
+- 현IP주소
+- 현IP주소체계
+- 현재 사용하고 있는 IP 주소 체계
+- 현재IP주소
+- 현재IP주소체계
+- 현재사용하고있는 IP주소

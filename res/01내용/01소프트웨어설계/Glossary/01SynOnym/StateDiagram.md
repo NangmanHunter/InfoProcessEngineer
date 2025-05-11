@@ -1,12 +1,12 @@
-- 상태 다이어그램(State Diagram)
-- 상태 다이어그램
-- 상태다이어그램
-- 상태
+﻿- Event▶️State
+- event▶️state
 - State Diagram
+- State 다이어그램
 - StateDiagram
 - State다이어그램
-- State 다이어그램
+- 상태
+- 상태 다이어그램
+- 상태 다이어그램(State Diagram)
 - 상태 다이어그램에서 객체 전이의 요인이 되는 요소는 event
+- 상태다이어그램
 - 상태다이어그램에서 객체전이의 요인이되는요소는 event
-- Event▶️State
-- event▶️state

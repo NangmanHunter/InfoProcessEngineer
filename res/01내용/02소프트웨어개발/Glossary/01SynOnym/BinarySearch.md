@@ -1,14 +1,14 @@
-- 이분 검색(이진 검색, Binary Search)
-- 이분 검색
-- 이분검색
+﻿- Binary Search
+- BinarySearch
+- BS
 - 이분
+- 이분 검색
+- 이분 검색(이진 검색, Binary Search)
+- 이분검색
+- 이진
 - 이진 검색
 - 이진 검색 알고리즘
+- 이진 검색(Binary Search)
 - 이진 검색알고리즘
 - 이진검색 알고리즘
 - 이진검색알고리즘
-- 이진
-- Binary Search
-- BinarySearch
-- BS
-- 이진 검색(Binary Search)

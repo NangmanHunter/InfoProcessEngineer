@@ -1,9 +1,9 @@
+﻿- A▶️B
 - U
-- Update
 - UPDATE
+- Update
 - 갱신
-- 수정
-- 변경
-- 교환
-- A▶️B
 - 갱신(Update)
+- 교환
+- 변경
+- 수정

@@ -1,5 +1,5 @@
-- 체크 박스(Check Box)
-- 체크 박스
-- 체크박스
-- Check Box
+﻿- Check Box
 - CheckBox
+- 체크 박스
+- 체크 박스(Check Box)
+- 체크박스

@@ -1,13 +1,13 @@
+﻿- Check Out
+- Check Out
+- Check_Out
+- checkOut
 - CheckOut
 - Checkout
-- Check-out
-- check-out
 - checkout
-- checkOut
-- Check Out
-- 체크아웃
-- 체크 아웃
-- Check_Out
+- Check-out
 - Check-Out
-- Check Out
+- check-out
+- 체크 아웃
+- 체크아웃
 - 체크아웃(Check-Out)

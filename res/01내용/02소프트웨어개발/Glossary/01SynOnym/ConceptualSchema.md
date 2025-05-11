@@ -1,17 +1,17 @@
-- 개념 스키마 (Conceptual Schema)
-- 개념 스키마
-- 개념스키마
-- 개념
+﻿- Conceptual
 - Conceptual Schema
-- Conceptual
 - ConceptualSchema
 - CS
-- 데이터베이스 전체를 정의한 것
+- DB
+- DB전체정의
+- DB정의
+- 개념
+- 개념 스키마
+- 개념 스키마 (Conceptual Schema)
+- 개념스키마
 - 데이터베이스 전체를 정의
+- 데이터베이스 전체를 정의한 것
 - 데이터베이스 전체를정의
 - 데이터베이스 전체정의
 - 데이터베이스전체정의
-- DB전체정의
-- DB정의
-- DB
 - 정의

@@ -1,45 +1,30 @@
-﻿- WAS
-- WAS(Web Application Server)
-- WebApplicationServer
-- Web ApplicationServer
-- WebApplication Server
-- Web Application Server
-- Web Application Server Program
-- Web Application Server Software
-- 웹 애플리케이션 서버
-- 웹 애플리케이션서버
-- 웹애플리케이션 서버
-- 웹애플리케이션서버
-- 동적컨텐츠처리 미들웨어
-- 동적콘텐츠처리 미들웨어
-- 동적콘텐츠처리
-- 동적컨텐츠처리
-- 동적처리 미들웨어
-- 동적처리
-- 동적
-- 동
-- 미들웨어
-- MiddleWare
+﻿- api
 - API
-- api
 - API Server
-- api Server
 - api server
+- api Server
 - APIServer
 - api-server
 - Application Programming Interface
+- Application Server 
 - ApplicationProgrammingInterface
 - ApplicationProgrammingInterfaceServer
+- ApplicationServer 
+- AS
 - back
 - Back
 - Back End Server
-- Backend Server
 - BackEnd Server
+- Backend Server
 - backEndServer
-- BackendServer
-- backendServer
 - BackEndServer
+- backendServer
+- BackendServer
 - BackServer
+- DB에 접근로직
+- DB에 접근하는 로직
+- DB에접근로직
+- DB접근로직
 - Dynamic Web Container
 - Dynamic Web Server
 - Dynamic Web Server Container
@@ -47,71 +32,86 @@
 - Dynamic WebContainer
 - Dynamic WebServer
 - DynamicWebServer
+- MiddleWare
 - WAS
+- WAS
+- WAS(Web Application Server)
 - Web API Server
 - Web APIServer
 - Web App
 - Web Application
 - Web Application Program
+- Web Application Server
 - Web Application Server 
+- Web Application Server Program
+- Web Application Server Software
 - Web ApplicationProgram
 - Web Applicationprogram
 - Web Application-program
+- Web ApplicationServer
 - Web ApplicationServer 
-- ApplicationServer 
-- Application Server 
-- AS
 - Web Container
 - Web Server Application
 - WebAPI Server
 - WebAPIServer
 - WebApp
 - WebApplication
+- WebApplication Server
 - WebApplication Server 
 - WebApplicationProgrammingInterfaceServer
+- WebApplicationServer
 - WebApplicationServer
 - WebServer Application
 - WebServerApplication
 - 기술적개념-웹앱서버
 - 다이나믹서버
+- 동
+- 동적
 - 동적서버
 - 동적인서버
+- 동적처리
+- 동적처리 미들웨어
+- 동적컨텐츠처리
+- 동적컨텐츠처리 미들웨어
+- 동적콘텐츠처리
+- 동적콘텐츠처리 미들웨어
 - 동적페이지
 - 동적페이지서버
+- 미들웨어
 - 백서버
 - 백엔드
 - 백엔드서버
 - 벡서버
 - 벡엔드
 - 벡엔드서버
+- 서버
+- 애플리케이션 로직
+- 애플리케이션 서버
+- 애플리케이션로직
+- 애플리케이션서버
 - 역할적개념-백엔드서버
 - 웹 애플리케이션
+- 웹 애플리케이션 서버
+- 웹 애플리케이션 서버
+- 웹 애플리케이션서버
+- 웹 애플리케이션서버
 - 웹 앱
 - 웹 어플리케이션
 - 웹 프로그램
 - 웹기능있는프로그램
 - 웹기능프로그램
 - 웹애플리케이션
-- 웹애플리케이션서버
 - 웹애플리케이션 서버
-- 웹 애플리케이션서버
-- 웹 애플리케이션 서버
+- 웹애플리케이션 서버
+- 웹애플리케이션서버
+- 웹애플리케이션서버
 - 웹앱
 - 웹어플리케이션
 - 웹어플리케이션서버
 - 웹어플리케이션프로그램
 - 웹프로그램
-- 애플리케이션 로직
-- 애플리케이션로직
-- 중간처리애플리케이션로직
-- 중간처리 애플리케이션로직
-- DB에 접근하는 로직
-- DB에 접근로직
-- DB에접근로직
-- DB접근로직
+- 웹환경구현
 - 중간 계층
 - 중간계층
-- 애플리케이션 서버
-- 애플리케이션서버
-- 서버
-- 웹환경구현
+- 중간처리 애플리케이션로직
+- 중간처리애플리케이션로직

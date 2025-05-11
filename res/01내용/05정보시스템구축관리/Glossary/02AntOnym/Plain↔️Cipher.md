@@ -1,2 +1,2 @@
-- Plain↔️Cipher
+﻿- Plain↔️Cipher
 - PlainText↔️CipherText

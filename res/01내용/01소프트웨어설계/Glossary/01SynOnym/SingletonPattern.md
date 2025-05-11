@@ -1,16 +1,16 @@
-- 싱글톤패턴
-- 싱글톤디자인패턴
-- 싱글톤 디자인패턴
-- 싱글톤 패턴
-- 싱글톤
-- 싱글톤(Singleton)
-- 싱글톤(Singleton) 패턴
-- SingletonPattern
-- Singleton Pattern
-- Singleton DesignPattern
+﻿- Singleton
 - Singleton Design Pattern
-- Singleton
-- Singleton패턴
-- Singleton디자인패턴
+- Singleton DesignPattern
+- Singleton Pattern
 - Singleton 디자인패턴
 - Singleton 패턴
+- SingletonPattern
+- Singleton디자인패턴
+- Singleton패턴
+- 싱글톤
+- 싱글톤 디자인패턴
+- 싱글톤 패턴
+- 싱글톤(Singleton)
+- 싱글톤(Singleton) 패턴
+- 싱글톤디자인패턴
+- 싱글톤패턴

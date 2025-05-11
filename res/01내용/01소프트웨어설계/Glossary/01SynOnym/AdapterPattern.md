@@ -1,7 +1,7 @@
-- AdapterPattern
+﻿- Adapter
 - Adapter Pattern
-- Adapter패턴
 - Adapter 패턴
-- 어댑터(Adapter)
+- AdapterPattern
+- Adapter패턴
 - 어댑터
-- Adapter
+- 어댑터(Adapter)

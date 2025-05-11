@@ -1,20 +1,20 @@
+﻿- Beta Test
 - BetaTest
-- Beta Test
 - Beta검사
 - Beta테스트
+- Field Testing
+- FieldTesting
 - β
 - β Test
+- β 검사
+- β 테스트
 - β(베타) Test
 - βTest
 - β검사
-- β 검사
 - β테스트
-- β 테스트
-- 베타테스트
-- 베타 테스트
 - 베타
-- 필드 테스팅(Field Testing)
+- 베타 테스트
+- 베타테스트
 - 필드 테스팅
+- 필드 테스팅(Field Testing)
 - 필드테스팅
-- Field Testing
-- FieldTesting

@@ -1,7 +1,7 @@
-- MediatorPattern
+﻿- Mediator
 - Mediator Pattern
-- 중재자(Mediator)
-- 중재자
-- Mediator
-- Mediator패턴
 - Mediator 패턴
+- MediatorPattern
+- Mediator패턴
+- 중재자
+- 중재자(Mediator)

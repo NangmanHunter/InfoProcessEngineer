@@ -1,28 +1,28 @@
-- MultiTask
-- Multi Task
-- Multi-Task
-- Multi_Task
-- MultiTasking
-- Multi_Tasking
+﻿- Multi Task
 - Multi Tasking
+- Multi_Task
+- Multi_Tasking
+- MultiTask
+- Multi-Task
+- MultiTasking
 - Multi-Tasking
+- Multitasking (다중 작업)
 - 다중 작업(Multi-Tasking)
 - 다중작업
-- Multitasking (다중 작업)
-- 여러 작업을 병행 처리
-- 여러 작업을 병행처리
-- 여러작업을 병행처리
-- 여러작업 병행처리
-- 여러작업병행처리
-- 여러병행처리
-- 작업병행처리
-- 여러작업처리
 - 병행 처리
 - 병행처리
-- 여러 개의 작업이나 프로그램을 동시에 수행
+- 여러 개의 작업 동시에 수행
 - 여러 개의 작업을 동시에 수행
+- 여러 개의 작업이나 프로그램을 동시에 수행
+- 여러 작업을 동시수행
 - 여러 작업을 동시에 수행
 - 여러 작업을 동시에수행
-- 여러 작업을 동시수행
-- 여러 개의 작업 동시에 수행
+- 여러 작업을 병행 처리
+- 여러 작업을 병행처리
+- 여러병행처리
+- 여러작업 병행처리
+- 여러작업병행처리
+- 여러작업을 병행처리
+- 여러작업처리
+- 작업병행처리
 - 하나 이상의 작업을 백그라운드에서 수행

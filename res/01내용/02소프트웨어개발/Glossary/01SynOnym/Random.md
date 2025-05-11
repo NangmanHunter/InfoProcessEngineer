@@ -1,4 +1,4 @@
-- 무작위법(Random)
-- 무작위법
-- Random
+﻿- Random
 - Random법
+- 무작위법
+- 무작위법(Random)

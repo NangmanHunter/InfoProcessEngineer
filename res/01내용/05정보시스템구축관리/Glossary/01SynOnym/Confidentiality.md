@@ -1,3 +1,3 @@
-- Confidentiality
-- 기밀성(Confidentiality)
+﻿- Confidentiality
 - 기밀성
+- 기밀성(Confidentiality)

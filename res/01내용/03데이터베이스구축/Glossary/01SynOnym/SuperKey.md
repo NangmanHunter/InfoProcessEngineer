@@ -1,10 +1,10 @@
-- Super Key
-- SuperKey
-- Super키
-- Super 키
-- 슈퍼키
-- 슈퍼
-- 슈퍼키(Super Key)
+﻿- S Key
 - SK
 - SKey
-- S Key
+- Super Key
+- Super 키
+- SuperKey
+- Super키
+- 슈퍼
+- 슈퍼키
+- 슈퍼키(Super Key)

@@ -1,12 +1,12 @@
-﻿- Spiral Model
+﻿- SM
+- Spiral Model
+- Spiral 모형
 - SpiralModel
 - Spiral모형
 - SPM
 - SRM
-- SM
-- Spiral 모형
-- 나선모형
 - 나선 모형
+- 나선모형
 - 나선적 모형
 - 나선적모형
 - 나선형 모형

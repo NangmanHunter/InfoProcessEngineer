@@ -1,17 +1,17 @@
-- Hold_and_wait
-- Hold and wait
-- Hold and Wait
-- Hold-and-Wait
-- HoldandWait
+﻿- Hold & Wait
 - Hold And Wait
-- HoldAndWait
-- Hold & Wait
+- Hold and Wait
+- Hold and wait
 - Hold&Wait
-- 점유와 대기(Hold and Wait)
-- 점유와 대기
-- 점유와 대기
-- 점유와대기
-- 점유ㆍ대기
+- Hold_and_wait
+- HoldandWait
+- HoldAndWait
+- Hold-and-Wait
+- 점유 및 대기
 - 점유대기
 - 점유및대기
-- 점유 및 대기
+- 점유와 대기
+- 점유와 대기
+- 점유와 대기(Hold and Wait)
+- 점유와대기
+- 점유ㆍ대기

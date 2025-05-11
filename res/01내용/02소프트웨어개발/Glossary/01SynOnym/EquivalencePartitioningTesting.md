@@ -1,19 +1,19 @@
-- Equivalence Partitioning Testing
+﻿- EP
+- EP Testing
+- EPT
+- EPTesting
 - Equivalence Partitioning
-- EquivalencePartitioning
-- 동치 분할 검사(Equivalence Partitioning Testing, 동치 클래스 분해)
-- 동치 분할 검사
-- 동치분할 검사
-- 동치분할검사
-- 동치분할
 - Equivalence Partitioning Testing
+- Equivalence Partitioning Testing
+- EquivalencePartitioning
 - EquivalencePartitioning Testing
 - EquivalencePartitioningTesting
-- EPTesting
-- EPT
-- EP
-- EP Testing
+- 동치 분할 검사
+- 동치 분할 검사(Equivalence Partitioning Testing, 동치 클래스 분해)
 - 동치 클래스 분해
-- 동치클래스 분해
+- 동치분할
+- 동치분할 검사
+- 동치분할검사
 - 동치클래스
+- 동치클래스 분해
 - 동치클래스분해

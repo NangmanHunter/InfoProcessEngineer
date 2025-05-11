@@ -1,6 +1,6 @@
-- DES(Data Encryption Standard)
-- DES
-- Data Encryption Standard
+﻿- Data Encryption Standard
 - Data EncryptionStandard
 - DataEncryption Standard
 - DataEncryptionStandard
+- DES
+- DES(Data Encryption Standard)

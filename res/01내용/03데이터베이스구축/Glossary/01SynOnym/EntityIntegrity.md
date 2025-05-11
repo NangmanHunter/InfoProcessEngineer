@@ -1,12 +1,12 @@
-- 개체 무결성(Entity Integrity, 실체 무결성) 
-- 개체 무결성
-- 개체무결성
-- Entity Integrity
-- EntityIntegrity
-- Entity무결성
-- Entity 무결성
-- 실체 무결성
-- 실체무결성
-- ❌Nullㆍ❌중복
+﻿- ❌Nullㆍ❌중복
 - ❌Nullㆍ⭕유일
 - ❌Nullㆍ⭕유일성
+- Entity Integrity
+- Entity 무결성
+- EntityIntegrity
+- Entity무결성
+- 개체 무결성
+- 개체 무결성(Entity Integrity, 실체 무결성) 
+- 개체무결성
+- 실체 무결성
+- 실체무결성

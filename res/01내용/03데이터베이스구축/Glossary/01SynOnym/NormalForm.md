@@ -1,3 +1,3 @@
+﻿- NF
 - NormalForm
-- NF
 - 정규형

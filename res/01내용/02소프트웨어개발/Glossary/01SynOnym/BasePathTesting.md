@@ -1,15 +1,15 @@
-- Base Path Testing
-- 기초 경로 검사(Base Path Testing)
+﻿- Base Path Testing
+- BasePath Testing
+- Base-Path Testing
+- BasePathTesting
+- BP
+- BP Testing
+- BPT
+- BPTesting
 - 기초 경로 검사
+- 기초 경로 검사(Base Path Testing)
+- 기초 경로는 수행 가능한 모든 경로
 - 기초경로 검사
 - 기초경로검사
-- BasePath Testing
-- BasePathTesting
-- BPTesting
-- BP Testing
-- BP
-- BPT
-- Base-Path Testing
-- 기초 경로는 수행 가능한 모든 경로
 - 기초경로는 수행가능한 모든경로
 - 싸이클경로허용
