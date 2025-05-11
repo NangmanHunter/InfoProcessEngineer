@@ -4,9 +4,53 @@
 
 ## FileMap
 <details>
-    <summary>🌴FileTree</summary>
+    <summary>🌴DirectoryTree</summary>
 
 ```
+📁 InformationProcessingEngineer
+├── 📁 etc
+│   ├── 📁 GPT
+│   └── 📁 SyntaxOptimization
+└── 📁 res
+    ├── 📁 00개요
+    │   └── 📁 Glossary
+    └── 📁 01내용
+        ├── 📁 01소프트웨어설계
+        │   └── 📁 Glossary
+        │       ├── 📁 01SynOnym
+        │       └── 📁 02AntOnym
+        ├── 📁 02소프트웨어개발
+        │   ├── 📁 Glossary
+        │   │   ├── 📁 01SynOnym
+        │   │   └── 📁 02AntOnym
+        │   └── 📁 후위연산
+        │       └── 📁 Glossary
+        ├── 📁 03데이터베이스구축
+        │   ├── 📁 CartesianProduct
+        │   └── 📁 Glossary
+        │       ├── 📁 01SynOnym
+        │       └── 📁 02AntOnym
+        ├── 📁 04프로그래밍언어활용
+        │   ├── 📁 Glossary
+        │   │   ├── 📁 01SynOnym
+        │   │   └── 📁 02AntOnym
+        │   └── 📁 페이지프레임
+        └── 📁 05정보시스템구축관리
+            ├── 📁 Glossary
+            │   ├── 📁 01SynOnym
+            │   └── 📁 02AntOnym
+            ├── 📁 NetworkLayer
+            └── 📁 PortNumber
+                └── 📁 Glossary
+```
+</details>
+
+
+<details>
+    <summary>🌳FileTree</summary>
+
+```
+📁 InformationProcessingEngineer
 ├── 📁 etc
 │   ├── 📁 GPT
 │   │   ├── 📄 GPT고찰.md
