@@ -3,6 +3,8 @@
 - TheoryExam done
 
 ## FileMap
+<details>
+## FileMap
 ```
 ├── 📁 etc
 │   ├── 📁 GPT
@@ -767,3 +769,5 @@
 │           └── 📄 05정보시스템구축관리_04기출.md
 └── 📄 README.md
 ```
+
+</details>
