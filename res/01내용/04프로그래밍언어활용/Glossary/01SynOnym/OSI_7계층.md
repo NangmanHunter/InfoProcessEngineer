@@ -16,8 +16,8 @@
 - OSI 7계층
 - OSI 7계층 모델
 - OSI 7계층모델
-- OSI model
 - OSI Model
+- OSI model
 - OSI model by layer
 - OSI_7계층
 - OSI-7계층

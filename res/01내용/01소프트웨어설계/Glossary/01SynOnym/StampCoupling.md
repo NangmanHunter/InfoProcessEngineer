@@ -1,5 +1,5 @@
-﻿- Stamp
-- stamp
+﻿- stamp
+- Stamp
 - Stamp Coupling
 - StampCoupling
 - 검인결합도

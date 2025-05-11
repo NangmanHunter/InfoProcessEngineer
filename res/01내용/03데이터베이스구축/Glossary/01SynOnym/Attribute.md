@@ -2,8 +2,8 @@
 - Attribute DB
 - AttributeDB
 - col
-- Column
 - column
+- Column
 - DB Attribute
 - DBAttribute
 - DBMS Attribute

@@ -1,5 +1,5 @@
-﻿- macro
-- Macro
+﻿- Macro
+- macro
 - Macro Development Process
 - Macro DevelopmentProcess
 - Macro Process

@@ -1,6 +1,6 @@
 ﻿
-- Prototype
 - prototype
+- Prototype
 - 견본(시제)품(Prototype)
 - 견본품
 - 견본품(Prototype)

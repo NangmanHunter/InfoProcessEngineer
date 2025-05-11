@@ -1,7 +1,7 @@
-﻿- Secure Shell
-- Secure SHell
-- Secure Shell Protocol
+﻿- Secure SHell
+- Secure Shell
 - Secure SHell Protocol
+- Secure Shell Protocol
 - SSH
 - SSH Protocol
 - SSHProtocol

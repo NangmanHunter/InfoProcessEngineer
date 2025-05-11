@@ -1,9 +1,9 @@
-﻿- WaterFall Model
-- Waterfall Model
+﻿- Waterfall Model
+- WaterFall Model
 - Waterfall 모델
 - Waterfall 모형
-- WaterfallModel
 - WaterFallModel
+- WaterfallModel
 - Waterfall모델
 - Waterfall모형
 - WFM

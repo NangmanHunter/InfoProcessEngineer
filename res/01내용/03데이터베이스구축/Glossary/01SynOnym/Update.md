@@ -1,7 +1,7 @@
 ﻿- A▶️B
 - U
-- UPDATE
 - Update
+- UPDATE
 - 갱신
 - 갱신(Update)
 - 교환
