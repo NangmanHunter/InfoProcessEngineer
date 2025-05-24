@@ -4,6 +4,8 @@
 - col
 - column
 - Column
+- COLUMN
+- COL
 - DB Attribute
 - DBAttribute
 - DBMS Attribute
@@ -12,3 +14,6 @@
 - 속성
 - 속성(Attribute)
 - 열
+- 세로
+- 세
+- 수직
