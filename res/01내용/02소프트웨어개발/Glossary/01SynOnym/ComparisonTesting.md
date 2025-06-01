@@ -5,12 +5,12 @@
 - Comparison Testing
 - Comparison_Test
 - ComparisonTest
-- comparison-test
 - Comparison-Test
-- comparisontesting
+- comparison-test
 - ComparisonTesting
-- comparison-testing
+- comparisontesting
 - Comparison-Testing
+- comparison-testing
 - CT
 - CTesting
 - 비교

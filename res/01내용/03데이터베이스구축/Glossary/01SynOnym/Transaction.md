@@ -1,5 +1,5 @@
-﻿- Transaction
-- transaction
+﻿- transaction
+- Transaction
 - 일련연산
 - 일련의 연산
 - 일련의 연산

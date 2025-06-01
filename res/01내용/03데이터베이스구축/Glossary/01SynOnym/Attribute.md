@@ -1,19 +1,19 @@
 ﻿- Attribute
 - Attribute DB
 - AttributeDB
+- COL
 - col
+- COLUMN
 - column
 - Column
-- COLUMN
-- COL
 - DB Attribute
 - DBAttribute
 - DBMS Attribute
 - DBMSAttribute
 - j
+- 세
+- 세로
 - 속성
 - 속성(Attribute)
-- 열
-- 세로
-- 세
 - 수직
+- 열

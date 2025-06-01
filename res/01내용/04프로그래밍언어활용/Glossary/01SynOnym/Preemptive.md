@@ -6,9 +6,9 @@
 - NonPreemptive▶️Preemptive
 - NP▶️P
 - pre- -empt -ive
+- Preemptive
+- Preemptive
 - preemptive
-- Preemptive
-- Preemptive
 - Preemptive스케줄링
 - 다른 작업이 오면 현재 작업 중단 가능
 - 더 중요한 작업이 오면 현재 작업을 중단

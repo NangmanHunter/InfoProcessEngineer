@@ -4,13 +4,13 @@
 - C.E.G. Testing
 - Cause Effect Graphing Testing
 - Cause-Effect Graph
-- Cause-Effect Graph Testing
 - Cause-effect graph Testing
+- Cause-Effect Graph Testing
 - Cause-Effect Graphing
 - CauseEffect Graphing Testing
-- Cause-effect graphing Testing
-- Cause-effect Graphing Testing
 - Cause-Effect Graphing Testing
+- Cause-effect Graphing Testing
+- Cause-effect graphing Testing
 - CauseEffectGraphing Testing
 - CauseEffectGraphingTesting
 - CEG

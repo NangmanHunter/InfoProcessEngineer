@@ -1,8 +1,8 @@
-﻿- Copy
+﻿- CoPY
 - copy
-- CoPY
-- cpy
+- Copy
 - CPY
+- cpy
 - 덮기
 - 덮어쓰기
 - 복사

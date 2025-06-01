@@ -1,12 +1,12 @@
-﻿- Distinct
-- DISTINCT
-- ID
+﻿- DISTINCT
+- Distinct
 - id
-- Identifier
+- ID
 - identifier
-- UNIQUE
-- unique
+- Identifier
 - Unique
+- unique
+- UNIQUE
 - unique identifier
 - Uniqueness
 - 고유
