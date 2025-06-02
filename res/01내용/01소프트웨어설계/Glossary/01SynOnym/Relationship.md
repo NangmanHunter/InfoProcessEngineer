@@ -1,7 +1,7 @@
-﻿- R
-- r
-- rel
+﻿- r
+- R
 - Rel
+- rel
 - Relation
 - Relationship
 - Relationships

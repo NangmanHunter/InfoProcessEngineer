@@ -1,12 +1,12 @@
-﻿- attribute
-- Attribute
+﻿- Attribute
+- attribute
 - Attribute Class
 - AttributeClass
 - Class Attribute
 - ClassAttribute
 - Data
-- Variable
 - variable
+- Variable
 - 데이터
 - 변수
 - 분류

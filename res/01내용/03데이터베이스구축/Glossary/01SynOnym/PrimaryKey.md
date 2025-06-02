@@ -1,16 +1,16 @@
 ﻿- Main Key
 - MainKey
-- pk
 - PK
-- Primary Key
+- pk
 - Primary key
+- Primary Key
 - Primary 키
-- primaryKey
-- Primarykey
 - PrimaryKey
 - primarykey
-- Primary-key
+- primaryKey
+- Primarykey
 - primary-key
+- Primary-key
 - Primary키
 - 기본
 - 기본키

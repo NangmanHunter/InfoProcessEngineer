@@ -1,17 +1,17 @@
 ﻿- F Key
-- FK
 - fk
+- FK
 - FKey
-- Foreign Key
-- Foreign Key
 - Foreign key
-- ForeignKey
-- Foreignkey
-- ForeignKey
+- Foreign Key
+- Foreign Key
 - foreignkey
 - foreignKey
-- Foreign-key
+- ForeignKey
+- ForeignKey
+- Foreignkey
 - foreign-key
+- Foreign-key
 - Foreign키
 - 외래
 - 외래키

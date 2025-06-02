@@ -1,7 +1,7 @@
-﻿- Standard
+﻿- STanDard
 - standard
-- STanDard
-- Std
-- STD
+- Standard
 - std
+- STD
+- Std
 - Std.
