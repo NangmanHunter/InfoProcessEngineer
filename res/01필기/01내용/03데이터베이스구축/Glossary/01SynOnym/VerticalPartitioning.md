@@ -1,0 +1,15 @@
+- VerticalPartitioning
+- Vertical Partitioning
+- Vertical
+- VPartitioning
+- VP
+- 수직분할
+- 수직
+- 직
+- 수직 분할
+- 수직 분할(Vertical Partitioning)
+- 속성기준
+- 속성기준분할
+- 속성분할
+- 열분할
+- 열기준분할

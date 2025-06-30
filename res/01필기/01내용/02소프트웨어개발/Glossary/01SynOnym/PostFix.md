@@ -1,0 +1,23 @@
+﻿- Post
+- Postfix 
+- PostFix 
+- Postfix notation
+- Postfix Notation
+- PostFix 표기
+- Postfix 표기
+- Postfix 표기법
+- PostFix 표기법
+- PostfixNotation
+- Postfix표기
+- PostFix표기
+- PostFix표기법
+- Postfix표기법
+- 포스트픽스 표기법
+- 후
+- 후위
+- 후위
+- 후위 표기법
+- 후위표기법
+- 후위표기
+- 후치
+- 후치 표기법

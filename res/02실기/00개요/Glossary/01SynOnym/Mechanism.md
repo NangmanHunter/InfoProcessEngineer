@@ -1,0 +1,4 @@
+- 메커니즘
+- 메카니즘
+- Mechanism
+- mechanism

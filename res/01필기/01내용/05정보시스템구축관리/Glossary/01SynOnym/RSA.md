@@ -1,0 +1,18 @@
+﻿- Rivest Shamir Adleman
+- RivestShamirAdleman
+- RSA
+- RSA 기법
+- RSA(Rivest Shamir Adleman) 
+- RSA(RivestShamirAdleman) 
+- RSA(Rivest Shamir Adleman) 기법
+- RSA기법
+- 공개키 기법
+- 공개키 암호화
+- 공개키 암호화 기법
+- 공개키기법
+- 공개키암호화
+- 공개키암호화 기법
+- 공개키암호화기법
+- 1978년 MIT의 라이베스트(Rivest), 샤미르(Shamir), 애들먼(Adelman)에 의해 제안된 공개키 암호화 알고리즘
+- 공개키와 비밀키를 사용하는데, 여기서 키란 메시지를 열고 잠그는 상수(Constant)를 의미
+- 큰 숫자를 소인수분해 하기 어렵다는 것에 기반

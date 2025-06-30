@@ -1,0 +1,11 @@
+- 스피어 피싱(Spear Phishing)
+- 스피어 피싱
+- 스피어피싱
+- 스피어
+- Spear Phishing
+- Spear
+- Spear PhiShing
+- SpearPhiShing
+- SpearPhishing
+- 사회공학기법으로
+- 발송 메일의 본문 링크나 첨부된 파일을 클릭하도록 유도해 사용자의 개인 정보를 탈취

@@ -1,0 +1,10 @@
+- 레코드(Record)
+- 레코드
+- Record
+- ReCord
+- RC
+- R
+- 행
+- Tuple
+- 행(row) = 레코드(record)
+- 행(row)=레코드(record)

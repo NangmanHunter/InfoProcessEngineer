@@ -1,0 +1,7 @@
+- 퀵 정렬(Quick Sort)
+- 퀵 정렬
+- 퀵정렬
+- 퀵
+- Quick Sort
+- QuickSort
+- Quick

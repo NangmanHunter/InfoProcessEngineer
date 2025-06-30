@@ -1,0 +1,5 @@
+- Normalization
+- 정규화
+- 정규
+- 정규성
+- N

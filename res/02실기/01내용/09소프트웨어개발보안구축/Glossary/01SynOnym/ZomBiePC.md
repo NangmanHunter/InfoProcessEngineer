@@ -1,0 +1,8 @@
+- 좀비(Zombie) PC
+- 좀비(Zombie)PC
+- 좀비PC
+- 좀비 PC
+- ZombiePC
+- ZomBiePC
+- ZomBie PC
+- Zombie PC

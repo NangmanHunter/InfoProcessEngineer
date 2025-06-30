@@ -1,0 +1,11 @@
+- 큐싱(Qshing)
+- 큐싱
+- Qshing
+- QShing
+- QR코드(Quick Response Code)를 통해
+- QR코드와 개인정보 및 금융정보를 낚는다(Fishing)는 의미의 합성 신조어
+- QRCode + Fishing
+- QRCode + Fi-shing
+- QRCode + -shing
+- QRCode + shing
+- Q + shing

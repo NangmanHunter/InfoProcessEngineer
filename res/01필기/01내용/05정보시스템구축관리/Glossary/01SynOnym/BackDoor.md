@@ -1,0 +1,11 @@
+﻿- Back
+- Back Door
+- BackDoor
+- DB
+- Trap
+- Trap Door
+- TrapDoor
+- TD
+- 백도어
+- 백도어(Back Door, Trap Door)
+- 트랩도어

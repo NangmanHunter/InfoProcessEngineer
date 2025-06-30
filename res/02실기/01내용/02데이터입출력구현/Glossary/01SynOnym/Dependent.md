@@ -1,0 +1,3 @@
+- 종속자(Dependent)
+- 종속자
+- Dependent

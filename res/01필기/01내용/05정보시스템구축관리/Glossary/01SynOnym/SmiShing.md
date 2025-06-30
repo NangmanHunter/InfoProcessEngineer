@@ -1,0 +1,28 @@
+﻿- SmiShing
+- SMiShing
+- SMIShing
+- SMShing
+- SShing
+- Smishing
+- SMS
+- SMS + Phishing
+- Phishing▶️Smishing
+- 문자메세지
+- 문자메세지(SMS)
+- 스미싱
+- 스미싱(Smishing)
+- Smishing
+- Smi-shing
+- Smi + -shing
+- Smi + shing
+- Smi + Shing
+- Sm+ishing
+- Sm + ishing
+- Sm- + -ishing
+- Sms- + -ishing
+- SMS- + -ishing
+- SMS- + F-ishing
+- SMS + F-ishing
+- SMS + Fishing
+- SM-S + F-ishing
+- SM- + -ishing

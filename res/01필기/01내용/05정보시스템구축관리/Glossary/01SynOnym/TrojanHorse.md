@@ -1,0 +1,33 @@
+- 트로이언
+- 📌y+an▶️j+an
+- 📌번역문제
+- 📌번역문제▶️음역≠번역
+- 트로젠홀스
+- 트로젠올스
+- 트로젠 올스
+- 트로이
+- TrojanHorse
+- Trojan Horse
+- 트로젠 홀스
+- Troy-an-Horse
+- Troy-Horse
+- TroyHorse
+- Troy Horse
+- 트로이 목마
+- 트로이목마
+- 트로이 목마(Trojan Horse)
+- 📌01영어식▶️트로젠
+- 📌02한국식▶️트로이
+- 📌03최적식▶️트로이
+- 📌04최적식▶️영어식>>한국식
+- 📌05최적식▶️음역=번역>>음역≠번역
+- 트로이안목마
+- 트로이안
+- 트로젠
+- Troy
+- Troy목마
+- Troy의목마
+- Troy의 목마
+- Troy 목마
+- Troian
+- Trojan

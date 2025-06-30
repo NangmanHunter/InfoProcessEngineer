@@ -1,0 +1,3 @@
+- 결정자(Determinant)
+- 결정자
+- Determinant

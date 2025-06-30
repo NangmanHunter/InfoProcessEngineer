@@ -1,0 +1,14 @@
+﻿- i
+- ROW
+- Row
+- Tuple
+- TuPle
+- T
+- TP
+- 가로
+- 가로행
+- 수평
+- 튜플
+- 튜플(Tuple)
+- 행
+- Record

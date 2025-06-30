@@ -1,0 +1,7 @@
+- 반정규화(Denormalization)
+- 반정규화
+- Denormalization
+- DeNormalization
+- DN
+- 비정규화
+- 역정규화
