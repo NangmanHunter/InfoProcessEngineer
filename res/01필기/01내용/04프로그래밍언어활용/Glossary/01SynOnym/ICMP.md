@@ -1,0 +1,5 @@
+- ICMP(Internet Control Message Protocol, 인터넷 제어 메시지 프로토콜)
+- ICMP
+- Internet Control Message Protocol
+- 인터넷 제어 메시지 프로토콜
+- 제어메시지를 관리하는역할

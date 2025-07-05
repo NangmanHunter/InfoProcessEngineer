@@ -5,3 +5,11 @@
 - Row
 - Record
 - Tuple
+- 튜플
+- Row↔️Row수
+- Row(→)↔️Row수(↓)
+- Row(→)↔️Record수(↓)
+- Row(→)↔️Tuple수(↓)
+- Row(→)↔️Cardinality(↓)
+- Row↔️Cardinality
+- Row↔️Row개수

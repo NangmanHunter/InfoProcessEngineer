@@ -30,3 +30,4 @@
 - 보이스코드NF
 - 보이스코드정규형
 - 제3정규형(3NF)을 더 엄격하게 적용한 정규형
+- (BCNF)[https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%9D%B4%EC%8A%A4-%EC%BD%94%EB%93%9C_%EC%A0%95%EA%B7%9C%ED%99%94]

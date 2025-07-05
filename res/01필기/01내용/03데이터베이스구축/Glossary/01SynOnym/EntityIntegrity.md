@@ -1,5 +1,11 @@
 ﻿- ❌Nullㆍ❌중복
+- ❌Nullㆍ❌중복성
 - ❌Nullㆍ⭕유일
+- ❌Nullㆍ⭕유일성
+- ❌Nullㆍ✅유일
+- ❌Nullㆍ✅유일성
+- ✅유일
+- ✅유일성
 - ❌Nullㆍ⭕유일성
 - Entity Integrity
 - Entity 무결성
@@ -10,3 +16,4 @@
 - 개체무결성
 - 실체 무결성
 - 실체무결성
+- EI

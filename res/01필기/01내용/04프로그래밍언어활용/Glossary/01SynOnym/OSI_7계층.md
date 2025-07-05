@@ -23,3 +23,25 @@
 - OSI-7계층
 - OSI7계층모델
 - OSI-7계층모델
+- OSI(Open System Interconnection)
+- OSI
+- Open System Interconnection
+- OSI(Open System Interconnection) 참조 모델
+- OSI(Open System Interconnection) 참조모델
+- OSI(Open System Interconnection)참조모델
+- OSI참조모델
+- OSI참조 모델
+- OSI 참조 모델
+- OSI 참조모델
+- 7OSI참조모델
+- OSI모델
+- 📌01👉OSI모델▶️7
+- 📌02👉OSI모델▶️43
+- 📌03👉OSI모델▶️4ㆍ3
+- 📌04👉OSI모델▶️APSTㆍNDP
+- 📌05👉OSI모델▶️APSTNDP
+- 7OSI모델
+- 7계층OSI모델
+- 7계층 OSI모델
+- 7계층OSI참조모델
+- 7계층 OSI참조모델

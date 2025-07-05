@@ -1,5 +1,12 @@
-﻿- External Coupling
-- ExternalCoupling
+- 외부 결합도(External Coupling)
 - 외부 결합도
-- 외부 결합도(External Coupling) 
 - 외부결합도
+- 외부
+- External Coupling
+- ExternalCoupling
+- External
+- 어떤 모듈에서 선언한 데이터(변수)를 외부의 다른 모듈에서 참조할 때의 결합도
+- 외부의 다른 모듈에서 참조
+- 데이터(변수)를 외부의 다른 모듈에서 참조
+- 외부모듈참조
+- 외부참조

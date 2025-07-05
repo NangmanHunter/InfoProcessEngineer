@@ -1,0 +1,9 @@
+- LeftOuterJoin
+- LeftOuter Join
+- Left OuterJoin
+- Left Outer Join
+- 왼쪽외부조인
+- 왼외부조인
+- 좌측외부조인
+- 좌외부조인
+- LOJ

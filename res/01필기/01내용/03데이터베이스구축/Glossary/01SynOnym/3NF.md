@@ -12,3 +12,4 @@
 - 제 3정규형
 - 제3정규형
 - 제3정규화
+- [3NF](https://ko.wikipedia.org/wiki/%EC%A0%9C3%EC%A0%95%EA%B7%9C%ED%98%95)

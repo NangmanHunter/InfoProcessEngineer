@@ -1,0 +1,11 @@
+- IGMP(Internet Group Management Protocol, 인터넷 그룹 관리 프로토콜)
+- IGMP
+- Internet Group Management Protocol
+- 인터넷 그룹 관리 프로토콜
+- 멀티캐스트를 지원하는 호스트나 라우터사이에서 멀티캐스트그룹유지를 위해사용
+- 멀티캐스트그룹유지를 위해사용
+- 멀티캐스트그룹유지 위해사용
+- 멀티캐스트그룹유지위해사용
+- 그룹유지위해사용
+- 그룹위해사용
+- 멀티캐스트그룹 유지위해사용

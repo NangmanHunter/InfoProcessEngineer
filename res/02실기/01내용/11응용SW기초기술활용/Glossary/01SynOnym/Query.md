@@ -1,0 +1,21 @@
+- Query
+- QueryURL
+- URLQuery
+- query
+- queryString
+- Parameter
+- parameter
+- Parameters
+- parameters
+- 쿼리
+- 쿼리스트링
+- 파라미터
+- ?id=1
+- ?
+- ? =
+- ?=
+- ?A=B
+- ?00=00
+- 파라미터
+- 매개변수
+- 서버에 전달할 추가 데이터

@@ -1,6 +1,10 @@
 ﻿- Prototype
+- ProtoType
+- ProtoTypePattern
+- ProtoType Pattern
 - Prototype Design Pattern
 - Prototype DesignPattern
+- Prototype Pattern
 - Prototype Pattern
 - Prototype 디자인 패턴
 - Prototype 패턴
@@ -11,3 +15,7 @@
 - 프로토타입(Prototype)
 - 프로토타입(Prototype) 디자인패턴
 - 프로토타입(Prototype) 패턴
+- P
+- P패턴
+- PT
+- PT패턴

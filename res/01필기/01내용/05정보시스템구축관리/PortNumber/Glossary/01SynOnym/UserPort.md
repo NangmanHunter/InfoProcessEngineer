@@ -27,3 +27,10 @@
 - User Ports
 - User Ports (1024-49151)
 - UserPort
+- $2^{10} to 2^{15}+2^{14}-1$
+- $2^{10} ~ 2^{15}+2^{14}-1$
+- (1024~49151)
+- 1024~49151
+- Registered Port (1024~49151)
+- RegisteredPort
+- UserPorts

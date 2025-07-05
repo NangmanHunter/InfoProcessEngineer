@@ -33,3 +33,13 @@
 - Well-known-Port
 - WKP
 - WP
+- $0 to 2^{10}-1$  
+- $0 ~ 2^{10}-1$  
+- (0~1023)  
+- 0~1023  
+- System Ports   
+- System Ports (0-1023)  
+- SystemPorts   
+- Well-Known Port  
+- Well-Known Port (0~1023)  
+- Well-KnownPort  

@@ -9,3 +9,7 @@
 - 사용자 정의 무결성(User-Defined Integrity) 
 - 사용자정의 무결성
 - 사용자정의무결성
+- 정의무결성
+- UDI
+- DI
+- UI

@@ -1,0 +1,4 @@
+- RARP(Reverse Address Resolution Protocol)
+- RARP
+- Reverse Address Resolution Protocol
+- IP주소◀️MAC주소

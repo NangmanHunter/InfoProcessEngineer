@@ -2,7 +2,7 @@
 ##
 - [별의공부▶️OverView](https://starrykss.tistory.com/1598)
 - [별의공부▶️LinkPage](https://starrykss.tistory.com/1856)
-
+- [실기문제](https://byeongg96.tistory.com/61#prob3)
 
 ##
 - [OverView](https://solearn.tistory.com/273#%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC-1)

@@ -1,0 +1,11 @@
+- 다중조건 커버리지(MCC, Multiple Condition Coverage)
+- 다중조건 커버리지
+- 다중조건커버리지
+- MC
+- MCC
+- Multiple Condition Coverage
+- MultipleCondition Coverage
+- MultipleConditionCoverage
+- MultipleCondition
+- Multiple Condition
+- 결정 포인트 내의 모든 개별조건식의 모든 가능한 논리적 조합 100% 보장

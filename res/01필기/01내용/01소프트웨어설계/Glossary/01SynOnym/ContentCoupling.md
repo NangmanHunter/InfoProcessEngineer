@@ -1,5 +1,8 @@
-﻿- Content Coupling
-- ContentCoupling
+- 내용 결합도(Content Coupling)
 - 내용 결합도
-- 내용 결합도(Content Coupling) 
 - 내용결합도
+- 내용
+- Content Coupling
+- ContentCoupling
+- Content
+- 한 모듈이 다른 모듈의 내부 기능 및 그 내부 자료를 직접 참조하거나 수정할 때의 결합도

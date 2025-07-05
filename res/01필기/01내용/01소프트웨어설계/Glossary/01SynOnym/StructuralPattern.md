@@ -6,7 +6,11 @@
 - Structural Pattern
 - Structural 패턴
 - StructuralDesignPattern
+- 07StructuralDesignPattern
+- 7StructuralDesignPattern
 - StructuralPattern
+- 07StructuralPattern
+- 7StructuralPattern
 - Structural디자인패턴
 - Structural패턴
 - 구조 패턴
@@ -15,4 +19,6 @@
 - 구조적 패턴
 - 구조적패턴
 - 구조패턴
+- 7구조패턴
+- 07구조패턴
 - 구조패턴(StructuralPattern) 

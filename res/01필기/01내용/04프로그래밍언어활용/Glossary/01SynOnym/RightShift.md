@@ -1,0 +1,26 @@
+- 오른쪽 시프트
+- 오른쪽시프트
+- 오른쪽수평이동
+- 오른수평이동
+- 우측수평이동
+- 우수평이동
+- 오른시프트
+- 우시프트
+- 우 시프트
+- 우측시프트
+- 우측Shfit
+- 우Shfit
+- 우측 시프트
+- 우쪽시프트
+- 우쪽 시프트
+- RightShift
+- Right Shift
+- Shift▶️Right
+- ShiftRight
+- Shift Right
+- RS
+- Right
+- SR
+- 📌RightShift>>ShiftRight
+- 📌단어제목>>파일제목
+- 📌구상추상>>추상구상

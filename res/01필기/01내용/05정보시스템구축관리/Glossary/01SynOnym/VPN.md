@@ -1,8 +1,14 @@
 ﻿- Virtual Private Network
 - VirtualPrivateNetwork
 - VPN
+- VPN▶️IPSecㆍSSL
 - 가상 사설 네트워크
 - 가상 사설 통신망
 - 가상사설네트워크
 - 가상사설통신망
 - VPN (Virtual Private Network)
+- 전용선의 사설망을 구축한 것처럼 이용
+- 공중 네트워크와 암호화 기술을 이용하여 사용자가 마치 자신의 전용 회선을 사용하는 것처럼 해주는 보안 솔루션
+- 보안 솔루션
+- 보안솔루션
+- 솔루션

@@ -22,3 +22,23 @@
 - 참조하는
 - 참조하는속성
 - 참조하는키
+- Null⭕
+- ⭕Null
+- ✅Null
+- ⭕Null+PK
+- ✅Null+PK
+- ✅NullㆍPK
+- NullㆍPK
+- ✅Nullㆍ✅PK
+- ⭕Null + PK
+- 기본키참조
+- Null + 기본키참조
+- Null + 기본키
+- Null + 기본키(유일성ㆍ최소성)
+- 기본키 + Null
+- 기본키 + ⭕Null
+- 기본키 + Null⭕
+- Pk + Null
+- Pk+Null
+- Null + PK
+- Null+PK

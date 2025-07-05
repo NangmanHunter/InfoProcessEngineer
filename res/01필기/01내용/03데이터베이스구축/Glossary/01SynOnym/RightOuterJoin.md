@@ -1,0 +1,9 @@
+- RightOuterJoin
+- RightOuter Join
+- Right OuterJoin
+- Right Outer Join
+- 우측외부조인
+- 우외부조인
+- 오른쪽외부조인
+- 오른외부조인
+- ROJ

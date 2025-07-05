@@ -1,0 +1,25 @@
+- 왼쪽 시프트
+- 왼쪽시프트
+- 왼쪽수평이동
+- 왼수평이동
+- 좌측수평이동
+- 좌수평이동
+- 좌쪽시프트
+- 좌시프트
+- 좌 시프트
+- 좌쪽 시프트
+- 좌측시프트
+- 좌측Shfit
+- 좌Shfit
+- 좌측 시프트
+- LeftShift
+- LS
+- SL
+- Left
+- Left Shift
+- Shift▶️Left
+- ShiftLeft
+- Shift Left
+- 📌LeftShift>>ShiftLeft
+- 📌단어제목>>파일제목
+- 📌구상추상>>추상구상

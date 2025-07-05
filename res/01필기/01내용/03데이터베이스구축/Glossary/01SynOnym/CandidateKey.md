@@ -7,6 +7,8 @@
 - CK
 - CK=PK+AK
 - CKey
+- CK = PK+AK
+- CK = PK + AK
 - PrimaryKey + AlternateKey
 - PrimaryKey+AlternateKey
 - PrimaryKeyㆍAlternateKey
@@ -17,3 +19,12 @@
 - 후보키=기본키 + 대체키
 - 후보키=기본키+대체키
 - 후보키=기본키ㆍ대체키
+- 유일성⭕ 최소성⭕
+- CK▶️유일성⭕ 최소성⭕
+- CK▶️유일성⭕최소성⭕
+- CK▶️유일성⭕ㆍ최소성⭕
+- CK▶️⭕유일성ㆍ⭕최소성
+- CK▶️✅유일성ㆍ✅최소성
+- CK▶️✅유일성✅최소성
+- ✅유일성ㆍ✅최소성
+- ✅유일성✅최소성

@@ -1,0 +1,29 @@
+- 세타 조인(Theta Join)
+- 세타 조인
+- 세타조인
+- Theta Join
+- ThetaJoin
+- Theta
+- θ
+- θ▶️조건
+- 조건
+- 조건조인
+- 비동등조인
+- 비등가조인
+- NON-EQUI JOIN
+- NON EQUI JOIN
+- NonEqual
+- NonEqui
+- NonEqui-
+- NonEquity
+- NonEquityJoin
+- NonEQUItyJoin
+- NonEquality
+- NonEquality Join
+- NonEqualityJoin
+- NonEqui Join
+- Non-Equi Join
+- NonEquiJoin
+- 속성 값을 비교하여 조건을 만족하는 튜플만 반환하는 조인
+- 값비교
+- 조건만족

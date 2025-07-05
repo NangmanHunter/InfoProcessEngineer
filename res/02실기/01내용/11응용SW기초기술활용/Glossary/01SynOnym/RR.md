@@ -1,0 +1,6 @@
+- 라운드 로빈(RR; Round Robin) 
+- 라운드 로빈
+- 라운드로빈
+- RR
+- Round Robin
+- RoundRobin

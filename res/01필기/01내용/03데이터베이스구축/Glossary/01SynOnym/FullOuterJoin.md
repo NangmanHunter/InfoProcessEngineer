@@ -1,0 +1,12 @@
+- FullOuterJoin
+- FullOuter Join
+- Full OuterJoin
+- Full Outer Join
+- 전체외부조인
+- 전부외부조인
+- 전외부조인
+- 완전외부조인
+- 양쪽외부조인
+- 양측외부조인
+- 양외부조인
+- FOJ

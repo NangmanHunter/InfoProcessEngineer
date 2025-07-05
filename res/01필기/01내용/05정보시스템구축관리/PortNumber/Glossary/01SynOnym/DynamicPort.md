@@ -33,3 +33,23 @@
 - DynamicPrivatePort
 - N< $2^{16}$
 - n< $2^{16}$
+- $2^{15}+2^{14} to 2^{16}-1$
+- $2^{15}+2^{14} ~ 2^{16}-1$
+- (49152-65535)
+- (49152~65535)
+- 49152-65535
+- 49152~65535
+- Dynamic Port
+- Dynamic Ports
+- Dynamic and Private Ports
+- Dynamic and/or Private Ports
+- Dynamic and/or Private Ports (49152-65535)
+- Dynamic or Private Ports
+- Dynamic, private or ephemeral ports
+- Dynamic-Private Ports
+- Dynamic-Private-Ephemeral Port (49152~65535)
+- DynamicPort (49152~65535)
+- Client Port
+- not assigned
+- not assigned Port
+- Random Port

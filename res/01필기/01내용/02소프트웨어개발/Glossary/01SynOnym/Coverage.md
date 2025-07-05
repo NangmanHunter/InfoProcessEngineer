@@ -1,0 +1,12 @@
+- 검증 기준
+- 검증기준
+- 검증
+- 기준
+- Coverage
+- 어느 부분까지 실행
+- 커버리지
+- WBT검증기준
+- WBTCoverage
+- WBT Coverage
+- [Wiki▶️WhiteBoxTesting](https://en.wikipedia.org/wiki/White-box_testing)
+- [Wiki▶️Coverage](https://en.wikipedia.org/wiki/Code_coverage)

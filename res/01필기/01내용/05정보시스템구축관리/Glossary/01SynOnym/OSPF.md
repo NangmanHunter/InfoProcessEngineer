@@ -1,0 +1,32 @@
+- OSPF(Open Shortest Path First protocol)
+- OSPF
+- OSPFP
+- Open Shortest Path First protocol
+- 📌01▶️ShortestPath
+- 📌02▶️OpenShortestPath
+- 📌03▶️OpenShortestPathFirst
+- 📌04▶️OpenShortestPathFirstProtocol
+- ✅가중치
+- Shortest Path
+- ShortestPath
+- 최단경로
+- cost를 조절하는 방식
+- 가중치 기반 라우팅
+- 가중치기반 라우팅
+- 가중치기반라우팅
+- 가중치기반
+- 가중치
+- RIP단점해결하여 새로운기능지원하는 인터넷프로토콜
+- 최단 경로 탐색에 Dijkstra알고리즘을 사용
+- 대규모 네트워크에서 많이 사용된다.
+- 링크 상태를 실시간으로 반영하여 최단 경로로 라우팅을 지원한다
+- 링크 상태를 실시간으로 반영
+- 링크상태를 실시간으로반영
+- 링크상태를 실시간반영
+- 링크상태 실시간반영
+- 링크상태실시간반영
+- 링크상태를 반영
+- 링크상태 반영
+- 링크상태반영
+- 상태반영
+- 가중치반영

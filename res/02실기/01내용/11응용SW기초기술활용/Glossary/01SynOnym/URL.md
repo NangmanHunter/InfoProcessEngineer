@@ -1,0 +1,34 @@
+- URL
+- URL▶️SchemeㆍAuthorityㆍPathㆍParameterㆍAnchor
+- URL▶️SchemeㆍAuthorityㆍPathㆍQueryㆍFragment
+- URL▶️SㆍAㆍPㆍPㆍA
+- URL▶️SㆍAㆍPㆍQㆍF
+- URL▶️SㆍDPㆍPㆍQㆍF
+- URL▶️SㆍDㆍPㆍPㆍQㆍF
+- URL▶️SAPQF
+- SAPQF
+- SㆍAㆍPㆍQㆍF
+- SchemeㆍAuthorityㆍPathㆍQueryㆍFragment
+- URL▶️SchemeㆍDomainㆍPortㆍPathㆍParameterㆍAnchor
+- uniform-resource-locator
+- uniform-Resource-Locator
+- uniformResourceLocator
+- UniformResourceLocator
+- ResourceLocator
+- Resource Locator
+- 리소스Locator
+- 리소스위치
+- 리소스좌표
+- 유니폼한리소스좌표
+- 유니폼리소스좌표
+- 유니크한리소스좌표
+- 유니크리소스좌표
+- 단일한리소스좌표
+- 단일한리소스위치
+- 단일리소스위치
+- Uniform Resource Locator
+- Uniform_Resource_Locator
+- URL(Uniform Resource Locator)
+- 유알엘
+- [MDN▶️URL▶️Ko](https://developer.mozilla.org/ko/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL)
+- [MDN▶️URL▶️En](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL)

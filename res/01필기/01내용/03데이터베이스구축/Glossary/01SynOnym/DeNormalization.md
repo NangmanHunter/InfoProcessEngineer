@@ -2,6 +2,7 @@
 - 반정규화
 - Denormalization
 - DeNormalization
+- De
 - DN
 - 비정규화
 - 역정규화

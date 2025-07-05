@@ -13,3 +13,4 @@
 - 선점형인 SRT
 - 선점형인SRT
 - 실행 중인 작업보다 남은 시간이 더 짧은 작업이 도착하면, CPU를 선점(Preempt)하여 교체하는 스케줄링
+- SRT(Shortest Remaining Time)

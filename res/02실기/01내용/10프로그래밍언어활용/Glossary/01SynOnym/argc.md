@@ -1,0 +1,4 @@
+-  main(int argc, char *argv[]) 
+-  C언어
+-  argument count
+-  인자의 개수 (int)

@@ -1,4 +1,7 @@
-﻿- Singleton
+﻿- SingleTon
+- SingleTonPattern
+- SingleTon Pattern
+- Singleton
 - Singleton Design Pattern
 - Singleton DesignPattern
 - Singleton Pattern
@@ -8,9 +11,14 @@
 - Singleton디자인패턴
 - Singleton패턴
 - 싱글톤
+- 다일톤
 - 싱글톤 디자인패턴
 - 싱글톤 패턴
 - 싱글톤(Singleton)
 - 싱글톤(Singleton) 패턴
 - 싱글톤디자인패턴
 - 싱글톤패턴
+- ST
+- S
+- ST패턴
+- S패턴

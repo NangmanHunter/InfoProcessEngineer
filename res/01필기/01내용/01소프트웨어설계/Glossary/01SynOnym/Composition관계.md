@@ -1,4 +1,8 @@
 ﻿- ◆ (검은 마름모)
+- ◆
+- 검은 마름모
+- 검은마름모
+- 검마름모
 - Composition Relationship
 - Composition 관계
 - CompositionRelationship
@@ -12,3 +16,17 @@
 - 포함(Composition) 관계
 - 포함(Composition)관계
 - 포함관계
+- 강한 의존 (부분은 전체에 종속됨)
+- 없으면 의미 없음
+- 없으면 의미없음
+- 필수포함관계
+- Ex. 사람 - 심장 (사람 없으면 심장도 의미 없음)
+- Ex. 사람 객체가 소멸되면 심장도 같이 소멸
+- 📌일반의미▶️집합관계<<포함관계
+- 📌일반의미▶️포함관계>>집합관계
+- 📌일반의미▶️포함>>집합
+- 📌일반의미▶️Composition>>Aggregation
+- 📌일반의미▶️Aggregation관계<<Composition관계
+- 📌일반의미▶️Aggregation<<Composition
+- ✅하위필수
+- ✅하위필수▶️❌하위공집합

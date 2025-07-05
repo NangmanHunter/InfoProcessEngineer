@@ -1,8 +1,12 @@
-﻿- Common Coupling
-- CommonCoupling
-- 공유결합도
-- 공통(공유) 결합도
 - 공통(공유) 결합도(Common Coupling) 
+- 공통(공유) 결합도
 - 공통(공유)결합도
-- 공통결합도
 - 공통공유결합도
+- 공유결합도
+- 공유
+- 공통결합도
+- 공통
+- Common Coupling
+- CommonCoupling
+- Common
+- 공유되는 공통 데이터 영역을 여러 모듈이 사용할 때의 결합도

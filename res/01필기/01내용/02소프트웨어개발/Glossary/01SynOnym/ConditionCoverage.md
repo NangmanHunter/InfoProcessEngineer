@@ -1,0 +1,16 @@
+- 조건 검증 기준(Condition Coverage)
+- 조건 검증 기준
+- 조건 검증기준
+- 조건검증기준
+- 조건검증
+- 조건기준
+- 조건
+- Condition Coverage
+- ConditionCoverage
+- Condition
+- 개별조건식
+- 개별 조건식
+- CC
+- 각 개별 조건식이 참/거짓 한번 모두 갖도록 수행
+- [Wiki▶️CC](https://en.wikipedia.org/wiki/Modified_condition/decision_coverage)
+- 프로그램에 있는 결정 포인트 내의 모든 개별 조건식이 적어도 한 번은 참과 거짓을 만족해야 한다

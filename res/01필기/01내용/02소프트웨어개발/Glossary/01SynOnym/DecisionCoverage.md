@@ -1,0 +1,22 @@
+- 분기 검증 기준(Branch Coverage)
+- 분기 검증 기준
+- 분기 검증기준
+- 분기검증기준
+- 결정검증기준
+- 분기검증
+- 결정검증
+- 분기
+- 분기기준
+- Branch Coverage
+- BranchCoverage
+- Branch
+- 모든 조건문
+- 모든조건문
+- DC
+- BC
+- 분기 or 결정 커버리지(DC, Decision Coverage)
+- Decision Coverage
+- DecisionCoverage
+- 모든 결정의 분기가 적어도 한번씩은 실행되어야 함
+- [Wiki▶️DC](https://en.wikipedia.org/wiki/Modified_condition/decision_coverage)
+- 프로그램에 있는 모든 결정 포인트 내의 전체 조건식이 적어도 한 번은 참과 거짓을 만족해야 한다

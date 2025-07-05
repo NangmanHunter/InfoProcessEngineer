@@ -1,0 +1,18 @@
+- 문장 검증 기준(Statement Coverage)
+- 문장 검증 기준
+- 문장 검증기준
+- 문장검증기준
+- 문장기준
+- 문장검증
+- 문장
+- Statement Coverage
+- StatementCoverage
+- Statement
+- 모든 구문이 한 번 이상
+- 모든 구문
+- 모든구문
+- 모든 문장이 적어도 한번 실행
+- 테스트 Suite(테스트 케이스 묶음)에 실행된 구문이 몇 퍼센트인지를 측정
+- 구문 or 문장 커버리지(SC, Statement Coverage)
+- 구문 or 문장 커버리지
+- SC

@@ -23,3 +23,4 @@
 - 선입선출
 - 선입선출 스케줄링
 - 선입선출스케줄링
+- FCFS(First Come First Service, 선입 선출) = FIFO(First In First Out) 

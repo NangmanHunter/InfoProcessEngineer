@@ -1,0 +1,21 @@
+- 데이터그램 
+- 데이터그램 방식
+- Datagram
+- Datagram방식
+- DataGram
+- DataGram방식
+- Gram
+- Gram방식
+- gram
+- gram방식
+- 비연결형 통신에서 주로 사용되는 방식으로사전에 접속 절차를 수행하지 않고 헤더에 출발지에서 목적지까지의 경로 지정을 위한 충분한 정보를 붙여서 개별적으로 전달하는 방식
+- 네트워크에 관련
+- 네트워크 관련
+- 네트워크관련
+- 네트워크계층
+- 네트워크계층(3계층)
+- DG
+- 실제 IP는 Datagram 방식 사용
+- UDP/IP (Datagram)
+- UDP/IP(Datagram)
+- UDP(Datagram)/IP(Datagram)

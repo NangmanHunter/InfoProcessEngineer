@@ -1,0 +1,13 @@
+- GP(Interior Gateway Protocol, 내부 게이트웨이 프로토콜)
+- GP
+- Interior Gateway Protocol
+- InteriorGateway Protocol
+- InteriorGatewayProtocol
+- GatewayProtocol
+- Gateway Protocol
+- IGP
+- 내부 게이트웨이 프로토콜
+- 내부게이트웨이 프로토콜
+- 내부게이트웨이프로토콜
+- 게이트웨이 프로토콜
+- 게이트웨이프로토콜

@@ -1,0 +1,24 @@
+- P2P
+- 노드 간 직접 통신
+- 서버 없음, 분산 구조
+- 토렌트, 블록체인
+- Peer-to-Peer Network (P2P, 피어 투 피어)
+- Peer-to-Peer Network
+- Peer-To-Peer Network
+- PeerToPeer Network
+- PeerToPeerNetwork
+- Peer-to-PeerNetwork
+- P2P
+- P2PNetwork
+- PTPNetwork
+- PTP
+- PtP
+- PtPNetwork
+- 피어 투 피어
+- 피어투피어
+- 모든 노드가 동등한 역할
+- 서버 없이 직접 연결해 파일, 데이터, 자원 공유
+-  확장성 좋음
+-  관리 어려움, 보안 취약
+- 토렌트, 블록체인, 카카오톡 전송 구조 일부
+- A ↔ B ↔ C ↔ D   ← 서버 없이 직접 연결

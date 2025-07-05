@@ -1,0 +1,13 @@
+- 자연 조인 (Natural Join)
+- 자연 조인
+- 자연조인
+- 자연
+- Natural Join
+- Natural
+- NaturalJoin
+- NJ
+- 비중복
+- 중복제거
+- 중복된 속성을 제거하여 수행
+- 등가조인+중복제거
+- 등가조인 + 중복제거

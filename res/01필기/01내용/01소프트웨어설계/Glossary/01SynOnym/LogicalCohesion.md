@@ -1,0 +1,12 @@
+- 논리적 응집도 (Logical Cohesion) 
+- 논리적 응집도
+- 논리적응집도
+- 논리적
+- 논리응집도
+- 논리
+- Logical Cohesion
+- LogicalCohesion
+- Logical
+- 유사한 성격을 갖거나 특정 형태로 분류되는 처리 요소들로 하나의 모듈이 형성되는 경우
+- 유사성격
+- 유사성격ㆍ특정형태

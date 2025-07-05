@@ -13,3 +13,5 @@
 - 하위브랜치
 - 하위브랜치개수
 - 하위브랜치수
+- MapDegree
+- TreeDegree

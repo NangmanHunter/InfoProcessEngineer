@@ -1,0 +1,5 @@
+-  main(int argc, char *argv[]) 
+-  argv
+-  argument vector 
+-  C언어
+-  인자의 배열 (char* 배열)

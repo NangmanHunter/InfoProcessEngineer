@@ -1,0 +1,4 @@
+- EGP(Exterior Gateway Protocol, 외부 게이트웨이 프로토콜)
+- EGP
+- Exterior Gateway Protocol
+- 외부 게이트웨이 프로토콜

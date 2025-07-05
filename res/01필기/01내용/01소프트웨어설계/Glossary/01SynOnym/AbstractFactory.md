@@ -1,0 +1,21 @@
+- 추상 팩토리(Abstract Factory)
+- 추상 팩토리
+- 추상팩토리
+- 추상팩토리패턴
+- Abstract Factory
+- AF
+- AbstractFactory
+- Abstract Factory Pattern
+- AbstractFactory Pattern
+- AbstractFactoryPattern
+- Abstract Factory DesignPattern
+- Abstract Factory Design Pattern
+- 구체적인 클래스에 의존하지 않고, 
+- 인터페이스를 통해 서로 연관ㆍ의존하는 객체들의 그룹으로 생성하여 추상적으로 표현
+- 키트(Kit)패턴
+- 키트(Kit) 패턴
+- KitPattern
+- Kit Pattern
+- Kit
+- Kit패턴
+- 연관된 서브 클래스를 묶어 한 번에 교체하는 것이 가능

@@ -1,11 +1,27 @@
-﻿- Communication Cohesion
+- Communication Cohesion
 - Communication 응집도
 - CommunicationCohesion
+- Communication
 - Communication응집도
 - 교환(통신)적 응집도
 - 교환(통신)적 응집도 (Communication Cohesion) 
 - 교환(통신)적응집도
 - 교환적 응집도
 - 교환적응집도
+- 교환적
+- 교환응집도
+- 교환
 - 통신적 응집도
 - 통신적응집도
+- 통신적
+- 통신응집도
+- 통신
+- 동일한 입력과 출력을 사용하여 서로 다른 기능을 수행하는 구성 요소들이 모였을 경우의 응집도
+- 동일입출력ㆍ서로다른기능
+- 동일입출력+서로다른기능
+- 동일입출력 + 서로다른기능
+- 동일입출력ㆍ다른기능
+- 동일입출력+다른기능
+- 동일입출력 + 다른기능
+- 동일입출력
+- 동일입력출력

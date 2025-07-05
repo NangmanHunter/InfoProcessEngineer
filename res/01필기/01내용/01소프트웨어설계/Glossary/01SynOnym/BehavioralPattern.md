@@ -5,7 +5,9 @@
 - Behavioral 디자인패턴
 - Behavioral 패턴
 - BehavioralDesignPattern
+- 11BehavioralDesignPattern
 - BehavioralPattern
+- 11BehavioralPattern
 - Behavioral디자인 패턴
 - Behavioral디자인패턴
 - Behavioral패턴
@@ -16,4 +18,8 @@
 - 행위적 패턴
 - 행위적패턴
 - 행위패턴
+- 11행위패턴
+- 📌행위패턴>>행동패턴
+- 📌행위>>행동
+- 행동패턴
 - 행위패턴(BehavioralPattern)

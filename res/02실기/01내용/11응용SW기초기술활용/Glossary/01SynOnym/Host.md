@@ -1,0 +1,14 @@
+- Domain
+- Domain Name
+- DomainName
+- Host
+- IP Address
+- IP address
+- IPAddress
+- IPaddress
+- domain
+- domainName
+- host
+- HostName
+- 호스트
+- 호스트명

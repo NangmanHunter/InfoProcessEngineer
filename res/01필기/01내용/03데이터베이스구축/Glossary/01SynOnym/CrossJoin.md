@@ -1,0 +1,19 @@
+- 교차 조인 (Cross Join)
+- 교차 조인
+- 교차조인
+- 교차
+- Cross Join
+- Cross
+- CrossJoin
+- 모든 행을 서로 조합하는 조인 (카티션 곱)
+- $n \times n$
+- $n \times n=n^2$
+- $n^2$
+- 카테시안곱조인
+- 카테시안조인
+- 프로덕트조인
+- Product Join
+- ProductJoin
+- CartesianProductJoin
+- CartesianProduct Join
+- Cartesian Product Join

@@ -24,4 +24,12 @@
 - 키 속성
 - 키Attribute
 - 키속성
-- 튜플들을 서로 구분할 수 있는 기준이 되는 애트리뷰트
+- 튜플들을 서로 구분할 수 있는 기준이 되는 
+- 필드키
+- 필드 키
+- Field Key
+- FieldKey
+- Key가되는 Attribute
+- Key가되는 속성
+- Key가되는 Field
+- 키(Key)

@@ -10,3 +10,4 @@
 - 제 1정규형
 - 제1정규형
 - 제1정규화
+- [1NF](https://ko.wikipedia.org/wiki/%EC%A0%9C1%EC%A0%95%EA%B7%9C%ED%98%95)

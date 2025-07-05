@@ -1,0 +1,34 @@
+- Protocol
+- Scheme
+- Scheme▶️계획
+- Scheme▶️제도
+- Scheme▶️설계
+- Scheme▶️음모
+- 정책
+- 제도
+- 계획
+- 설계
+- 음모
+- URL방식
+- 시스템
+- Schema
+- protocol
+- scheme
+- schema
+- Schema
+- Schema▶️구조
+- 프로토콜
+- 스키마
+- 형태
+- 모양
+- 구조
+- 틀
+- 그리스어 ‘σχῆμα (skhēma)’
+- 스키마(schema)
+- 스킴
+- 프로토콜
+- 스키마
+- 리소스에 접근하는 방법이나 프로토콜
+- 접근하는 방법
+- 접근하는방법
+- 접근방법
