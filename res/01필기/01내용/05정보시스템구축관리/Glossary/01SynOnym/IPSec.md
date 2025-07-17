@@ -1,14 +1,15 @@
-- IPsec (인터넷 프로토콜 보안)
-- IPSec
-- IPSecurity
-- IP Security
-- IPsec
+﻿- IP Security
 - IP 네트워크에서 안전한 통신을 제공하는 프로토콜 모음입니다. 
+- IP(Internet Protocol) 계층에서 IP패킷단위의 데이터변조방지 및 은닉기능을 제공하는 네트워크계층
+- IPsec
+- IPSec
+- IPsec (인터넷 프로토콜 보안)
+- IPSecurity
 - IPsec은 데이터 암호화, 무결성 검증, 발신자 인증 등을 통해 보안 연결을 설정하고 유지합니다. 
-- 주로 VPN(가상 사설망)을 구축하여 안전한 네트워크 통신을 가능하게함
-- 네트워크 계층에서 패킷 단위의 데이터 변조 방지 및 은닉 기능을 제공하는 프로토콜
-- 주요 구성 요소에는 AH(Authentication Header), ESP(Encapsulating Security Payload), SA(Security Association), IKE(Internet Key Exchange) 가 있다.
-- 주요 기능▶️암호화무결성, 인증, 재전송 방지
+- IPv4/IPv6 모두 지원
 - TLS는 전송 계층, IPSec은 네트워크 계층 보안
 - VPN에서 많이 사용됨 (IPSec VPN)
-- IPv4/IPv6 모두 지원
+- 네트워크 계층에서 패킷 단위의 데이터 변조 방지 및 은닉 기능을 제공하는 프로토콜
+- 주로 VPN(가상 사설망)을 구축하여 안전한 네트워크 통신을 가능하게함
+- 주요 구성 요소에는 AH(Authentication Header), ESP(Encapsulating Security Payload), SA(Security Association), IKE(Internet Key Exchange) 가 있다.
+- 주요 기능▶️암호화무결성, 인증, 재전송 방지

@@ -1,7 +1,15 @@
-﻿- Function Modeling
+﻿- EX. 자료흐름도 (DFD)
+- FM
+- Function Data Modeling
+- Function DataModeling
+- Function Modeling
+- Functional Data Modeling
+- Functional DataModeling
 - Functional Modeling
+- FunctionalDataModeling
 - FunctionalModel
 - FunctionalModeling
+- FunctionDataModeling
 - FunctionModel
 - FunctionModeling
 - 기능 모델
@@ -10,7 +18,11 @@
 - 기능 모델링(Functional Modeling)
 - 기능모델
 - 기능모델링
+- 기능적 데이터 모델링
+- 기능적 데이터모델링
 - 기능적 모델
 - 기능적 모델링
+- 기능적데이터모델링
 - 기능적모델
 - 기능적모델링
+- 다수의 프로세스들 간의 자료 흐름을 중심으로 처리 과정을 표현한 모델링

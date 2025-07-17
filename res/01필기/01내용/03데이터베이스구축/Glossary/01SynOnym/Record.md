@@ -1,16 +1,17 @@
-- 레코드(Record)
+﻿- R
+- RC
+- ReCord
+- Record
+- Tuple
 - 레코드
+- 레코드(Record)
 - 레코드개수
 - 레코드수
-- 행개수
-- 행의개수
-- 행의수
-- 행수
-- Record
-- ReCord
-- RC
-- R
+- 파일 구조에서는 레코드
 - 행
-- Tuple
 - 행(row) = 레코드(record)
 - 행(row)=레코드(record)
+- 행개수
+- 행수
+- 행의개수
+- 행의수

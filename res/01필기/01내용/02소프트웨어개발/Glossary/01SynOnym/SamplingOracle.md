@@ -1,7 +1,16 @@
-﻿- Sampling
+﻿- Sample Oracle
+- SampleOracle
+- Sampling
 - Sampling Oracle
 - SamplingOracle
+- 경계값 및 구간별 예상값 결과 작성시 사용하는 오라클
+- 샘플 오라클
 - 샘플링 오라클
+- 샘플링 오라클(Sampling Oracle)
 - 샘플링(Sampling) 오라클
 - 샘플링(Sampling)오라클
 - 샘플링오라클
+- 샘플링오라클(SamplingOracle)
+- 샘플오라클
+- 전수테스트가 불가능한 경우 사용하고
+- 특정한 몇몇 테스트 케이스의 입력 값들에 대해서만 기대하는 결과를 제공하는 오라클

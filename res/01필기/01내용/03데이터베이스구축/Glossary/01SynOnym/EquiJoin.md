@@ -1,31 +1,31 @@
-- EQUI JOIN
-- Equi- Join 
-- Equi Join 
-- Equity Join 
-- EquityJoin 
-- EquiJoin 
-- EqualJoin 
-- Equal Join
-- 동등조인
-- 동등조인▶️2n
-- 등조인
-- 동등 조인
-- 일반적조인
-- 일반적 조인
+﻿- "등가 조인" = "동등 조인" = "Equi Join"
+- $2n$
+- $n+n$
+- $n+n=2n$
 - =연산자
-- =연산자조인
 - =연산자사용
 - =연산자사용조인
-- 평등조인
-- 동일조인
-- EJ
-- 등가조인
-- 동등 조인 (Equi Join)
-- 일반적으로 조인이라고 하면 동등조인을 의미
-- 결과 릴레이션의 차수는 첫 번째 릴레이션과 두 번째 릴레이션의 차수를 합한 것
-- $n+n=2n$
-- $2n$
+- =연산자조인
 - 2n
-- $n+n$
+- EJ
+- Equal Join
+- EqualJoin 
+- EQUI JOIN
+- Equi Join 
+- Equi- Join 
+- EquiJoin 
+- Equity Join 
+- EquityJoin 
 - n+n
-- "등가 조인" = "동등 조인" = "Equi Join"
+- 결과 릴레이션의 차수는 첫 번째 릴레이션과 두 번째 릴레이션의 차수를 합한 것
+- 동등 조인
+- 동등 조인 (Equi Join)
+- 동등조인
+- 동등조인▶️2n
+- 동일조인
+- 등가조인
+- 등조인
+- 일반적 조인
+- 일반적으로 조인이라고 하면 동등조인을 의미
+- 일반적조인
+- 평등조인

@@ -1,4 +1,27 @@
 ﻿- D
+- D▶️DF
 - Delete
+- DELETE FROM ~
+- DELETE FROM~
+- Delete▶️DeleteFrom
+- Delete▶️DeleteFromㆍDeleteFromWhere
+- DeleteFrom
+- Delete-From
+- DELETE-FROM
+- DeleteFrom문
+- DELETE-FROM문
+- DELETE-FROM문
+- DELETE문
+- Delete문
+- Delete문▶️DeleteFrom문ㆍDeleteFromWhere문
+- DeleteㆍFrom
+- DeleteㆍFrom문
+- DELETEㆍFROM문
+- DF문
+- D문
+- D문▶️DF문
+- D문▶️DF문ㆍDFW문
 - 삭제
 - 삭제(Delete)
+- 삭제문
+- 삭제문(DELETE FROM~)

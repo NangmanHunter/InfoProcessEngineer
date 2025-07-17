@@ -1,4 +1,7 @@
-﻿- UserDefined Integrity
+﻿- DI
+- UDI
+- UI
+- UserDefined Integrity
 - UserDefined 무결성
 - User-Defined 무결성
 - UserDefinedIntegrity
@@ -8,8 +11,9 @@
 - 사용자 정의 무결성
 - 사용자 정의 무결성(User-Defined Integrity) 
 - 사용자정의 무결성
+- 사용자정의 무결성 제약조건
+- 사용자정의 무결성제약조건
 - 사용자정의무결성
+- 사용자정의무결성 제약조건
+- 사용자정의무결성제약조건
 - 정의무결성
-- UDI
-- DI
-- UI

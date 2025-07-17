@@ -1,0 +1,49 @@
+﻿- ◇
+- ◇ (흰 마름모)
+- ◇───
+- ✅독립관계
+- ✅비종속관계
+- ❌비독립관계
+- ❌종속관계
+- ❌하위필수
+- ❌하위필수▶️✅하위공집합
+- Aggre
+- Aggregation
+- Aggregation Relationship
+- Aggregation 관계
+- Aggregation=❌종속
+- Aggregation=독립
+- AggregationR
+- AggregationRelationship
+- AGgregationRelationship
+- Aggregation관계
+- AggreR
+- AGR
+- AR
+- Ex. 학급 - 학생 (학생은 학급 없어도 존재 가능)
+- Ex. 학생은 학급이 없어도 혼자 존재 가능함
+- 느슨하게 연결됨
+- 단순포함관계
+- 부분전체관계 + 독립관계
+- 부분전체관계 + 비종속관계
+- 소유-구성원
+- 소유-구성원 관계
+- 약한 의존 (부분은 독립적으로 존재 가능)
+- 약한 포함
+- 약한포함
+- 약한포함관계
+- 없어도 존재 가능
+- 없어도 존재가능
+- 전체-부분(Whole-Part) 관계
+- 전체부분관계 + 독립관계
+- 전체부분관계 + 비종속관계
+- 전체와 부분이 독립적인 생명주기 가짐
+- 집합 관계
+- 집합(Aggregation)
+- 집합(Aggregation) 관계
+- 집합(Aggregation)관계
+- 집합관계
+- 집합관계ㆍ포함관계▶️둘 다 전체-부분(Whole-Part) 관계
+- 하나의 사물이 다른 사물에 포함되어 있는 관계로, 전체와 부분으로 구분되어지며 서로 독립적이다
+- 흰 마름모
+- 흰마름모

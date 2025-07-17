@@ -1,0 +1,11 @@
+﻿- HTTP만 사용 (GET, POST 등)
+- REpresentational State Transfer
+- RESTful API
+- Restful Protocol
+- restful 프로토콜
+- Restful 프로토콜
+- RestfulProtocol
+- Restful프로토콜
+- restful프로토콜
+- SOAP보다 가벼운 프로토콜
+- 아키텍처 스타일 (HTTP 기반)

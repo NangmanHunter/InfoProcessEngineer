@@ -5,6 +5,7 @@
 - Shortest RemainingTime
 - SRT
 - SRT First
+- SRT(Shortest Remaining Time)
 - SRTF
 - SRTFirst
 - 남은 작업 시간 (Shortest Remaining Time)
@@ -12,5 +13,7 @@
 - 선점형SRT
 - 선점형인 SRT
 - 선점형인SRT
+- 시분할 시스템에 유용
 - 실행 중인 작업보다 남은 시간이 더 짧은 작업이 도착하면, CPU를 선점(Preempt)하여 교체하는 스케줄링
-- SRT(Shortest Remaining Time)
+- 준비상태 큐에 있는 각 프로세스의 실행 시간을 추적하여 보유하고 있어야 하므로 오버헤드가 증가
+- 현재 실행중인 프로세스의 남은 시간과 준비상태 큐에 새로 도착한 프로세스의 실행 시간을 비교하여 가장 짧은 실행 시간을 요구하는 프로세스에게 CPU를 할당하는 기법

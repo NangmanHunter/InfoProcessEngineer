@@ -1,0 +1,14 @@
+﻿- .json
+- AJAX에서 사용
+- JavaScript Object Notation
+- Json
+- JSON
+- json
+- JSON(JavaScript Object Notation)  
+- JSON기본자료형▶️숫자ㆍ문자열ㆍ참/거짓ㆍ배열ㆍ객체ㆍNULL
+- XML 대체
+- XML👉JSON
+- XML대체
+- XML을 대체
+- XML을대체
+- 큰따옴표(" ")로 묶는다

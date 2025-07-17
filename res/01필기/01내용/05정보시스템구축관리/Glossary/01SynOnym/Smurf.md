@@ -1,13 +1,13 @@
+﻿- IP나 ICMP의 특성을 악용
+- IP나 ICMP의 특성을 악용하여 엄청난 양의 데이터를 한 사이트에 집중적으로 보냄
+- Smurf
+- SMURFING
+- Smurfing
+- SMURFING(스머핑)
+- Smurfing(스머핑)
+- Smurfing공격
+- Smurf공격
 - 스머프
 - 스머프공격
-- Smurf
-- Smurf공격
-- Smurfing
-- Smurfing공격
 - 스머핑
 - 스머핑공격
-- SMURFING(스머핑)
-- SMURFING
-- Smurfing(스머핑)
-- IP나 ICMP의 특성을 악용하여 엄청난 양의 데이터를 한 사이트에 집중적으로 보냄
-- IP나 ICMP의 특성을 악용

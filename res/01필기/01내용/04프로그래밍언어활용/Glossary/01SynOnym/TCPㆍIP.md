@@ -1,18 +1,18 @@
+﻿- [나무위키▶️TCP/IP](https://namu.wiki/w/TCP/IP)
+- [위키▶️TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+- TCP/IP
 - TCP/IP 4계층
-- TCP/IP4계층
-- TCPIP4계층
 - TCP/IP 계층
+- TCP/IP4계층
 - TCP/IP계층
+- TCPIP
+- TCPIP4계층
 - TCPIP계층
+- TCPㆍIP
+- TCPㆍIP 4계층
 - TCPㆍIP계층
 - 📌01👉TCPㆍIP계층▶️4
 - 📌02👉TCPㆍIP계층▶️22
 - 📌03👉TCPㆍIP계층▶️2ㆍ2
 - 📌04👉TCPㆍIP계층▶️ATㆍIN
 - 📌05👉TCPㆍIP계층▶️ATIN
-- TCPㆍIP
-- TCPIP
-- TCP/IP
-- TCPㆍIP 4계층
-- [위키▶️TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-- [나무위키▶️TCP/IP](https://namu.wiki/w/TCP/IP)

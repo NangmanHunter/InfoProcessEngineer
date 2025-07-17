@@ -1,14 +1,16 @@
 ﻿- emere(라틴어)▶️사다, 취하다(take)
 - -empt
+- empt▶️점하다
+- empt▶️취하다
 - empty는 Old English ‘ǣmettig’에서 유래▶️empt와 어원이 전혀 다름 (비슷하게 보여도 다른 뿌리)
 - FCFSㆍSJFㆍHRN▶️SRT
 - FCFSㆍSJFㆍHRN▶️SRTF
 - NonPreemptive▶️Preemptive
 - NP▶️P
 - pre- -empt -ive
+- Preemptive
+- Preemptive
 - preemptive
-- Preemptive
-- Preemptive
 - Preemptive스케줄링
 - 다른 작업이 오면 현재 작업 중단 가능
 - 더 중요한 작업이 오면 현재 작업을 중단
@@ -25,5 +27,3 @@
 - 선점형스케줄링
 - 중단
 - 중단가능
-- empt▶️취하다
-- empt▶️점하다

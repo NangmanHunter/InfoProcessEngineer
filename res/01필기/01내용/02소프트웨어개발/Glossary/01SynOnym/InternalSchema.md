@@ -1,6 +1,8 @@
 ﻿- Internal
 - Internal Schema
+- Internal 스키마
 - InternalSchema
+- Internal스키마
 - IS
 - Storage
 - Storage Schema
@@ -8,4 +10,12 @@
 - 내부
 - 내부 스키마
 - 내부 스키마 (Internal Schema)
+- 내부 스키마(Internal Schema)
+- 내부레코드
 - 내부스키마
+- 내부적 스키마
+- 내부적스키마
+- 실제
+- 실제로
+- 실제로 저장될 레코드의 형식 저장 데이터 항목의 표현 방법 내부 레코드의 물리적 순서 등을 나타낸다
+- 전체 데이터베이스의 물리적 저장 형태를 기술하는 것

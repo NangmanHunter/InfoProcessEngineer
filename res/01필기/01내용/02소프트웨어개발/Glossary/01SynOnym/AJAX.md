@@ -1,4 +1,5 @@
-﻿- AJAX
+﻿-  전체 페이지를 새로 고치지 않고도 웹페이지 일부 영역만을 업데이트할 수 있도록 하는 기술
+- AJAX
 - AJAX(Asynchronous JavaScript and XML)  
 - Asynchronous JavaScript and XML
 - XML
@@ -6,3 +7,7 @@
 - 본래XML
 - 본래XMLㆍ근래JSON
 - 비동기 통신 기술
+- 비동기 통신기술
+- 비동기통신 기술
+- 비동기통신기술
+- 클라이언트와 서버 간 자바스크립트 및 을 비동기 방식으로 처리

@@ -1,4 +1,5 @@
-﻿- -cret-
+﻿
+- -cret-
 - -cret- 또는 -cretio, -cretum
 - cret 분리하다
 - cret 자라다
@@ -17,8 +18,11 @@
 - DiscretionaryAC
 - DiscretionaryAccess Control
 - DiscretionaryAccessControl
+- 객체를 생성한 사용자가 생성된 객체에 대한 모든 권한을 부여받고부여된 권한을 다른 사용자에게 허가
 - 구현용이ㆍ유연함
 - 권한부여-데이터소유자
+- 데이터 소유자가 접근통제 권한을 지정하고 제어
+- 데이터에 접근하는 사용자의 신원에 따라 접근 권한을 부여
 - 라틴어 crescere = "자라다(grow), 늘어나다"
 - 사람
 - 사람▶️사람
@@ -46,3 +50,4 @@
 - 자율적
 - 자율적인
 - 접근결정-신분(Identity)
+- 접근하는 사용자의 신원에 따라 접근 권한을 부여

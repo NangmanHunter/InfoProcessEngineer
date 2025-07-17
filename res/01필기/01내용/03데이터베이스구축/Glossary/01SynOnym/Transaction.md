@@ -1,5 +1,9 @@
-﻿- Transaction
-- transaction
+﻿- transaction
+- Transaction
+- 묶음
+- 묶음단위
+- 일괄묶음
+- 일괄처리
 - 일련연산
 - 일련의 연산
 - 일련의 연산

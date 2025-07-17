@@ -1,9 +1,9 @@
-- Port
+﻿- Number
 - P
 - PN
+- Port
 - PortNumber
-- Number
-- 포트
-- 포트번호
-- 포트 번호
 - 번호
+- 포트
+- 포트 번호
+- 포트번호

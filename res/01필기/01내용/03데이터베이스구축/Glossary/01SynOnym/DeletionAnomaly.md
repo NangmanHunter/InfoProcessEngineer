@@ -1,10 +1,12 @@
-﻿- Deletion
+﻿- DA
+- Deletion
 - Deletion Anomaly
 - DeletionAnomaly
 - 삭제
 - 삭제 이상
 - 삭제 이상(Deletion Anomaly)
 - 삭제이상
-- 의도와는 상관없는 값들도 함께 삭제
 - 연쇄삭제
+- 의도와는 상관없는 값들도 함께 삭제
+- 테이블에서 튜플을 삭제할 때 의도와는 상관없는 값들도 함께 삭제되는 현상
 - 함께삭제

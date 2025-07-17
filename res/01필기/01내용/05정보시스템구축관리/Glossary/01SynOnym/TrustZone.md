@@ -1,0 +1,14 @@
+﻿- Trust zone
+- Trust Zone
+- Trustzone
+- TrustZone
+- Trust-zone
+- TrustZone Technology
+- TrustZoneTechnology
+- 일반 구역(Normal World)과 보안 구역(Secure World)으로 분할하여 관리
+- 칩 설계회사인 ARM(Advanced RISC Machine)에서 개발한 기술
+- 트러스트존
+- 트러스트존 기술
+- 트러스트존 기술(TrustZone Technology)
+- 트러스트존기술
+- 하나의 프로세서(Processor)내에 일반 애플리케이션을 처리하는 일반구역(Normal World)과 보안필요한 애플리케이션을 처리하는 보안구역(SecureWorld)으로 분할하여 관리하는 하드웨어기반의 보안기술

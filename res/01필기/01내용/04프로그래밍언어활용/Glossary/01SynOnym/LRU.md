@@ -1,12 +1,12 @@
-﻿- Least Recently Used
-- LRU
-- LRU(Least Recently Used)
-- ←
+﻿- ←
 - ←방향
+- ←방향성
 - ←방향적
 - ←향
 - ←향적
-- ←방향성
+- Least Recently Used
+- LRU
+- LRU(Least Recently Used)
 - 좌
 - 좌측
 - 좌측적

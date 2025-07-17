@@ -1,0 +1,13 @@
+﻿- I
+- Integration Test
+- Integration Testing
+- IntegrationTest
+- IntegrationTesting
+- IT
+- 모듈 간 또는 컴포넌트 간의 인터페이스가 정상적으로 실행되는지 검사
+- 모듈들을 결합하여 하나의 시스템으로 완성시키는 과정에서의 테스트
+- 통합 테스트
+- 통합 테스트(Integration Test)
+- 통합 테스트(Integration Testing)
+- 통합테스트
+- 통합테스트(IT)

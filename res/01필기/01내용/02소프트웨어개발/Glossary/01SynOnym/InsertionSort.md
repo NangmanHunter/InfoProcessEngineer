@@ -1,7 +1,7 @@
-- 삽입 정렬(Insertion Sort)  
-- 삽입 정렬
-- 삽입정렬
-- 삽입
+﻿- Insertion
 - Insertion Sort
 - InsertionSort
-- Insertion
+- 삽입
+- 삽입 정렬
+- 삽입 정렬(Insertion Sort)  
+- 삽입정렬

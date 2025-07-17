@@ -1,9 +1,36 @@
 ﻿- A▶️B
 - U
-- Update
+- U▶️US
 - UPDATE
+- Update
+- UPDATE ~ SET ~
+- Update Set
+- UPDATE SET
+- UPDATE SET문
+- UPDATE~ SET~
+- Update▶️UpdateSet
+- UpdateSet
+- UPDATE-SET
+- UpdateSet문
+- UpdateSet문
+- UPDATESET문
+- UPDATE-SET문
+- UPDATE문
+- Update문
+- UpdateㆍSet
+- UPDATEㆍSET
+- UpdateㆍSet문
+- UPDATEㆍSET문
+- US
+- US문
+- U문
+- U문▶️US문
 - 갱신
 - 갱신(Update)
+- 갱신문
+- 갱신문(UPDATE~ SET~)
 - 교환
 - 변경
 - 수정
+- 수정
+- 수정문

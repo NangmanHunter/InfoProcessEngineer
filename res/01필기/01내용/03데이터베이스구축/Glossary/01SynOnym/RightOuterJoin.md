@@ -1,9 +1,16 @@
-- RightOuterJoin
-- RightOuter Join
-- Right OuterJoin
+﻿- ✅RIGHT JOIN
+- Right Join
+- RIGHT JOIN
+- RIGHT JOIN ON
+- RIGHT OUTER JOIN
 - Right Outer Join
-- 우측외부조인
-- 우외부조인
-- 오른쪽외부조인
-- 오른외부조인
+- Right OuterJoin
+- RightJoin
+- RightOuter Join
+- RightOuterJoin
+- RJ
 - ROJ
+- 오른외부조인
+- 오른쪽외부조인
+- 우외부조인
+- 우측외부조인

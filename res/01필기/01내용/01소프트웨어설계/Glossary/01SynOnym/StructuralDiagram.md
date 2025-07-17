@@ -1,4 +1,6 @@
-﻿- Structural Diagram
+﻿- SD
+- Structural Diagram
+- Structural 다이어그램
 - Structural 다이어그램
 - StructuralDiagram
 - Structural다이어그램

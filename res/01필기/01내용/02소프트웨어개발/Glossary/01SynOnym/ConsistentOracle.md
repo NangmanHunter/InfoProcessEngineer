@@ -1,10 +1,21 @@
 ﻿- Consistent
 - Consistent Oracle
 - ConsistentOracle
+- 일관 오라클
+- 일관 오라클(consistency oracle)
+- 일관된 결과가 나오는지만 비교하여 판단
+- 일관된오라클
 - 일관성 검사
+- 일관성 검사 오라클(Consistency Check Oracle)
 - 일관성 검사(Consistent) 오라클
+- 일관성 오라클
+- 일관성 있는 결과를 기준으로 삼는 오라클
+- 일관성 판단 방식
 - 일관성검사
 - 일관성검사 오라클
 - 일관성검사(Consistent) 오라클
 - 일관성검사(Consistent)오라클
 - 일관성검사오라클
+- 일관성오라클
+- 일관오라클
+- 출력 결과가 일관되면 정답으로 간주하는 오라클

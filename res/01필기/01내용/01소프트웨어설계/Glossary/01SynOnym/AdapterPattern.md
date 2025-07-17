@@ -1,7 +1,11 @@
-﻿- Adapter
+﻿
+- Adapter
 - Adapter Pattern
 - Adapter 패턴
 - AdapterPattern
 - Adapter패턴
+- 기존 클래스(Adaptee)를 원하는 인터페이스(Target)에 맞게 변환하는 어댑터(Adapter)를 만든다
+- 기존 클래스를 감싸서(wrapper) 인터페이스를 변환해주는 역할을 한다
+- 서로 다른 인터페이스를 가진 클래스들을 연결해 사용 가능하게 한다
 - 어댑터
 - 어댑터(Adapter)

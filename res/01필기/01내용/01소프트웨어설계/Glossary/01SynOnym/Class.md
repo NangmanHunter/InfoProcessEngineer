@@ -3,9 +3,12 @@
 - Attribute+Operation
 - AttributeㆍOperation
 - AㆍO
-- class
 - Class
+- class
 - Class= Attribute + Operation
 - Class=AO
 - Class▶️AO
+- UML에 표현되는 사물의하나로, 객체가갖는 속성과 동작을 표현한다
+- 일반적으로 직사각형으로 표현
+- 직사각형안에 이름, 속성, 동작을 표기
 - 클래스

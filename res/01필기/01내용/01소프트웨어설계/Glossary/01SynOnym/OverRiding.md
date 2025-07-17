@@ -1,7 +1,41 @@
 ﻿- (){🔵상이}
 - {}
 - {🔵상이}
+- ✅ 메서드는 오버라이드됨 (동적 바인딩)
+- ❌ 필드는 오버라이드되지 않음 (정적 바인딩)
 - method(){🔵상이}
+- Method▶️OverRidingMethod
+- MethodOverRiding
 - OR
 - OverRiding
+- OverRiding▶️✅Method
+- OverRiding▶️✅MethodOverRiding
+- OverRiding▶️❌FieldOverRidingㆍ✅MethodOverRiding
+- OverRiding▶️❌Fieldㆍ✅Method
+- OverRiding▶️Method
+- OverRiding▶️MethodOverRiding
+- OverRiding▶️MethodOverRiding
+- OverRidingMethod
+- 👉필드ㆍ메소드▶️다르게논다
+- 👉필드ㆍ메소드▶️컴파일바인딩ㆍ런타임바인딩
+- 👉필드ㆍ메소드▶️컴파일시점ㆍ런타임시점
+- 📌메서드▶️❌컴파일시점바인딩ㆍ✅런타임시점바인딩
+- 📌메서드▶️❌컴파일시점ㆍ✅런타임시점
+- 📌메서드▶️❌컴파일ㆍ✅런타임
+- 📌필드　▶️✅컴파일
+- 📌필드　▶️✅컴파일시점
+- 📌필드　▶️✅컴파일시점바인딩
+- 🔎메서드바인딩▶️❌컴파일시점ㆍ✅런타임시점
+- 🔎필드바인딩　▶️✅컴파일시점
+- 🚩메서드▶️동적바인딩
+- 🚩필드　▶️정적바인딩
+- 그래서 super.show()가 아닌 이상, 항상 자식 클래스의 오버라이딩된 메서드가 실행됨
+- ➕런타임▶️실제객체기준👉✅오버라이딩
+- 만약 필드도 오버라이딩되면? Java에서 그렇게 되면 런타임 성능이 크게 떨어지고, 코드의 가독성과 예측 가능성이 낮아지기 때문에 설계 차원에서 허용하지 않음.
+- 메서드는 런타임에 동적으로 바인딩됨
 - 오버라이딩(OverRiding)
+- 컴파일 시점에 어떤 클래스의 필드인지는 이미 결정됨
+- ➕컴파일▶️클래스기준　👉❌오버라이딩
+- 필드는 클래스 단위로 정적 바인딩(static binding)됨
+- 하위 클래스가 같은 이름의 필드를 선언하더라도, 그것은 상위 클래스 필드를 숨기는 것(hiding)일 뿐, 오버라이딩이 아님
+- 호출 시점에 객체의 실제 타입을 기준으로 어떤 메서드를 쓸지 결정

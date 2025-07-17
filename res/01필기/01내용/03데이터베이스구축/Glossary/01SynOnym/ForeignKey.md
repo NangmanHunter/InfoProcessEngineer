@@ -1,44 +1,67 @@
-﻿- F Key
-- fk
+﻿- ✅Null
+- ✅Null+PK
+- ✅Nullㆍ✅PK
+- ✅NullㆍPK
+- ⭕Null
+- ⭕Null + PK
+- ⭕Null+PK
+- F Key
 - FK
+- fk
+- FK▶️✅Null
+- FK▶️✅NullAble
+- FK▶️✅Nullㆍ❌최소성
+- FK▶️❌유일성ㆍ❌최소성
+- FK▶️❌유일성ㆍ❌최소성ㆍ✅Null
+- FK▶️❌유일성ㆍ❌최소성ㆍ✅NullAble
+- FK▶️❌유일성ㆍ❌최소유일성
 - FKey
+- Foreign Key
 - Foreign key
 - Foreign Key
-- Foreign Key
+- ForeignKey
+- Foreignkey
 - foreignkey
 - foreignKey
 - ForeignKey
-- ForeignKey
-- Foreignkey
 - foreign-key
 - Foreign-key
 - Foreign키
+- Null + PK
+- Null + 기본키
+- Null + 기본키(유일성ㆍ최소성)
+- Null + 기본키참조
+- Null+PK
+- Null⭕
+- NullㆍPK
+- Pk + Null
+- Pk+Null
+- Referential Key
+- ReferentialKey
+- RK
+- 📌FK▶️✅Null
+- 📌FK▶️❌유일성
+- 📌FK▶️❌유일성ㆍ❌최소성
+- 📌대표어휘▶️FK>>RK
+- 📌대표어휘▶️Forign>>Referential
+- 📌대표어휘▶️ForignKey>>ReferentialKey
+- 📌대표어휘▶️외래>>참조
+- 📌대표어휘▶️외래키>>참조키
+- 기본키 + ⭕Null
+- 기본키 + Null
+- 기본키 + Null⭕
+- 기본키참조
 - 외래
 - 외래키
 - 외래키
 - 외래키(Foreign Key)
 - 참조
+- 참조속성
+- 참조키
 - 참조키
 - 참조하는
+- 참조하는 속성
+- 참조하는속성
 - 참조하는속성
 - 참조하는키
-- Null⭕
-- ⭕Null
-- ✅Null
-- ⭕Null+PK
-- ✅Null+PK
-- ✅NullㆍPK
-- NullㆍPK
-- ✅Nullㆍ✅PK
-- ⭕Null + PK
-- 기본키참조
-- Null + 기본키참조
-- Null + 기본키
-- Null + 기본키(유일성ㆍ최소성)
-- 기본키 + Null
-- 기본키 + ⭕Null
-- 기본키 + Null⭕
-- Pk + Null
-- Pk+Null
-- Null + PK
-- Null+PK
+- 한 릴레이션의 속상이 다른 릴레이션의 기본 키를 참조할 때, 참조하는 속성을 의미

@@ -1,20 +1,24 @@
 ﻿- A Key
+- ACK
 - AK
 - AKey
 - Alternate Key
 - Alternate 키
+- AlternateCadidateKey
 - AlternateKey
 - Alternate키
+- CK▶️ACK
+- CK▶️AK
+- CK중 PK외
+- PK외
 - 기본키를 제외한 나머지 후보키
 - 기본키를제외한 나머지후보키
 - 기본키제외한 나머지후보키
 - 대체
 - 대체키
 - 대체키(Alternate Key)
+- 대체키후보키
+- 대체후보키
 - 보조
 - 보조키
 - 후보키▶️대체키
-- 대체키후보키
-- 대체후보키
-- CK중 PK외
-- PK외

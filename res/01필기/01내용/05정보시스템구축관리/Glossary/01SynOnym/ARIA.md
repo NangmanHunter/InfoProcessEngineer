@@ -1,12 +1,12 @@
-﻿- Academy, Research Institute, Agency
+﻿- 2004년 국가정보원과 산학연협회가 개발한 블록 암호화 알고리즘
+- Academy, Research Institute, Agency
 - ARIA
 - ARIA(Academy, Research Institute, Agency)
-- 국산 블록 암호 알고리즘
-- 대한민국에서 개발
-- 2004년 국가정보원과 산학연협회가 개발한 블록 암호화 알고리즘
 - ARIA는 학계(Academy), 연구기관(Research Institute), 정부(Agency)의 영문 앞 글자로 구성
+- KISA + 학계
 - KISA + 학계 (암호학자들 공동)
 - KISA + 학계(암호학자들 공동)
-- KISA + 학계
-- KISA+학계(암호학자들 공동)
 - KISA+학계
+- KISA+학계(암호학자들 공동)
+- 국산 블록 암호 알고리즘
+- 대한민국에서 개발

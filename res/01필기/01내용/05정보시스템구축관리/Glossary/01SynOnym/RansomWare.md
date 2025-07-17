@@ -1,14 +1,14 @@
-- 랜섬웨어(Ransomware)
-- 랜섬웨어
-- 랜섬
-- Ransomware
+﻿- Ransom
 - Ransom ware
-- Ransom-ware
-- RansomWare
 - Ransom Ware
-- Ransom-Ware
+- RansomWare
 - RanSomWare
-- Ransom
-- RW
+- Ransomware
+- Ransom-Ware
+- Ransom-ware
 - RSW
+- RW
+- 랜섬
+- 랜섬웨어
+- 랜섬웨어(Ransomware)
 - 몸값(ransom)+프로그램(-ware)

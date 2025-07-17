@@ -1,20 +1,29 @@
-﻿- Main Key
+﻿- CK▶️PCK
+- CK▶️PK
+- Main Key
 - MainKey
-- PK
+- PCK
 - pk
-- Primary key
+- PK
+- Primary Cadiadate Key
+- Primary CadiadateKey
 - Primary Key
+- Primary key
 - Primary 키
-- PrimaryKey
-- primarykey
+- PrimaryCadiadate Key
+- PrimaryCadiadateKey
 - primaryKey
 - Primarykey
-- primary-key
+- PrimaryKey
+- primarykey
 - Primary-key
+- primary-key
 - Primary키
 - 기본
 - 기본키
 - 기본키(Primary Key)
+- 기본키후보키
+- 기본후보키
 - 우선
 - 우선키
 - 제일
@@ -25,5 +34,3 @@
 - 주키(Main Key)
 - 후보키 중에서 특별히 선정된 주키(Main Key)
 - 후보키▶️기본키
-- 기본키후보키
-- 기본후보키

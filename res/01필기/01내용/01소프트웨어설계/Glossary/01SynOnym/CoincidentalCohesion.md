@@ -1,17 +1,17 @@
-- 우연적 응집도 (Coincidental Cohesion) 
-- 우연적 응집도
-- 우연적응집도
-- 우연적
-- 우연
-- 우연응집도
+﻿- Coincidental
 - Coincidental Cohesion
 - CoincidentalCohesion
-- Coincidental
 - 모듈 내부의 각 구성 요소들이 서로 관련 없는 요소로만 구성된 경우의 응집도
+- 무관
+- 무관련
 - 서로 관련 없는 
 - 서로 관련없는 
 - 서로관련없는 
 - 서로무관
 - 서로무관련
-- 무관련
-- 무관
+- 우연
+- 우연응집도
+- 우연적
+- 우연적 응집도
+- 우연적 응집도 (Coincidental Cohesion) 
+- 우연적응집도

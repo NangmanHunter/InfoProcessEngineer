@@ -1,8 +1,8 @@
-- 반정규화(Denormalization)
-- 반정규화
-- Denormalization
+﻿- De
 - DeNormalization
-- De
+- Denormalization
 - DN
+- 반정규화
+- 반정규화(Denormalization)
 - 비정규화
 - 역정규화

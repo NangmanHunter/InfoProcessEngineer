@@ -1,7 +1,7 @@
-- 버블 정렬(Bubble Sort) 
-- 버블 정렬
-- 버블정렬
-- 버블
+﻿- Bubble
 - Bubble Sort
 - BubbleSort
-- Bubble
+- 버블
+- 버블 정렬
+- 버블 정렬(Bubble Sort) 
+- 버블정렬

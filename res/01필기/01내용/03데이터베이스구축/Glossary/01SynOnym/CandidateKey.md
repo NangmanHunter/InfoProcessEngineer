@@ -1,30 +1,38 @@
-﻿- Candidate Key
+﻿- ✅유일성✅최소성
+- ✅유일성ㆍ✅최소성
+- Candidate Key
 - Candidate 키
 - CandidateKey
 - CandidateKey=PrimaryKey + AlternateKey
 - CandidateKey=PrimaryKey+AlternateKey
 - Candidate키
 - CK
-- CK=PK+AK
-- CKey
-- CK = PK+AK
 - CK = PK + AK
+- CK = PK+AK
+- CK=PK+AK
+- CK▶️✅유일성✅최소성
+- CK▶️✅유일성ㆍ✅최소성
+- CK▶️✅유일성ㆍ✅최소성ㆍ✅NotNull
+- CK▶️✅유일성ㆍ✅최소성ㆍ❌Null
+- CK▶️✅유일성ㆍ✅최소성ㆍ❌NULL
+- CK▶️⭕유일성ㆍ⭕최소성
+- CK▶️유일성⭕ 최소성⭕
+- CK▶️유일성⭕최소성⭕
+- CK▶️유일성⭕ㆍ최소성⭕
+- CKey
 - PrimaryKey + AlternateKey
 - PrimaryKey+AlternateKey
 - PrimaryKeyㆍAlternateKey
+- 📌CK▶️✅유일성
+- 📌CK▶️✅유일성ㆍ✅최소성
+- 🔎01 CK▶️✅유일성ㆍ✅최소성
+- 🔎02 SK▶️✅유일성ㆍ❌최소성
+- 🔎03 FK▶️❌유일성ㆍ❌최소성
 - 기본키+대체키
 - 기본키ㆍ대체키
+- 유일성⭕ 최소성⭕
 - 후보키
 - 후보키(Candidate Key)
 - 후보키=기본키 + 대체키
 - 후보키=기본키+대체키
 - 후보키=기본키ㆍ대체키
-- 유일성⭕ 최소성⭕
-- CK▶️유일성⭕ 최소성⭕
-- CK▶️유일성⭕최소성⭕
-- CK▶️유일성⭕ㆍ최소성⭕
-- CK▶️⭕유일성ㆍ⭕최소성
-- CK▶️✅유일성ㆍ✅최소성
-- CK▶️✅유일성✅최소성
-- ✅유일성ㆍ✅최소성
-- ✅유일성✅최소성

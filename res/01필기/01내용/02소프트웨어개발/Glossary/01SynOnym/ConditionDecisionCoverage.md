@@ -1,40 +1,40 @@
-- ConditionㆍDecisionCoverage
-- ConditionCoverageㆍDecisionCoverage
-- ConditionDecisionCoverage
-- Condition/DecisionCoverage
-- Condition/Decision Coverage
-- Condition/Decision
-- CDC
-- CㆍDC
-- CC+DC
-- CCㆍDC
-- CCDC
-- C/DC
-- C/D
-- Condition/decision coverage
-- 분기/조건 기준(Branch/Condition Coverage)
-- 분기/조건 기준
-- 분기/조건 검증기준
-- 분기/조건검증기준
-- 조건/분기검증기준
-- 조건/분기 검증기준
-- 분기조건검증기준
-- 조건분기검증기준
-- 조건결정검증기준
-- 조건ㆍ결정검증기준
-- 조건ㆍ결정 검증기준
-- 조건/결정검증기준
-- 조건/결정 검증기준
-- 분기ㆍ조건검증기준
-- 분기ㆍ조건 검증기준
-- 조건ㆍ분기 검증기준
-- 조건ㆍ분기검증기준
+﻿- B/C
+- B/CC
 - Branch/Condition Coverage
 - Branch/ConditionCoverage
-- BranchㆍConditionCoverage
+- BranchCondition Coverage
+- BranchConditionCoverage
 - BranchCoverageㆍConditionCoverage
 - BranchㆍCondition Coverage
-- BranchConditionCoverage
-- BranchCondition Coverage
-- B/CC
-- B/C
+- BranchㆍConditionCoverage
+- C/D
+- C/DC
+- CC+DC
+- CCDC
+- CCㆍDC
+- CDC
+- Condition/Decision
+- Condition/Decision Coverage
+- Condition/decision coverage
+- Condition/DecisionCoverage
+- ConditionCoverageㆍDecisionCoverage
+- ConditionDecisionCoverage
+- ConditionㆍDecisionCoverage
+- CㆍDC
+- 분기/조건 검증기준
+- 분기/조건 기준
+- 분기/조건 기준(Branch/Condition Coverage)
+- 분기/조건검증기준
+- 분기조건검증기준
+- 분기ㆍ조건 검증기준
+- 분기ㆍ조건검증기준
+- 조건/결정 검증기준
+- 조건/결정검증기준
+- 조건/분기 검증기준
+- 조건/분기검증기준
+- 조건결정검증기준
+- 조건분기검증기준
+- 조건ㆍ결정 검증기준
+- 조건ㆍ결정검증기준
+- 조건ㆍ분기 검증기준
+- 조건ㆍ분기검증기준

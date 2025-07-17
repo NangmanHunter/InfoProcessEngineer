@@ -1,0 +1,22 @@
+﻿- A → B이고 B → C일 때 A → C를 만족하는 관계를 의미한다
+- TD
+- TFD
+- Transitive Dependency
+- Transitive Functional Dependency
+- Transitive FunctionalDependency
+- TransitiveDependency
+- TransitiveFunctionalDependency
+- X → Y, Y → Z ▶️ X → Z 인 종속
+- 이행 함수종속
+- 이행적 종속
+- 이행적 종속(Transitive Dependency) 관계
+- 이행적 함수 종속
+- 이행적 함수적 종속
+- 이행적 함수적종속
+- 이행적종속
+- 이행적함수 종속
+- 이행적함수적종속
+- 이행종속
+- 이행함수적종속
+- 이행함수종속
+- 임의의 테이블에 속성 A, B, C가 있을 때 A→B이고 B→C일때 A→C인관계

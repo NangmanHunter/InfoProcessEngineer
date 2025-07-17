@@ -1,0 +1,14 @@
+﻿- Hamming
+- Hamming Code
+- Hamming 방식
+- Hamming 코드
+- Hamming 코드 방식
+- HammingCode
+- Hamming방식
+- Hamming코드
+- Hamming코드방식
+- 전송 오류의 발생에는 감쇠,지연,왜곡,잡음 등 다양한 원인이 있으며, 이러한 오류를 검출하고 수정하는 것으로 알려진 대표적인 방식
+- 해밍
+- 해밍방식
+- 해밍코드
+- 해밍코드방식

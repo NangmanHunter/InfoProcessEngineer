@@ -1,24 +1,29 @@
-﻿- SingleTon
-- SingleTonPattern
-- SingleTon Pattern
+﻿- ✅어디서든참조
+- ❌동시참조
+- S
+- SingleTon
 - Singleton
 - Singleton Design Pattern
 - Singleton DesignPattern
+- SingleTon Pattern
 - Singleton Pattern
 - Singleton 디자인패턴
 - Singleton 패턴
+- SingleTonPattern
 - SingletonPattern
 - Singleton디자인패턴
 - Singleton패턴
-- 싱글톤
+- ST
+- ST패턴
+- S패턴
 - 다일톤
+- 불필요한 메모리 낭비를 최소화
+- 싱글톤
 - 싱글톤 디자인패턴
 - 싱글톤 패턴
 - 싱글톤(Singleton)
 - 싱글톤(Singleton) 패턴
 - 싱글톤디자인패턴
 - 싱글톤패턴
-- ST
-- S
-- ST패턴
-- S패턴
+- 여러 프로세스가 동시에 참조할 수 없는 패턴
+- 하나의 객체를 생성하면 생성된 객체를 어디서든 참조

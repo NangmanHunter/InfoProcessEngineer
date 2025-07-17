@@ -1,22 +1,45 @@
-- 분기 검증 기준(Branch Coverage)
-- 분기 검증 기준
-- 분기 검증기준
-- 분기검증기준
-- 결정검증기준
-- 분기검증
-- 결정검증
-- 분기
-- 분기기준
+﻿- "결정 커버리지" ≡ "분기 커버리지"
+- [Wiki▶️DC](https://en.wikipedia.org/wiki/Modified_condition/decision_coverage)
+- {}
+- ✅{}
+- BC
+- Branch
 - Branch Coverage
 - BranchCoverage
-- Branch
+- DC
+- Decision Coverage
+- Decision▶️결정
+- Decision▶️결정>>분기
+- Decision▶️결정vs.분기
+- Decision▶️결정검증기준
+- Decision▶️결정검증기준>>분기검증기준
+- DecisionCoverage
+- 결정(분기) 검증 기준
+- 결정(분기) 검증기준
+- 결정(분기)검증기준
+- 결정=분기
+- 결정▶️✅식
+- 결정▶️✅조건식
+- 결정▶️❌조건
+- 결정검증
+- 결정검증기준
+- 결정검증기준=분기검증기준
+- 결정검증기준▶️✅식
+- 결정검증기준▶️✅조건식
+- 결정검증기준▶️❌조건
+- 모든 결정의 분기가 적어도 한번씩은 실행되어야 함
 - 모든 조건문
 - 모든조건문
-- DC
-- BC
+- 분기
 - 분기 or 결정 커버리지(DC, Decision Coverage)
-- Decision Coverage
-- DecisionCoverage
-- 모든 결정의 분기가 적어도 한번씩은 실행되어야 함
-- [Wiki▶️DC](https://en.wikipedia.org/wiki/Modified_condition/decision_coverage)
+- 분기 검증 기준
+- 분기 검증 기준(Branch Coverage)
+- 분기 검증기준
+- 분기▶️{}
+- 분기▶️✅{}
+- 분기검증
+- 분기검증기준
+- 분기기준
+- 조건식
+- 조건식이 참(True)/거짓(False)일 때 수행되도록 구성하는 검증 기준
 - 프로그램에 있는 모든 결정 포인트 내의 전체 조건식이 적어도 한 번은 참과 거짓을 만족해야 한다

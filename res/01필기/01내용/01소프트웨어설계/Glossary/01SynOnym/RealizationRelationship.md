@@ -1,0 +1,174 @@
+﻿- Abstract
+- Abstract(↖)
+- Abstract↖
+- Abstraction
+- Abstraction(↖)
+- Abstraction(↖)관계ㆍConcrete(↘)관계
+- Abstraction(↖)관계ㆍImplementation(↘)관계
+- Abstraction(↖)관계ㆍRealization(↘)관계
+- Abstraction(↖)관계ㆍRealization/Implementation(↘)관계
+- Abstraction(↖)ㆍConcrete(↘)
+- Abstraction(↖)ㆍImplementation(↘)
+- Abstraction(↖)ㆍRealization(↘)
+- Abstraction(↖)ㆍRealization/Implementation(↘)
+- Abstraction↖
+- Abstraction관계(↖)ㆍConcrete관계(↘)
+- Abstraction관계ㆍImplementation관계
+- Abstraction관계ㆍRealization/Implementation관계
+- Abstraction관계ㆍRealization관계
+- Concrete
+- Concrete관계
+- Declaration
+- Declaration(↖)
+- Declaration↖
+- executes
+- Implement
+- implement
+- implementation
+- Implementation
+- Implementation(↘)
+- Implementation▶️---▷
+- Implementation▶️✅Ineterface-Class
+- Implementation▶️❌Class-Class
+- Implementation▶️❌Ineterface-Ineterface
+- Implementation▶️구상
+- Implementation▶️구상화
+- Implementation▶️구현
+- Implementation▶️실행
+- Implementation▶️실현
+- Implementation↘
+- Implementation관계 
+- implements
+- Implements
+- implements 
+- implements or executes
+- implements▶️✅Ineterface-Class
+- implements▶️❌Class-Class
+- implements▶️❌Ineterface-Ineterface
+- Interface
+- Interface(↖)
+- Interface↖
+- R
+- Realization
+- Realization / Implementation
+- Realization / Implementation 관계
+- Realization / Implementation관계
+- Realization Relationship
+- Realization(↘)
+- Realization/Implementation
+- Realization/Implementation
+- Realization/Implementation 관계 
+- Realization/Implementation관계 
+- Realization↘
+- RealizationR
+- RealizationRelationship
+- Realization관계
+- Realization관계 
+- RR
+- Specification
+- Specification(↖)
+- Specification↖
+- UML의미▶️BottomUp형식
+- UML의미▶️Implementation관계
+- UML의미▶️Realization관계<<Implementation관계
+- UML의미▶️추상관계
+- UML의미▶️추상화관계
+- 📌표현▶️Abstraction>>Declaration
+- 📌표현▶️Abstraction>>Specification
+- 📌표현▶️추상>>명세
+- 📌표현▶️추상>>선언
+- 📌표현▶️추상화>>명세
+- 📌표현▶️추상화>>선언
+- 🚩표현▶️↖
+- 🚩표현▶️↖추상구상
+- 🚩표현▶️추상←구상
+- 🚩표현▶️추상↖구상
+- 🚩표현▶️추상👈구상
+- 🚩표현▶️추상구상
+- 🚩표현▶️추상구상↖
+- 가상화관계(↖)
+- 구
+- 구상
+- 구상관계
+- 구상화관계
+- 구상화관계(↘)
+- 구현
+- 구현
+- 구현
+- 구현▶️✅이종
+- 구현▶️❌동종
+- 구현관계
+- 구현한다
+- 구현화
+- 구현화
+- 구현화관계
+- 구현화관계
+- 구현화관계(↘)
+- 명세
+- 명세(Specification)
+- 사물이 할 수 있거나 해야 하는 기능(행위, 인터페이스)
+- 선언
+- 선언(Declaration)
+- 선언(Declaration), 명세(Specification), 추상화(Abstraction)
+- 실
+- 실관계
+- 실상
+- 실상화
+- 실상화관계
+- 실상화관계(↘)
+- 실제
+- 실제관계
+- 실제화
+- 실제화관계
+- 실제화관계(↘)
+- 실체
+- 실체관계
+- 실체화
+- 실체화 관계
+- 실체화(↘)관계
+- 실체화(Realization) 관계
+- 실체화(Realization)관계
+- 실체화관계
+- 실체화관계
+- 실체화관계(↘)
+- 실현
+- 실현
+- 실현관계
+- 실현화
+- 실현화
+- 실현화관계
+- 실현화관계(↘)
+- 실화
+- 실화관계
+- 일반의미▶️Realization관계
+- 일반의미▶️Realization관계>>Implementation관계
+- 일반의미▶️TopDown형식
+- 일반의미▶️구상관계
+- 일반의미▶️실체관계
+- 일반의미▶️실체화관계
+- 추상관계
+- 추상관계=Implementation관계
+- 추상관계=Realization관계
+- 추상관계=구상관계
+- 추상관계=구현관계
+- 추상관계=실현관계
+- 추상화
+- 추상화(Abstraction)
+- 추상화관계
+- 추상화관계(↖)
+- 추상화관계=Implementation관계
+- 추상화관계=Realization관계
+- 추상화관계=구상화관계
+- 추상화ㆍ구상화
+- 추상화ㆍ구현화
+- 추상화ㆍ실제화
+- 추상화ㆍ실체화
+- 추상화ㆍ실현화
+- 추상ㆍ구상
+- 추상ㆍ구상화
+- 추상ㆍ구현
+- 추상ㆍ구현화
+- 추상ㆍ실제
+- 추상ㆍ실체
+- 추상ㆍ실현
+- 현실화

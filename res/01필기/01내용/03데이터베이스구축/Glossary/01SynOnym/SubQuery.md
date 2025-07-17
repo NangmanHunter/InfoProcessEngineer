@@ -1,11 +1,11 @@
+﻿- Subquery
 - SubQuery
-- Subquery
-- Sub-query
 - sub-query
-- 하위질의
-- 하위 질의
+- Sub-query
 - WHERE 00 = (SELECT ... )
 - WHERE 00 = (SELECT문)
 - WHERE절(SELECT문)
 - WHERE절SELECT문
 - WHERE절ㆍSELECT문
+- 하위 질의
+- 하위질의

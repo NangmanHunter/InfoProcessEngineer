@@ -1,9 +1,16 @@
-- LeftOuterJoin
-- LeftOuter Join
-- Left OuterJoin
+﻿- ✅LEFT JOIN
+- LEFT JOIN
+- Left Join
+- LEFT JOIN ON
+- LEFT OUTER JOIN
 - Left Outer Join
-- 왼쪽외부조인
-- 왼외부조인
-- 좌측외부조인
-- 좌외부조인
+- Left OuterJoin
+- LeftJoin
+- LeftOuter Join
+- LeftOuterJoin
+- LJ
 - LOJ
+- 왼외부조인
+- 왼쪽외부조인
+- 좌외부조인
+- 좌측외부조인

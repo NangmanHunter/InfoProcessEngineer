@@ -1,7 +1,37 @@
-- IPAddress
-- IP주소
+﻿- "IP" 또는 "IP 번호"는 사실 "IP 주소 (IP address)"를 줄여 부르는 말
+- Internet Address
+- Internet Protocol
+- Internet Protocol Address
+- Internet ProtocolAddress
+- InternetAddress
+- InternetProtocol
+- InternetProtocol Address
+- InternetProtocolAddress
+- IP
+- IP = Internet Protocol
 - IP 주소
-- 논리주소
-- 논리적주소
-- 논리적 주소
+- IP 주소 (IP address)
+- IP 주소(Internet Protocol Address)
+- IP=IP주소
+- IP▶️IP주소
+- IPA
+- IPAddress
 - IpAddress
+- IP주소
+- IP주소
+- 🔎AddressProtocol = Address
+- 🔎Internet Protocol = Address
+- 🔎Internet Protocol = Internet Address
+- 🔎InternetProtocol = Address
+- 🔎InternetProtocol = InternetAddress
+- 🔎Protocol = Address
+- 논리적 주소
+- 논리적주소
+- 논리주소
+- 인터넷 프로토콜 주소
+- 인터넷 프로토콜주소
+- 인터넷상에서 장치를 식별하는 주소, 즉 "인터넷 주소"
+- 인터넷주소
+- 인터넷프로토콜
+- 인터넷프로토콜 주소
+- 인터넷프로토콜주소

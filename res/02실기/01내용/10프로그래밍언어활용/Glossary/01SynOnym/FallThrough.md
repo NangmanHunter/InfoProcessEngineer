@@ -1,0 +1,17 @@
+﻿- ❌Break▶️✅FallThrough
+- ❌Break▶️FallThrough
+- ❌break▶️fall-through
+- Fall Through
+- Fall Through 현상
+- Fall Through현상
+- fall-through
+- FallThrough 현상
+- FallThrough현상
+- fall-through현상
+- Switch▶️❌Break▶️✅FallThrough
+- Switchㆍ❌Break▶️✅FallThrough
+- Switchㆍ❌Break▶️FallThrough
+- 떨어지는
+- 떨어지는 현상
+- 떨어지는(fall-through) 현상
+- 떨어지는현상

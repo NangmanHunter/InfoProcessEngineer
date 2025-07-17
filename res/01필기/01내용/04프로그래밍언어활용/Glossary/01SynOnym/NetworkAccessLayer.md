@@ -1,32 +1,37 @@
-﻿- Access Layer
+﻿- ✅네트워크접근
+- ✅네트워크접근계층
+- ❌네트워크
+- ❌네트워크계층
+- Access Layer
 - Access 계층
 - AccessLayer
 - Access계층
+- Link Layer
+- LinkLayer
+- LL
 - NA Layer
 - NAL
-- NWAL
-- NWA
 - NALayer
 - NA계층
-- Network Access Layer
 - Network Access
 - NetWork Access
+- Network Access Layer
 - NetWorkAccess
 - NetWorkAccess
 - NetworkAccess Layer
 - NetworkAccess 계층
-- NetworkAccessLayer
 - NetWorkAccessLayer
+- NetworkAccessLayer
 - NetworkAccess계층
-- 네트워크 접근 계층
-- 네트워크 접근 계층(Network Access Layer)
-- 네트워크접근 계층
-- 네트워크접근계층
-- 네트워크접근
+- NWA
+- NWAL
 - 네트워크 액세스 계층
 - 네트워크 액세스계층
-- 네트워크액세스계층
+- 네트워크 접근 계층
+- 네트워크 접근 계층(Network Access Layer)
 - 네트워크액세스
 - 네트워크액세스 계층
-- ❌네트워크
-- ❌네트워크계층
+- 네트워크액세스계층
+- 네트워크접근
+- 네트워크접근 계층
+- 네트워크접근계층

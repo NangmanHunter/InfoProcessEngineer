@@ -1,0 +1,31 @@
+﻿- S▶️SFㆍSFW
+- SELECT
+- Select
+- SELECT ❌'속성' FROM ❌'테이블' WHERE ❌'속성'=✅'값'
+- Select From
+- SELECT FROM
+- SELECT FROM WHERE
+- SELECT 속성 FROM 테이블 WHERE 속성=✅'값'
+- SELECT 속성 FROM 테이블 WHERE 속성=값
+- SELECT 속성 FROM 테이블 WHERE 속성='값'
+- Select▶️SelectFromㆍSelectFromWhere
+- SelectFrom
+- SELECT-FROM
+- SelectFromWhere
+- SELECT-FROM-WHERE
+- SelectFromWhere문
+- SELECT-FROM-WHERE문
+- SelectFrom문
+- SELECT-FROM문
+- SELECT문
+- Select문
+- Select문▶️SelectFrom문
+- Select문▶️SelectFrom문ㆍSelectFromWhere문
+- SFW문
+- SF문
+- S문
+- S문▶️SF문ㆍSFW문
+- 선택
+- 선택문
+- 조회
+- 조회문

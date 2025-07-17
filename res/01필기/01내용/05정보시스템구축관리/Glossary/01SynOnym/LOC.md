@@ -1,12 +1,16 @@
-﻿- C
-- c
+﻿- c
+- C
 - CodeLine
-- l
 - L
+- l
 - Line
+- Line of Code
+- Line Of Code
 - Line Of Code
 - LineCode
 - LineOfCode
+- LineOfCode
+- Line-of-Code
 - Lines
 - lines of code
 - Lines Of Code
@@ -14,6 +18,7 @@
 - LinesOfCode
 - LOC
 - LoC
+- LOC(원시 코드 라인 수, source Line Of Code) 기법
 - LOC=Line
 - LOC=Line/Effort ㆍ Effort
 - LOC=Line/Effort ㆍEffort
@@ -41,6 +46,8 @@
 - LOC=줄/인월 ㆍ개발인원ㆍ개발월수
 - LOC=줄/인월 ㆍ인월
 - LOC=줄/인월 ㆍ인ㆍ월
+- LOC기법
+- LoC기법
 - SLOC
 - source Line Of Code
 - Source lines of code

@@ -1,24 +1,24 @@
-﻿- Phishing
-- PhiShing
-- PShing
-- PHShing
+﻿- P + ishing
+- P- + -ishing
+- Password + Fishing
+- Password + Fishing → '비밀번호를 낚는 행위'
+- Ph + ishing
+- Ph- + ishing
+- Phi + ishing
+- Phi- + -ishing
+- Phishing
 - PHiShing
+- PhiShing
 - PHIShing
 - Phi-shing
+- PHShing
 - PrivateData + Fishing
+- PrivateData + F-ishing
+- P-rivateData + F-ishing
+- PShing
 - 개인 정보(Private Data)와 낚시(Fishing)
 - 개인 정보(Private Data)와 낚시(Fishing)의 합성어
 - 개인정보(PrivateData) + 낚시(Fishing)
 - 개인정보(PrivateData)와 낚시(Fishing)
 - 피싱
 - 피싱(Phishing)
-- Password + Fishing → '비밀번호를 낚는 행위'
-- Password + Fishing
-- PrivateData + F-ishing
-- P-rivateData + F-ishing
-- P- + -ishing
-- P + ishing
-- Phi- + -ishing
-- Phi + ishing
-- Ph + ishing
-- Ph- + ishing

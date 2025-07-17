@@ -1,0 +1,40 @@
+- arr[0]
+- array[0]
+- ary[0]
+- arr[0] = *(arr+0)
+- arr[0] = *(arr+0) = *arr
+- arr[0] = *(arr+0) = *(arr) = *arr
+- a[0] = *(a+0) = *a
+- a[0] = *(a+0) = *(a)= *a
+- a[0] = *a
+- a[0]
+- *(arr+0)
+- *(arr)
+- *(array+0)
+- *(array)
+- *(ary+0)
+- *(ary)
+- *(a+0)
+- *(a)
+- *a
+- *arr
+- *array
+- *ary
+- arr[0]▶️*arr
+- arr[0] 🟰 *arr
+- array[0]🟰*array
+- arr[0]🟰*arr
+- a[0]🟰*a
+- ✅a[0]🟰*a
+- arr[0]▶️*(arr+0)
+- arr[0]▶️*(arr+0)▶️*arr
+- arr[0] = *arr
+- array[0] = *array
+- a[0] = *a
+- [0] = *
+- a[0] = *a
+- *arr = *(arr)= *(arr+0) = arr[0]
+- *arr = *(arr+0) = arr[0]
+- *a = a[0]
+- *a = *(a+0) = a[0]
+- *arr = arr[0]

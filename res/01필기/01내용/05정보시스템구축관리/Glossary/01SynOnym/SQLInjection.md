@@ -1,16 +1,17 @@
 ﻿- SQL Injection
 - SQL 삽입
+- SQL 삽입(Injection)
+- SQL 삽입(Injection) 공격
 - SQL 인젝션
 - SQL 주입
 - SQLInjection
 - SqlInjection
-- SQLInjection공격
 - SQLInjection 공격
+- SQLInjection공격
 - SQL삽입
-- SQL삽입공격
 - SQL삽입 공격
+- SQL삽입(Injection)
+- SQL삽입공격
 - SQL인젝션
 - SQL주입
-- SQL 삽입(Injection) 공격
-- SQL 삽입(Injection)
-- SQL삽입(Injection)
+- 웹 응용 프로그램에 구문을 삽입하여 내부 데이터베이스(DB) 서버의 데이터를 유출 및 변조하고 관리자 인증을 우회하는 공격 기법

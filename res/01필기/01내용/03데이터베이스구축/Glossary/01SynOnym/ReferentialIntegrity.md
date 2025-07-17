@@ -1,7 +1,17 @@
 ﻿- Referential Integrity
 - ReferentialIntegrity
 - Referential무결성
-- 참조 무결성
-- 참조 무결성(Referential Integrity) 
-- 참조무결성
 - RI
+- RI▶️FK
+- 외래키(FK)
+- 외래키(FK)가 참조하는 값은 반드시 참조 대상 테이블에 존재해야 한다
+- 참조 무결성
+- 참조 무결성 제약조건
+- 참조 무결성(Referential Integrity) 
+- 참조(R)
+- 참조무결성
+- 참조무결성 제약조건
+- 참조무결성(RI)
+- 참조무결성제약조건
+- 참조키(FK)
+- 참조키(RK)

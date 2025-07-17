@@ -1,3 +1,3 @@
-- 슬라이스(Slice)
+﻿- Slice
 - 슬라이스
-- Slice
+- 슬라이스(Slice)

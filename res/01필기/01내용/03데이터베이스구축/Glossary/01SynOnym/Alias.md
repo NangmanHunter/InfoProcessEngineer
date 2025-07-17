@@ -1,0 +1,14 @@
+﻿- ✅속성 00
+- ✅속성 AS 00
+- ❌* 00
+- ❌* AS 00
+- Alias
+- AliaS
+- AS
+- AS ''
+- AS 00
+- Select*▶️❌AS생략
+- Select속성▶️✅AS생략
+- 별칭
+- 속성 00
+- 속성 AS 00

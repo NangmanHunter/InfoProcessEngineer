@@ -1,13 +1,16 @@
-﻿- Update
+﻿- Inconsistency
+- UA
+- Update
 - Update Anomaly
 - UpdateAnomaly
 - 갱신
 - 갱신 이상
 - 갱신 이상(Update Anomaly)
 - 갱신이상
+- 수정 이상
+- 수정이상
 - 일부튜플의 정보만 갱신
-- 정보에불일치성(Inconsistency)이 생기는 현상
-- 정보에불일치성(Inconsistency)
-- 정보불일치성(Inconsistency)
 - 정보불일치성
-- Inconsistency
+- 정보불일치성(Inconsistency)
+- 정보에불일치성(Inconsistency)
+- 정보에불일치성(Inconsistency)이 생기는 현상

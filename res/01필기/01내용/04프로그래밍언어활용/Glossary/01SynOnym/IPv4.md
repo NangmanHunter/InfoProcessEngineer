@@ -1,4 +1,13 @@
-﻿- Internet Protocol Address
+﻿
+- $2(5)$비트
+- $2(5)$자리
+- $2^5$
+- $2^5$비트
+- $2^5$자리
+- 32비트
+- 32자리
+- Internet Protocol Address
+- Internet Protocol version 4
 - IP
 - IP 주소
 - IP 주소(Internet Protocol Address)
@@ -6,6 +15,20 @@
 - IPv4(Internet Protocol version 4)
 - IPv4주소
 - IP주소
+- 📌01 IPv4▶️32
+- 📌02 IPv4▶️$2^5$
+- 📌03 IPv4▶️$2^3 \cdot 2^2$
+- 📌04 IPv4▶️$2^3 \cdot 4$
+- 📌04 IPv4▶️$8 \cdot 4$
+- 📌05 IPv4▶️$2^3 \cdot 4부분$
+- 📌05 IPv4▶️$8 \cdot 4부분$
+- 📌06 IPv4▶️$8 \cdot 4$
+- 📌07 IPv4▶️$8 \cdot 4부분$
+- 📌08 IPv4▶️4부분
+- 🔎$2^{2^5}$주소개수
+- 🔎$2^{32}$주소개수
+- 🔎$4.3 \cdot 10^{8}$주소개수
+- 🔎$4.3억$주소개수
 - 현IP주소
 - 현IP주소체계
 - 현재 사용하고 있는 IP 주소 체계

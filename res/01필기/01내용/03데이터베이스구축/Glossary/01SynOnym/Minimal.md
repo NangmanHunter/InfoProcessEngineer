@@ -1,4 +1,18 @@
-﻿- Minimal
+﻿
+- ❌유일▶️❌최소유일
+- ❌유일성▶️❌최소성
+- Minimal
 - Minimality
+- MinimalityUnique
+- MinimalUnique
+- 유일▶️최소유일
+- 유일▶️최소유일성
+- 유일성▶️최소성
+- 유일성▶️최소성유일성
+- 유일성▶️최소유일성
+- 유일성전제◀️최소성
 - 최소
 - 최소성
+- 최소성(Minimality)
+- 최소성유일성
+- 최소유일

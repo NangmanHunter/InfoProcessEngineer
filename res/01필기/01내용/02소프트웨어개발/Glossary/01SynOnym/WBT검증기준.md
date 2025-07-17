@@ -1,23 +1,23 @@
-- 화이트박스 테스트의 검증 기준  
-- 화이트박스테스트의 검증 기준  
-- 화이트박스테스트의 검증기준  
-- 화이트박스테스트 검증기준  
-- 화이트박스테스트 기준  
-- 화이트박스테스트 검증
-- 화이트박스테스트검증기준  
-- 화이트박스테스트검증
-- 검증기준  
+﻿- WBT 검증 기준  
+- WBT 검증기준  
+- WBT검증
+- WBT검증 기준  
 - WBT검증기준
+- WBT검증기준▶️SBC
+- WBT검증기준▶️StatementCoverageㆍBranchCoverageㆍConditionCoverage
+- WBT검증기준▶️StatementㆍBranchㆍCondition
+- WBT검증기준▶️SㆍBㆍC
+- WBT검증기준▶️문분조
 - WBT검증기준▶️문장검증기준ㆍ분기검증기준ㆍ조건검증기준
 - WBT검증기준▶️문장ㆍ분기ㆍ조건
 - WBT검증기준▶️문ㆍ분ㆍ조
-- WBT검증기준▶️문분조
-- WBT검증기준▶️StatementㆍBranchㆍCondition
-- WBT검증기준▶️SBC
-- WBT검증기준▶️SㆍBㆍC
-- WBT검증기준▶️StatementCoverageㆍBranchCoverageㆍConditionCoverage
-- WBT검증
-- WBT검증 기준  
-- WBT 검증기준  
-- WBT 검증 기준  
 - 검증 기준  
+- 검증기준  
+- 화이트박스 테스트의 검증 기준  
+- 화이트박스테스트 검증
+- 화이트박스테스트 검증기준  
+- 화이트박스테스트 기준  
+- 화이트박스테스트검증
+- 화이트박스테스트검증기준  
+- 화이트박스테스트의 검증 기준  
+- 화이트박스테스트의 검증기준  

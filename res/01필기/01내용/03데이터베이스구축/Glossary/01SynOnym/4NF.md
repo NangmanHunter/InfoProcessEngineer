@@ -1,39 +1,39 @@
 ﻿- 4NF
 - 4정규형
 - 4정규형
-- 다치 종속 제거
-- 다치 종속제거
-- 다치종속 제거
-- 다치종속제거
-- 제 4정규형
-- 제 4정규형
-- 제4정규형
-- 제4정규형
-- 다치 종속(Multivalued Dependency) 제거
-- 다치종속(Multivalued Dependency) 제거
-- 다치종속(Multivalued Dependency)제거
-- 다치종속(Multivalued Dependency)
-- 다치종속
-- 다치
-- 다ㆍ치
-- 다ㆍ값치
-- 많을다ㆍ값치
-- 많을ㆍ값
-- 많은ㆍ값
-- 치▶️00치
-- 치▶️00치▶️Ex. 임계치ㆍ고유치
-- 치▶️00치▶️중복치
-- 치▶️00치▶️다치
+- MultiValued
+- Multivalued
 - Multivalued Dependency
 - MultivaluedDependency
-- Multivalued
-- MultiValued
-- 다치
-- 다값치
 - 다값
-- 중복치
-- 중복값치
-- 중복값
-- 많은치
-- 많은값치
+- 다값치
+- 다치
+- 다치
+- 다치 종속 제거
+- 다치 종속(Multivalued Dependency) 제거
+- 다치 종속제거
+- 다치종속
+- 다치종속 제거
+- 다치종속(Multivalued Dependency)
+- 다치종속(Multivalued Dependency) 제거
+- 다치종속(Multivalued Dependency)제거
+- 다치종속제거
+- 다ㆍ값치
+- 다ㆍ치
 - 많은값
+- 많은값치
+- 많은치
+- 많은ㆍ값
+- 많을다ㆍ값치
+- 많을ㆍ값
+- 제 4정규형
+- 제 4정규형
+- 제4정규형
+- 제4정규형
+- 중복값
+- 중복값치
+- 중복치
+- 치▶️00치
+- 치▶️00치▶️Ex. 임계치ㆍ고유치
+- 치▶️00치▶️다치
+- 치▶️00치▶️중복치

@@ -1,0 +1,21 @@
+﻿- ✅FFD
+- ✅Full Functional Dependency
+- ✅FullFunctionalDependency
+- ✅완전함수종속
+- ❌Partial Functional Dependency
+- ❌PartialFunctionalDependency
+- ❌PFD
+- ❌부분함수종속
+- 2NF▶️❌PFD
+- 부분 함수적 종속을 제거
+- 부분적함수 종속제거
+- 부분적함수적 종속 제거
+- 부분적함수적 종속제거
+- 부분적함수적종속 제거
+- 부분적함수적종속제거
+- 부분적함수종속 제거
+- 부분적함수종속제거
+- 부분함수종속 제거
+- 부분함수종속제거
+- 제2정규형을 만드는 과정
+- 제2정규형을 만드는과정

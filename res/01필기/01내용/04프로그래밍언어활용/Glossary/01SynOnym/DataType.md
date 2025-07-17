@@ -1,13 +1,14 @@
+﻿- Built-in Type
+- Built-in Types
 - DataType
-- 데이터타입
-- 데이터자료형
-- 자료형
+- DT
 - 내장자료형
 - 내장형
-- 형
-- 타입형
-- 데이터형
 - 데이터 타입
+- 데이터자료형
+- 데이터타입
+- 데이터형
+- 자료형
 - 자료형(Built-in Types)
-- Built-in Types
-- Built-in Type
+- 타입형
+- 형

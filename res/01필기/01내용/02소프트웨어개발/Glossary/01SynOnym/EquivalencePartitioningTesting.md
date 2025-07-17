@@ -8,12 +8,28 @@
 - EquivalencePartitioning
 - EquivalencePartitioning Testing
 - EquivalencePartitioningTesting
+- 동치 분할
 - 동치 분할 검사
 - 동치 분할 검사(Equivalence Partitioning Testing, 동치 클래스 분해)
+- 동치 분할 테스트
+- 동치 분해
+- 동치 분해 테스트
 - 동치 클래스 분해
+- 동치 클래스분해
+- 동치 클래스분해 기법
+- 동치 클래스분해 테스트기법
 - 동치분할
 - 동치분할 검사
+- 동치분할 테스트
 - 동치분할검사
+- 동치분할테스트
+- 동치분할테스팅
+- 동치분해
+- 동치분해 테스트
+- 동치분해테스트
+- 동치분해테스팅
 - 동치클래스
 - 동치클래스 분해
 - 동치클래스분해
+- 동치ㆍ분해ㆍ기법
+- 동치ㆍ클래스분해ㆍ기법

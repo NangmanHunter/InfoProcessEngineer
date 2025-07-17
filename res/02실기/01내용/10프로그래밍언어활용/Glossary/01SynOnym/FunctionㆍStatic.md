@@ -1,5 +1,5 @@
+﻿- function(){ static }
 - function(){}▶️static
 - function(){static}
-- function(){ static }
-- 한번만초기화
 - 두번째호출부터는ㄴㄴ.
+- 한번만초기화

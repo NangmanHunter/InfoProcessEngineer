@@ -1,0 +1,20 @@
+﻿- NFD
+- NFD▶️❌명시적용어
+- Non-transitive dependency
+- NonTransitive Functional Dependency
+- Non-transitive functional dependency
+- Non-transitive Functional Dependency
+- Non-Transitive Functional Dependency
+- NonTransitive FunctionalDependency
+- NonTransitiveFunctional Dependency
+- NonTransitiveFunctionalDependency
+- NTFD
+- NTFD▶️❌명시적용어
+- 비이행적 종속
+- 비이행적 함수적 종속
+- 비이행적 함수적 종속 (Non-transitive dependency)
+- 비이행적함수적 종속
+- 비이행적함수적종속
+- 비이행적함수종속
+- 비이행함수종속
+- 종속 관계가 직접적이며 중간 단계를 거치지 않는 경우

@@ -1,0 +1,36 @@
+﻿- Class-Method
+- Class-Method
+- D
+- Dependency
+- Dependency Relationship
+- Dependency 관계
+- DependencyR
+- DependencyRelationship
+- Dependency관계
+- DR
+- 메서드에서 잠깐 사용
+- 의
+- 의존
+- 의존
+- 의존 (잠깐 사용)
+- 의존 관계
+- 의존(Dependency) 관계
+- 의존(Dependency)관계
+- 의존관계
+- 의존관계▶️일시영향+일방영향
+- 의존관계▶️점선+화살표
+- 의함
+- 일시쓰는관계
+- 임시관계
+- 임시참조
+- 임시참조관계
+- 잠깐 쓰는 관계
+- 잠깐 쓰는관계
+- 잠깐쓰는 관계
+- 잠깐쓰는관계
+- 점선 화살표 (-->)
+- 종속
+- 종속관계
+- 짧고 일시적
+- 클래스-메서드
+- 클래스-메소드

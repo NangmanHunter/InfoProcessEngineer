@@ -1,30 +1,30 @@
-- Path
-- PathURL
-- URLPath
-- Path to resource
-- Path to Resource
-- Path To Resource
-- PathToResource
-- path
-- PTR
-- P
-- path to resource
-- /
+﻿- /
+- /...
 - /00
+- /api
 - example.com:8080/00
-- 서버 내의 특정 자원을 가리키는 경로
 - https://example.com:8080/00
 - https://example.com:8080/api
-- https://example.com:8080Path
 - https://example.com:8080/Path
 - https://example.com:8080/path
-- https://example.com:8080/📌path
-- https://example.com:8080📌/path
 - https://example.com:8080/📌Path
+- https://example.com:8080/📌path
+- https://example.com:8080Path
+- https://example.com:8080📌/path
 - https://example.com:8080📌Path
-- /...
-- /api
-- 경로(path)
+- P
+- Path
+- path
+- Path to Resource
+- Path to resource
+- Path To Resource
+- path to resource
+- PathToResource
+- PathURL
+- PTR
+- URLPath
 - 경로
+- 경로(path)
 - 리소스 경로
 - 리소스경로
+- 서버 내의 특정 자원을 가리키는 경로

@@ -1,22 +1,22 @@
-- Infrastructure Network (인프라 네트워크)
-- Infrastructure Network
-- InfrastructureNetwork
+﻿- [폰] → [Wi-Fi 공유기] → [인터넷]
+- AP 중심 구조
+- AP에 의존함
 - InfraNetwork
+- Infrastructure
+- Infrastructure Network
+- Infrastructure Network (인프라 네트워크)
+- InfrastructureNetwork
+- Wi-Fi
+- Wi-Fi, LTE
+- Wi-Fi, 셀룰러 네트워크 구조
+- 고정된 AP(Access Point)를 중심으로 통신
+- 고정적
+- 고정적인
+- 안정적, 관리 쉬움
+- 안정적, 표준화
+- 인프라
 - 인프라 네트워크
 - 인프라네트워크
-- 고정된 AP(Access Point)를 중심으로 통신
-- Wi-Fi, 셀룰러 네트워크 구조
-- 안정적, 관리 쉬움
-- AP에 의존함
-- 학교 Wi-Fi, LTE 기지국
-- [폰] → [Wi-Fi 공유기] → [인터넷]
-- Infrastructure
-- AP 중심 구조
-- 안정적, 표준화
-- Wi-Fi, LTE
-- Wi-Fi
-- 인프라
 - 인프라적
 - 인프라적인
-- 고정적인
-- 고정적
+- 학교 Wi-Fi, LTE 기지국

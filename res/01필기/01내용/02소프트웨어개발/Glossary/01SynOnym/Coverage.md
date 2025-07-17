@@ -1,12 +1,29 @@
+﻿- [Wiki▶️Coverage](https://en.wikipedia.org/wiki/Code_coverage)
+- [Wiki▶️WhiteBoxTesting](https://en.wikipedia.org/wiki/White-box_testing)
+- C▶️SCㆍDCㆍCC
+- C▶️SDC
+- C▶️SㆍDㆍC
+- Coverage
+- Coverage Testing
+- Coverage▶️StatementCoverageㆍDecisionCoverageㆍConditionCoverage
+- Coverage▶️StatementㆍDecisionㆍCondition
+- Coverage▶️SㆍDㆍC
+- CoverageTesting
+- WB◀️Coverage
+- WBT Coverage
+- WBT◀️Coverage
+- WBTCoverage
+- WBT검증기준
+- WhiteBox◀️Coverage
+- WhiteBoxTesting◀️Coverage
+- 검증
 - 검증 기준
 - 검증기준
-- 검증
+- 검증기준▶️문결조
+- 검증기준▶️문장검증기준ㆍ결정검증기준ㆍ조건검증기준
+- 검증기준▶️문장ㆍ결정ㆍ조건
+- 검증기준▶️문ㆍ결ㆍ조
+- 검증기준▶️추상구상
 - 기준
-- Coverage
 - 어느 부분까지 실행
 - 커버리지
-- WBT검증기준
-- WBTCoverage
-- WBT Coverage
-- [Wiki▶️WhiteBoxTesting](https://en.wikipedia.org/wiki/White-box_testing)
-- [Wiki▶️Coverage](https://en.wikipedia.org/wiki/Code_coverage)

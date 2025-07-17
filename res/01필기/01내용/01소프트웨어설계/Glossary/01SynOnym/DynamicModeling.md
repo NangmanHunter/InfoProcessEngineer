@@ -1,9 +1,12 @@
-﻿- Dynamic Model
+﻿- DM
+- Dynamic Model
 - Dynamic Modeling
 - DynamicModel
 - DynamicModeling
+- Ex. 상태 변화도(STD), 사건 추적도
 - 동적 모델
 - 동적 모델링
 - 동적 모델링(Dynamic Modeling)
 - 동적모델
 - 동적모델링
+- 시간의 흐름에 따른 객체들 간의 제어 흐름, 상호 작용, 동작 순서 등의 동적인 행위를 표현하는 모델링

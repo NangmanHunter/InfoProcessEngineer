@@ -1,25 +1,27 @@
-﻿- Behavioral Design Pattern
+﻿- 11BehavioralDesignPattern
+- 11BehavioralPattern
+- 11행위패턴
+- Behavioral Design Pattern
 - Behavioral DesignPattern
 - Behavioral Pattern
 - Behavioral 디자인 패턴
 - Behavioral 디자인패턴
 - Behavioral 패턴
 - BehavioralDesignPattern
-- 11BehavioralDesignPattern
 - BehavioralPattern
-- 11BehavioralPattern
 - Behavioral디자인 패턴
 - Behavioral디자인패턴
 - Behavioral패턴
 - BP
+- 📌행위>>행동
+- 📌행위패턴>>행동패턴
+- 클래스나 객체들이 서로 상호작용하는 방법이나 책임 분배 방법을 정의하는 패턴
+- 행동패턴
 - 행위 패턴
 - 행위 패턴 (Behavioral Pattern)
 - 행위 패턴(Behavioral Pattern)
+- 행위(Behavioral)
 - 행위적 패턴
 - 행위적패턴
 - 행위패턴
-- 11행위패턴
-- 📌행위패턴>>행동패턴
-- 📌행위>>행동
-- 행동패턴
 - 행위패턴(BehavioralPattern)

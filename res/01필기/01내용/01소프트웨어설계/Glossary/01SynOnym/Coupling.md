@@ -1,14 +1,30 @@
-﻿- Coupling
+﻿- 06결합도
+- 6결합도
+- C
+- Coupling
+- CouPling
+- CP
+- DeCoupling
 - 결합도
+- 결합도(Coupling)
+- 결합도=비결합도
+- 결합도▶️↗자스제외공내
 - 결합도▶️Data CouplingㆍStamp CouplingㆍControl CouplingㆍExternal CouplingㆍCommon CouplingㆍContent Coupling
 - 결합도▶️DataCouplingㆍStampCouplingㆍControlCouplingㆍExternalCouplingㆍCommonCouplingㆍContentCoupling
 - 결합도▶️DataㆍStampㆍControlㆍExternalㆍCommonㆍContent
-- 결합도▶️DㆍSㆍCㆍEㆍCㆍC
 - 결합도▶️DSCECC
-- 6결합도
-- 결합도(Coupling)
+- 결합도▶️DㆍSㆍCㆍEㆍCㆍC
+- 결합도▶️내공외제스자
+- 결합도▶️내용결합도ㆍ공통결합도ㆍ외부결합도ㆍ제어결합도ㆍ스탬프결합도ㆍ자료결합도
+- 결합도▶️내용ㆍ공통ㆍ외부ㆍ제어ㆍ스탬프ㆍ자료
+- 결합도▶️내ㆍ공ㆍ외ㆍ제ㆍ스ㆍ자
 - 결합도▶️자료결합도ㆍ스탬프결합도ㆍ제어결합도ㆍ외부결합도ㆍ공유결합도ㆍ내용결합도
 - 결합도▶️자료ㆍ스탬프결합도ㆍ제어결합도ㆍ외부결합도ㆍ공유결합도ㆍ내용결합도
 - 결합도▶️자료ㆍ스탬프ㆍ제어ㆍ외부ㆍ공유ㆍ내용
-- 결합도▶️자ㆍ스ㆍ제ㆍ외ㆍ공ㆍ내
 - 결합도▶️자스제외공내
+- 결합도▶️자스제외공내(↗)
+- 결합도▶️자스제외공내↗
+- 결합도▶️자ㆍ스ㆍ제ㆍ외ㆍ공ㆍ내
+- 결합도↓
+- 결합도가 약할수록 품질이 높고, 강할수록 품질이 낮다
+- 비결합도

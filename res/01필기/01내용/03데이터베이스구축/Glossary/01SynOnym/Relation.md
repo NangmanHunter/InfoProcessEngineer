@@ -1,4 +1,6 @@
 ﻿- Relation
+- Relation▶️RelationSchemaㆍRelationInstance
+- Relation▶️SchemaㆍInstance
 - Table
 - 관계
 - 릴레이션
@@ -9,6 +11,9 @@
 - 릴레이션(테이블 구조)
 - 릴레이션(테이블)
 - 릴레이션(테이블구조)
+- 릴레이션▶️릴레이션스키마ㆍ릴레이션인스턴스
+- 릴레이션▶️스키마ㆍ인스턴스
+- 릴레이션은 데이터들을 표(Table)의 형태로 표현한 것으로
 - 테이블
 - 테이블(릴레이션)
 - 하나의 테이블

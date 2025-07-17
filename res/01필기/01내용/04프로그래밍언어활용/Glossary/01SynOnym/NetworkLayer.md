@@ -1,19 +1,36 @@
 ﻿- Internet
 - Internet Layer
+- Internet 계층
 - InternetLayer
 - InternetProtocol Layer
+- InternetProtocol 계층
 - InternetProtocolLayer
+- InternetProtocol계층
+- Internet계층
 - IP Layer
+- IP(Internet Protocol)
+- IP(Internet Protocol) Layer
+- IP(Internet Protocol) 계층
+- IP(Internet Protocol)Layer
+- IP(Internet Protocol)계층
 - IPLayer
+- IP계층
+- N
+- NetWork
 - Network
 - Network Layer
+- NetWork=네트워크=IP=Internet=인터넷
 - NetworkLayer
 - NetWorkLayer
-- NetWork
+- NetWork계층=네트워크계층=IP계층=Internet계층=인터넷계층
 - NL
-- N
 - NW
 - NWL
+- 개방 시스템들 간의 네트워크 연결을 관리
+- 경로 제어, 패킷 교환, 트래픽 제어 등의 기능을 수행
+- 경로제어, 패킷교환, 트래픽제어 등의 기능수행
+- 경로제어, 패킷교환, 트래픽제어 등의 기능을 수행
+- 경로제어, 패킷교환, 트래픽제어 등의 기능을수행
 - 네트워크
 - 네트워크 계층
 - 네트워크 계층
@@ -25,4 +42,6 @@
 - 망 계층
 - 망계층
 - 인터넷 계층
+- 인터넷 계층
+- 인터넷계층
 - 인터넷계층

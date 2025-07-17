@@ -1,9 +1,9 @@
+﻿- Attribute
 - Column
-- Attribute
+- Column(↓)↔️Attribute수(→)
+- Column(↓)↔️Column수(→)
+- Column(↓)↔️Degree(→)
+- Column↔️Column수
+- Column↔️Degree
 - 세로
 - 열
-- Column↔️Column수
-- Column(↓)↔️Column수(→)
-- Column(↓)↔️Attribute수(→)
-- Column(↓)↔️Degree(→)
-- Column↔️Degree

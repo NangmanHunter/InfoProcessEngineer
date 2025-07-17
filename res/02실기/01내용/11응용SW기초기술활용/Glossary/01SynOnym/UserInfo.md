@@ -1,22 +1,22 @@
-- Authentication Credentials
+﻿- Authentication Credentials
 - AuthenticationCredentials
+- credential
 - Credential
 - Credentials
 - User Authentication
 - User Inforamtion
-- User-Pass
-- User-Password
 - UserAuthentication
 - UserInfo
 - UserInforamtion
-- UserPass
-- Username+Password
-- Username-Password
 - Username:Password
-- UsernamePassword
-- credential
-- username+password
 - username:password
+- username+password
+- Username+Password
+- UsernamePassword
+- Username-Password
+- UserPass
+- User-Pass
+- User-Password
 - 사용자인증
 - 인증정보
 - 자격증명

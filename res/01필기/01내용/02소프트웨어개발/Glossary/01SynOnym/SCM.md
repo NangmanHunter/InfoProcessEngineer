@@ -1,10 +1,19 @@
-﻿- SCM
+﻿- CM
+- CVS👉SVN👉Git
+- SCM
+- SCM
+- SCM▶️CVS👉SVN👉Git
 - Software Configuration Management
 - 변경관리
 - 변경제어관리
+- 소프트웨어 개발 단계의 각 과정에서 만들어지는 프로그램, 프로그램을 설명하는 문서, 데이터 등을 관리하는 것
 - 소프트웨어 형상 관리
 - 소프트웨어 형상관리
+- 소프트웨어의 개발 과정에서 만들어지는 여러 버전들의 변경 사항을 관리하는 일련의 활동
 - 소프트웨어형상관리
+- 이를 지원하는 도구로 Git, SVN 등이 있다
 - 형상 관리
 - 형상 관리(SCM; Software Configuration Management)
 - 형상관리
+- 형상관리(SCM)
+- 형상관리▶️CVS👉SVN👉Git

@@ -1,12 +1,19 @@
-- FullOuterJoin
-- FullOuter Join
-- Full OuterJoin
+﻿- ✅FULL JOIN
+- FJ
+- FOJ
+- Full Join
+- FULL JOIN
+- FULL JOIN ON
+- FULL OUTER JOIN
 - Full Outer Join
-- 전체외부조인
-- 전부외부조인
-- 전외부조인
-- 완전외부조인
+- Full OuterJoin
+- FullJoin
+- FullOuter Join
+- FullOuterJoin
+- 양외부조인
 - 양쪽외부조인
 - 양측외부조인
-- 양외부조인
-- FOJ
+- 완전외부조인
+- 전부외부조인
+- 전외부조인
+- 전체외부조인

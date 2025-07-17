@@ -1,6 +1,15 @@
-﻿  - Presentation
+﻿  - PL
+  - Presentation
   - Presentation Layer
+  - PResentation Layer
+  - PResentationLayer
   - PresentationLayer
+  - PRL
+  - 서로 다른 데이터 표현 형태를 갖는 시스템 간의 상호 접속을 위해 필요한 계층
+  - 코드 변환, 데이터 암호화, 데이터 압축, 구문 검색 등의 기능을 수행
+  - 코드변환, 데이터암호화, 데이터압축, 구문검색 등의 기능수행
+  - 코드변환, 데이터암호화, 데이터압축, 구문검색 등의 기능을 수행
+  - 코드변환, 데이터암호화, 데이터압축, 구문검색 등의 기능을수행
   - 표현
   - 표현 계층
   - 표현 계층(Presentation Layer)

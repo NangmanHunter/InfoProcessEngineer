@@ -1,0 +1,53 @@
+﻿- ✅순서보장
+- Ex. ATM, X.25, 일부 MPLS
+- ➕TCP▶️전송계층(ST)ㆍ네트워크계층(DG)
+- TCP는 논리적으로는 VC처럼 동작하지만, 네트워크 계층(IP)는 여전히 datagram 기반
+- ➕UDP▶️전송계층(DG)ㆍ네트워크계층(DG)
+- VC
+- VC 방식: 전화 통화 → 상대와 연결 후 계속 그 선로만 사용
+- VC방식
+- Virtual Circuit
+- VirtualCircuit
+- 📌비연결형통신▶️UDP▶️DataGram
+- 📌연결형통신　▶️TCP▶️Stream
+- 📌연결형통신　▶️TCP▶️VC느낌
+- 🔎네트워크계층▶️VCㆍDG
+- 🔎전송계층▶️STㆍDG
+- 🚩TCP(ST)/IP(DG)
+- 🚩TCP(Stream)/IP
+- 🚩TCP(Stream)/IP(Datagram)
+- 🚩TCP(STream)/IP(DataGram)
+- 🚩TCP(STream)/IP(Datagram)
+- 🚩TCP(VC느낌)/IP
+- 🚩TCP/IP (VC 느낌)
+- 🚩TCP/IP(VC 느낌)
+- 🚩TCP/IP(VC느낌)
+- 🚩TL(ST)/NL(DataGram)
+- 🚩TL(ST)/NL(Datagram)
+- 🚩TL(ST)/NL(DG)
+- 🚩전송계층(ST)/네트워크계층(DataGram)
+- 🚩전송계층(ST)/네트워크계층(Datagram)
+- 🚩전송계층(ST)/네트워크계층(DG)
+- 가상 회선 
+- 가상 회선 방식
+- 가상회선 
+- 가상회선 방식
+- 가상회선방식
+- 각 라우터에 연결 상태 저장
+- 네트워크 관련
+- 네트워크계층
+- 네트워크계층(3계층)
+- 네트워크계층▶️VCㆍDG
+- 네트워크관련
+- 네트워크에 관련
+- 사전설정
+- 사전에 설정
+- 사전에설정
+- 상태저장▶️각 라우터에 연결 상태 저장
+- 실제 IP는 Datagram 방식 사용
+- 엄밀히▶️TCP👉❌NL👉❌VC
+- 엄밀히▶️TCP👉TL👉Stream
+- 연결형 통신에서 주로 사용되는 방식으로출발지와 목적지의 전송 경로를 미리 연결하여 논리적으로 고정한 후 통신하는 방식
+- 정적결정
+- 정적설정
+- 정적할당

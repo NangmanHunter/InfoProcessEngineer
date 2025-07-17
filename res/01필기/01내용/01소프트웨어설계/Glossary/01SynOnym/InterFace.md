@@ -1,0 +1,20 @@
+﻿- Interface
+- InterFace
+- Inter-face
+- InterFace(Java)▶️✅Cosntantㆍ❌Fieldㆍ✅Method
+- InterFace(Java)▶️✅Method
+- InterFace(Java)▶️✅상수ㆍ❌변수ㆍ✅메서드
+- InterFace(Java)▶️✅상수ㆍ❌변수ㆍ✅함수
+- InterFace(Java)▶️❌Fieldㆍ✅Method
+- InterFace(Java)▶️Method
+- InterFace▶️✅동작
+- InterFace▶️❌속성ㆍ✅동작
+- InterFace▶️동작
+- InterFace▶️행동
+- UML에서 표현되는 사물의하나로, Class나 컴포넌트의 동작을 모아놓은것
+- 동작
+- 동작>>행동
+- 외부적으로 가시화되는 행동을표현
+- 인터페이스
+- 인터페이스(Interface)
+- 행동

@@ -1,24 +1,24 @@
-- GoFDesignPattern
-- GoFPattern
+﻿- Gang of Four
 - GoF
-- GoFP
-- GoFDP
-- Gang of Four
-- GoF디자인패턴
-- GoF의 디자인 패턴
 - GoF 디자인 패턴
 - GoF 디자인패턴
+- GoFDesignPattern
+- GoFDP
+- GoFP
+- GoFPattern
 - GoF디자인패턴
+- GoF디자인패턴
+- GoF의 디자인 패턴
+- GoF의 디자인패턴
+- GoF의 패턴
+- GoF의패턴
 - GoF패턴
 - GoF패턴▶️Creational PatternㆍStructural PatternㆍBehavioral Pattern
 - GoF패턴▶️CreationalPatternㆍStructuralPatternㆍBehavioralPattern
 - GoF패턴▶️CreationalㆍStructuralㆍBehavioral
-- GoF패턴▶️CㆍSㆍB
 - GoF패턴▶️CSB
+- GoF패턴▶️CㆍSㆍB
+- GoF패턴▶️생구행
 - GoF패턴▶️생성패턴ㆍ구조패턴ㆍ행위패턴
 - GoF패턴▶️생성ㆍ구조ㆍ행위
 - GoF패턴▶️생ㆍ구ㆍ행
-- GoF패턴▶️생구행
-- GoF의 디자인패턴
-- GoF의 패턴
-- GoF의패턴

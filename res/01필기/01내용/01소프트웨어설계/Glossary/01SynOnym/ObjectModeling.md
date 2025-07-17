@@ -1,13 +1,21 @@
-﻿- Object Model
+﻿- Ex. ER (ERD)
+- Object Data Modeling
+- Object DataModeling
+- Object Model
 - Object Modeling
+- Object 데이터 모델링
+- Object 데이터모델링
 - Object 모델
 - Object 모델링
 - ObjectModel
 - ObjectModeling
+- Object데이터모델링
 - Object모델
 - Object모델링
+- OM
 - 객체 모델
 - 객체 모델링
 - 객체 모델링(Object Modeling)
 - 객체모델링(ObjectModeling)
+- 시스템에서 요구되는 객체를 찾아내어 속성과 연산 식별 및 객체들 간의 관계를 규정하여 표시하는 모델링
 - 정보모델링

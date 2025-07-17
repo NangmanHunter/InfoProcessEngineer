@@ -1,4 +1,5 @@
-﻿- 2 정규화
+﻿- [2NF](https://ko.wikipedia.org/wiki/%EC%A0%9C2%EC%A0%95%EA%B7%9C%ED%98%95)
+- 2 정규화
 - 2NF
 - 2정규형
 - 2정규화
@@ -23,4 +24,3 @@
 - 제 2정규형
 - 제2정규형
 - 제2정규화
-- [2NF](https://ko.wikipedia.org/wiki/%EC%A0%9C2%EC%A0%95%EA%B7%9C%ED%98%95)

@@ -1,7 +1,7 @@
-- 선택 정렬(Selection Sort)
-- 선택 정렬
-- 선택정렬
-- 선택
+﻿- Selection
 - Selection Sort
-- Selection
 - SelectionSort
+- 선택
+- 선택 정렬
+- 선택 정렬(Selection Sort)
+- 선택정렬

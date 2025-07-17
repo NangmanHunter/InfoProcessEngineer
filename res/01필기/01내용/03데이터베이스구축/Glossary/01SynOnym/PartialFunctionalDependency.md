@@ -1,0 +1,16 @@
+﻿- Partial Functional Dependency
+- Partial FunctionalDependency
+- PartialFunctional Dependency
+- PartialFunctionalDependency
+- PFD
+- 부분적 함수 종속
+- 부분적 함수적 종속
+- 부분적 함수적종속
+- 부분적함수 종속
+- 부분적함수적종속
+- 부분적함수종속
+- 부분함수종속
+- 부함수종속
+- 분함수종속
+- 일부함수종속
+- 일함수종속

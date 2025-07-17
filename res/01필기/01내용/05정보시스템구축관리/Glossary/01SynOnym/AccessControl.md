@@ -1,7 +1,21 @@
-﻿- AC
+﻿- ✅MACㆍRBACㆍDAC
+- AC
+- AC▶️✅MACㆍRBACㆍDAC
+- AC▶️DACㆍMACㆍRBAC
+- AC▶️MACㆍDACㆍRBAC
+- AC▶️MACㆍRBACㆍDAC
+- AC▶️MACㆍRBACㆍDAC>>DACㆍMACㆍRBAC
+- AC▶️MACㆍRBACㆍDAC>>MACㆍDACㆍRBAC
+- AC▶️MRD
+- AC▶️MㆍRBㆍD
+- AC▶️MㆍRㆍD
+- AC▶️시스템ㆍ관리자ㆍ소유자
+- AC▶️시스템ㆍ중앙관리자ㆍ소유자
 - Access Control
 - AccessControl
+- MRD
 - 접근 통제
 - 접근 통제 기술
 - 접근통제
+- 접근통제 기술
 - 접근통제기술

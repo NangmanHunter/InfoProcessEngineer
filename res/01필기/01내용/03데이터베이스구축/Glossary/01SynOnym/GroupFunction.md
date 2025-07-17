@@ -1,0 +1,15 @@
+﻿- AF
+- Aggregate Function
+- Aggregate 함수
+- AggregateFunction
+- Aggregate함수
+- GF
+- Group Function
+- Group 함수
+- GroupFunction
+- Group함수
+- 그룹 함수
+- 그룹함수
+- 집계 함수
+- 집계함수
+- 집계함수(Aggregate Function)

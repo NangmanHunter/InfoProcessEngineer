@@ -6,10 +6,14 @@
 - FactoryMethod 패턴
 - FactoryMethodPattern
 - FactoryMethod패턴
+- FM
+- FM패턴
+- VC패턴
+- 가상 생성자(Virtual Constructor) 패턴
+- 객체 생성을 서브 클래스에서 처리하도록 분리하여 캡슐화한 패턴
+- 상위 클래스에서 인터페이스만 정의하고, 실제 생성은 서브 클래스가 담당
 - 팩토리 메소드
 - 팩토리 메소드 패턴
 - 팩토리 메소드(Factory Method)
 - 팩토리메소드 패턴
 - 팩토리메소드패턴
-- FM패턴
-- FM

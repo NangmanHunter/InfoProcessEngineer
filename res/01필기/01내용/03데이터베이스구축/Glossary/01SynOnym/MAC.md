@@ -4,7 +4,9 @@
 - Mandatory Access Control
 - Mandatory AccessControl
 - MandatoryAC
+- MandatoryAccessControl
 - 강제
+- 강제 접근통제(MAC)
 - 강제 접근통제(MAC; Mandatory Access Control)
 - 강제적 접근통제
 - 강제적접근통제
@@ -16,6 +18,10 @@
 - 규칙기반 정책
 - 규칙기반정책
 - 규칙정책
+- 데이터베이스 객체별로 보안 등급을 부여
+- 사용자별로 인가 등급을 부여
+- 시스템이 접근통제 권한을 지정
 - 안정적ㆍ중앙집중적
 - 접근결정-보안등급(Label)
 - 정책변경-고정적
+- 주체와 객체의 등급을 비교

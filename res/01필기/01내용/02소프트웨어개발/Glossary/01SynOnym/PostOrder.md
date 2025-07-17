@@ -1,19 +1,19 @@
-- Postorder운행
-- PostOrderTraversal
+﻿- Postorder
+- PostOrder
 - PostorderTraversal
-- Postorder순회
-- Postorder
+- PostOrderTraversal
 - PostOrder순회
+- Postorder순회
+- Postorder운행
 - PostOrder운행
 - 후
 - 후위
+- 후위 순회
+- 후위 운행
+- 후위순회
+- 후위순회법
 - 후위식
 - 후위식운행
 - 후위식운행법
-- 후위순회
-- 후위순회법
-- 후위 순회
 - 후위운행
 - 후위운행법
-- 후위 운행
-- PostOrder

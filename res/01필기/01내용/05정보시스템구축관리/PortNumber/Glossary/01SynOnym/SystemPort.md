@@ -1,11 +1,15 @@
-﻿- $2^{10}$
+﻿- $0 ~ 2^{10}-1$  
+- $0 to 2^{10}-1$  
+- $2^{10}$
 - $N<2^{10}$
 - $n<2^{10}$
+- (0~1023)  
 - (0-1023)
 - <$2^{10}$
 - 0 - $2^{10}-1$
 - 0 ~ $2^{10}-1$
 - 0-$2^{10}-1$
+- 0~1023  
 - 0~1023 Port
 - 0~1023Port
 - 0≤ <$2^{10}$
@@ -13,33 +17,29 @@
 - 0-1023
 - 0-1023 Port
 - 0-1023Port
-- N< $2^{10}$
 - n< $2^{10}$
+- N< $2^{10}$
 - SP
 - System Port
 - System Ports
+- System Ports   
 - System Ports (0-1023)
+- System Ports (0-1023)  
 - System_Port
 - SystemPort
 - System-Port
+- SystemPorts   
 - Well-Known Port
 - Well-known Port
 - Well-known port
-- Well-known ports
-- Well-known_Port
-- WellknownPort
-- WellKnownPort
-- Well-knownPort
-- Well-known-Port
-- WKP
-- WP
-- $0 to 2^{10}-1$  
-- $0 ~ 2^{10}-1$  
-- (0~1023)  
-- 0~1023  
-- System Ports   
-- System Ports (0-1023)  
-- SystemPorts   
 - Well-Known Port  
 - Well-Known Port (0~1023)  
+- Well-known ports
+- Well-known_Port
+- WellKnownPort
+- WellknownPort
+- Well-knownPort
+- Well-known-Port
 - Well-KnownPort  
+- WKP
+- WP

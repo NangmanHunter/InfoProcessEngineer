@@ -1,7 +1,12 @@
-﻿- Data Encryption Standard
+﻿- 1974년 IBM이 개발하고 1975년 NBS에 의해 미국의 국가 표준으로 발표된 암호화 알고리즘으로, 블록크기는 64비트, 키 길이는 56비트이며, 16회의 라운드를 수행한다.
+- Data Encryption Standard
 - Data EncryptionStandard
 - DataEncryption Standard
 - DataEncryptionStandard
 - DES
 - DES(Data Encryption Standard)
 - DES(DataEncryptionStandard)
+- 객체를 생성한 사용자가 생성된 객체에 대한 모든 권한을 부여받고, 부여된 권한을 다른 사용자에게 허가할 수도 있다.
+- 데이터의 소유자가 접근통제 권한을 지정하고 제어
+- 사용자의 신원에 따라 접근 권한을 부여하여 제어하는 방식
+- 컴퓨터 기술이 발달함에따라 해독이 쉬워지면서 미국의 국가표준이 2001년 AES로 대체되었다.

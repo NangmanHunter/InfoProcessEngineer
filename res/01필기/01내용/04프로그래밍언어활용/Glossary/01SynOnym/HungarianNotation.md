@@ -1,0 +1,14 @@
+﻿- Ex. BOOL bIsReady;   // b = boolean
+- Ex. char* szName;    // sz = string, null-terminated (z = zero-terminated)
+- Ex. HWND hwndMain;   // hwnd = handle to window
+- Ex. int nCount;      // n = int (number)
+- Hungarian Notation
+- HungarianNotation
+- 변수 선언 시 변수명에 데이터 타입을 명시
+- 변수명 앞에 데이터 타입이나 역할을 식별할 수 있는 접두어(prefix)를 붙이는 변수명 표기 규칙
+- 변수명 작성시 변수의 자료형을 알 수 있도록 자료형을 의미하는 문자를 포함하여 작성하는 방법
+- 변수명▶️자료형포함
+- 변수명▶️자료형포함변수명
+- 헝가리안 표기법
+- 헝가리안 표기법(Hungarian Notation)  
+- 헝가리안표기법

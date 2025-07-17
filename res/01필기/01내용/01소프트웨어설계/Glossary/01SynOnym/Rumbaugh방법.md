@@ -2,9 +2,12 @@
 
 
 
+- Object ModelingㆍDynamic ModelingㆍFunction Modeling
 - Object ModelingㆍDynamic ModelingㆍFunctional Modeling
 - Object-Modeling Technique
 - ObjectModelingㆍDynamicModelingㆍFunctionalModeling
+- ObjectModelingㆍDynamicModelingㆍFunctionModeling
+- ObjectㆍDynamicㆍFunction
 - ODF
 - ODF M
 - ODFM
@@ -12,12 +15,27 @@
 - OMㆍDMㆍFM
 - OㆍDㆍF M
 - OㆍDㆍFM
+- R▶️ODF
+- R▶️OㆍDㆍF
+- RDM
+- RM
+- RM▶️OMㆍDMㆍFM
 - Rumbaugh
+- Rumbaugh Data Modeling
+- Rumbaugh DataModeling
+- Rumbaugh Modeling
+- Rumbaugh 모델링
 - Rumbaugh 방법
 - Rumbaugh(럼바우) 방법
 - Rumbaugh(럼바우)방법
+- Rumbaugh▶️ObjectㆍDynamicㆍFunction
 - Rumbaugh▶️ODF
+- RumbaughDataModeling
+- RumbaughModeling
+- RumbaughModeling▶️ObjectModelingㆍDynamicModelingㆍFunctionModeling
 - Rumbaugh-ODF
+- Rumbaugh데이터모델링
+- Rumbaugh모델링
 - Rumbaugh방법
 - 객체 모델링 기법
 - 객체 모델링 기법(OMT, Object-Modeling Technique)
@@ -31,9 +49,12 @@
 - 럼바우(Rumbaugh) 객체지향 분석 기법
 - 럼바우(Rumbaugh) 객체지향 분석기법
 - 럼바우(Rumbaugh) 객체지향분석기법
+- 럼바우(Rumbaugh) 데이터 모델링
+- 럼바우(Rumbaugh) 데이터모델링
 - 럼바우(Rumbaugh) 분석 기법
 - 럼바우(Rumbaugh) 분석기법
 - 럼바우(Rumbaugh)객체지향분석기법
+- 럼바우(Rumbaugh)데이터모델링
 - 럼바우(Rumbaugh)분석 기법
 - 럼바우(Rumbaugh)분석기법
 - 럼바우(Rumbaugh)의 분석 기법
@@ -41,6 +62,8 @@
 - 럼바우객체모델기법
 - 럼바우객체모델링기법
 - 럼바우객체지향분석기법
+- 럼바우데이터모델링
+- 럼바우모델링
 - 럼바우방법
 - 럼바우분석기법
 - 럼바우분석기법모델링

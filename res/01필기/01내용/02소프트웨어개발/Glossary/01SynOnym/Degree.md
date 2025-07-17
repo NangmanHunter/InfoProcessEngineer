@@ -3,9 +3,11 @@
 - Degree
 - Degree of Node
 - DoN
+- MapDegree
 - Number of Branch
 - Number of Branch on Node
 - Number of LowerBranch
+- TreeDegree
 - 노드차수
 - 디그리
 - 브랜치수
@@ -13,5 +15,3 @@
 - 하위브랜치
 - 하위브랜치개수
 - 하위브랜치수
-- MapDegree
-- TreeDegree

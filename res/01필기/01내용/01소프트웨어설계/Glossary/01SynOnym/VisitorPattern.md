@@ -1,0 +1,13 @@
+﻿- Visitor
+- VisitorDesignPattern
+- VisitorPattern
+- Visitor디자인패턴
+- Visitor패턴
+- 각 클래스들의 데이터 구조에서 처리 기능을 분리하여 별도로 구성
+- 기능분리
+- 방문자
+- 방문자(Visitor)
+- 방문자디자인패턴
+- 방문자패턴
+- 처리 기능을 분리하여 별도로 구성
+- 클래스를 수정하지 않고도 새로운 연산의 추가가 가능

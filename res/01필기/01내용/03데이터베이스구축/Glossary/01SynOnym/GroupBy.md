@@ -1,0 +1,20 @@
+﻿- ✅SELECT 그룹함수 GROUP BY 속성
+- ✅SELECT 그룹함수() GROUP BY 속성
+- ✅SELECT 그룹함수(속성) GROUP BY 속성
+- ✅SELECT 집계함수 GROUP BY 속성
+- ✅SELECT 집계함수() GROUP BY 속성
+- ❌SELECT * GROUP BY 속성
+- ❌SELECT 속성 GROUP BY 속성
+- Group By
+- GROUP BY
+- GroupBy
+- Group-By
+- GroupBy▶️✅그룹함수
+- GroupBy▶️✅집계함수
+- GroupBy▶️그룹함수
+- SELECT GROUP BY
+- SELECT GROUP BY 속성
+- 그룹함수()◀️GroupBy
+- 그룹함수◀️GroupBy
+- 집계함수()◀️GroupBy
+- 집계함수◀️GroupBy

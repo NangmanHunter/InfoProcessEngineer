@@ -1,13 +1,15 @@
-- GP(Interior Gateway Protocol, 내부 게이트웨이 프로토콜)
+﻿- Gateway Protocol
+- GatewayProtocol
 - GP
+- GP(Interior Gateway Protocol, 내부 게이트웨이 프로토콜)
+- IGP
 - Interior Gateway Protocol
 - InteriorGateway Protocol
 - InteriorGatewayProtocol
-- GatewayProtocol
-- Gateway Protocol
-- IGP
+- 게이트웨이 프로토콜
+- 게이트웨이프로토콜
 - 내부 게이트웨이 프로토콜
 - 내부게이트웨이 프로토콜
 - 내부게이트웨이프로토콜
-- 게이트웨이 프로토콜
-- 게이트웨이프로토콜
+- 자율 시스템 내부의 라우팅에 사용되는 IGP
+- 하나의 자율 시스템(AS) 내

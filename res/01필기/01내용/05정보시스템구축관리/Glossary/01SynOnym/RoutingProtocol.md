@@ -1,11 +1,17 @@
-- 경로 제어 프로토콜(Routing Protocol)
+﻿- Routing Protocol
+- RoutingProtocol
+- RP
 - 경로 제어 프로토콜
+- 경로 제어 프로토콜(Routing Protocol)
+- 경로 제어프로토콜
+- 경로 프로토콜
+- 경로우회프로토콜
 - 경로제어 프로토콜
+- 경로제어=라우팅
 - 경로제어프로토콜
 - 경로프로토콜
-- 우회프로토콜
+- 라우팅 프로토콜
+- 라우팅=경로제어
+- 라우팅프로토콜
 - 우회경로프로토콜
-- 경로우회프로토콜
-- 경로 프로토콜
-- Routing Protocol
-- RoutingProtocol
+- 우회프로토콜

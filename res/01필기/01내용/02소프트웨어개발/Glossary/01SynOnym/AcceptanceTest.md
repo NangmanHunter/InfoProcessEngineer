@@ -1,7 +1,16 @@
-﻿- Acceptance
+﻿- A
+- Acceptance
 - Acceptance Test
+- Acceptance Testing
 - AcceptanceTest
+- AcceptanceTesting
+- AT
 - 인수
 - 인수 테스트
+- 인수 테스트
+- 인수 테스트 (Acceptance Test)
 - 인수 테스트 (Acceptance Test)  
+- 인수 테스트(Acceptance Testing)
 - 인수테스트
+- 인수테스트
+- 인수테스트(AT)

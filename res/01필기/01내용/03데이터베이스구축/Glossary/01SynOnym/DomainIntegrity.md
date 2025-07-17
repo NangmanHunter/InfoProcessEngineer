@@ -1,10 +1,19 @@
-﻿- Domain Integrity
+﻿- DI
+- Domain Integrity
 - Domain 무결성
 - DomainIntegrity
 - Domain무결성
+- Integrity▶️DomainIntegrity
+- 각 열(column)은 정해진 형식과 범위의 값만 가져야 한다
 - 도메인 무결성
+- 도메인 무결성 제약조건
 - 도메인 무결성(Domain Integrity, 영역 무결성) 
+- 도메인 무결성제약조건
 - 도메인무결성
+- 도메인무결성 제약조건
+- 도메인무결성제약조건
 - 영역 무결성 
 - 영역무결성 
-- DI
+- 제약대상▶️속성
+- 제약대상▶️열
+- 특정 속성에 대해 입력될 수 있는 값의 유형이나 범위를 의미하고 무결성을 보장하는 기준

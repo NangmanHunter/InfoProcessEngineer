@@ -2,11 +2,14 @@
 - Entity-Relationship Diagram
 - EntityRelationshipDiagram
 - ER Diagram
+- E-R Diagram
 - ER 다이어그램
 - E-R 다이어그램
 - ERD
 - ERDiagram
+- E-RDiagram
 - ER다이어그램
+- E-R다이어그램
 - 개체 관계도
 - 개체 관계도(ERD)
 - 개체관계 다이어그램

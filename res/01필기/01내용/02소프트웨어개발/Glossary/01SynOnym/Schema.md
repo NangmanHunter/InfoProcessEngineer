@@ -1,20 +1,32 @@
 ﻿- 3단계 스키마 구조(Three-Schema Architecture)
-- database schema
 - Database Schema
+- database schema
 - Database_Schema
-- DatabaseSchema
 - databaseschema
-- Database-schema
-- Database-Schema
+- DatabaseSchema
 - database-schema
-- schema
+- Database-Schema
+- Database-schema
 - Schema
+- schema
 - Schema(스키마)
+- 📌위치▶️02소프트웨어개발vs.03데이터베이스구축
+- 📌위치▶️추상vs.구상
+- 구조ㆍ제약조건
+- 구조ㆍ제약조건 명세
+- 구조ㆍ제약조건▶️명세
+- 구조ㆍ제약조건명세
+- 구조ㆍ조건
 - 데이터베이스 스키마
 - 데이터베이스 스키마(database schema)
 - 데이터베이스스키마
+- 데이터베이스의 구조와 제약 조건에 관한 전반적인 명세를 기술
 - 스키마
 - 스키마(Schema)
+- 스키마▶️외개내
+- 스키마▶️외부스키마ㆍ개념스키마ㆍ내부스키마
+- 스키마▶️외부ㆍ개념ㆍ내부
+- 스키마▶️외ㆍ개ㆍ내
 - 외부 스키마, 개념 스키마, 내부 스키마
 - 외부스키마 개념스키마 내부스키마
 - 외부스키마, 개념스키마, 내부스키마

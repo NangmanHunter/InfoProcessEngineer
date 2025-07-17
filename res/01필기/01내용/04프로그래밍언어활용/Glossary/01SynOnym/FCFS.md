@@ -4,6 +4,8 @@
 - FCFS 스케줄링알고리즘
 - FCFS 스케쥴링
 - FCFS(First Come First Service, 선입 선출)
+- FCFS(First Come First Service, 선입 선출) = FIFO(First In First Out) 
+- FCFS▶️대
 - FCFS스케줄링
 - FCFS스케줄링 알고리즘
 - FCFS스케쥴링
@@ -23,4 +25,5 @@
 - 선입선출
 - 선입선출 스케줄링
 - 선입선출스케줄링
-- FCFS(First Come First Service, 선입 선출) = FIFO(First In First Out) 
+- 우선순위=대
+- 우선순위=대기시간

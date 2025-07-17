@@ -1,0 +1,15 @@
+﻿- UI👉UX
+- User eXperience
+- UserExperience
+- UserEXperience
+- UsereXperience
+- UX
+- UX(사용자 경험)
+- UX▶️UI
+- 📌UXUI>>UIUX
+- 📌UXUIvs.UIUX
+- 📌추상구상>>구상추상
+- 📌추상구상vs.구상추상
+- 사용자 경험
+- 사용자가 시스템이나 서비스를 이용하면서 느끼고 생각하게 되는 총체적인 감정 및 경험
+- 사용자경험

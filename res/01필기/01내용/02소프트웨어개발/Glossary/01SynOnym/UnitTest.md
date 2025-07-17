@@ -1,0 +1,17 @@
+﻿- U
+- Unit Test
+- Unit Testing
+- UnitTest
+- UnitTesting
+- UT
+- 📌단위테스트▶️UnitTest>>UnitTesting
+- 📌테스트▶️Test>>Testing
+- 단위 테스트
+- 단위 테스트(Unit Test)
+- 단위 테스트(Unit Testing)
+- 단위테스트
+- 단위테스트(UT)
+- 모듈 테스트
+- 모듈테스트
+- 사용자의 요구사항을 기반으로 한 기능성 테스트를 최우선으로 인터페이스 외부적 I/O, 자료구조, 독립적 기초 경로, 오류 처리 경로, 경계 조건 등을 검사
+- 코딩 직후 소프트웨어 설계의 최소 단위인 모듈이나 컴포넌트에 초점을 맞춰 수행하는 테스트

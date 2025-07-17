@@ -1,4 +1,5 @@
-﻿- Behavior Diagram
+﻿- BD
+- Behavior Diagram
 - Behavior 다이어그램
 - Behavioral Diagram
 - Behavioral 다이어그램

@@ -1,0 +1,17 @@
+﻿- CreateㆍReadㆍUpdateㆍDelete
+- CRUD
+- CRUD 분석
+- CRUD분석
+- CㆍRㆍUㆍD
+- 📌CRUD▶️Create
+- 📌CRUD▶️CreateㆍDelete
+- 📌CRUD▶️CreateㆍReadㆍUpdateㆍDelete
+- 📌CRUD▶️CreateㆍUpdateㆍDelete
+- 🔎CRUD▶️C
+- 🔎CRUD▶️CD
+- 🔎CRUD▶️CRUD
+- 🔎CRUD▶️CUD
+- 🚩CRUD▶️C
+- 🚩CRUD▶️CㆍD
+- 🚩CRUD▶️CㆍRㆍUㆍD
+- 🚩CRUD▶️CㆍUㆍD

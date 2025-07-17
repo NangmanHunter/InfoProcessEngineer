@@ -1,21 +1,21 @@
-﻿- Prototype
+﻿- P
+- Prototype
 - ProtoType
-- ProtoTypePattern
-- ProtoType Pattern
 - Prototype Design Pattern
 - Prototype DesignPattern
 - Prototype Pattern
 - Prototype Pattern
+- ProtoType Pattern
 - Prototype 디자인 패턴
 - Prototype 패턴
+- ProtoTypePattern
 - Prototype디자인 패턴
 - Prototype디자인패턴
 - Prototype패턴
+- PT
+- PT패턴
+- P패턴
 - 프로토타입
 - 프로토타입(Prototype)
 - 프로토타입(Prototype) 디자인패턴
 - 프로토타입(Prototype) 패턴
-- P
-- P패턴
-- PT
-- PT패턴

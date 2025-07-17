@@ -1,3 +1,3 @@
-- SYNFlooding
+﻿- 3-way-handshake 과정을 의도적으로 중단
 - SYN Flooding
-- 3-way-handshake 과정을 의도적으로 중단
+- SYNFlooding

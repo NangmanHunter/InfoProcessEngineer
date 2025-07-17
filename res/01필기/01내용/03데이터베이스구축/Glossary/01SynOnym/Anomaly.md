@@ -1,11 +1,14 @@
 ﻿- Anomaly
+- Anomaly▶️IDU
+- Anomaly▶️InsertionAnomalyㆍDeletionAnomalyㆍUpdateAnomaly
+- Anomaly▶️InsertionAnomalyㆍUpdateAnomalyㆍDeletionAnomaly
+- Anomaly▶️InsertionㆍDeletionㆍUpdate
+- Anomaly▶️InsertionㆍUpdateㆍDeletion
+- Anomaly▶️IUD
+- Anomaly▶️IㆍDㆍU
+- Anomaly▶️IㆍUㆍD
 - IAㆍUAㆍDA
 - InsertionAnomalyㆍUpdateAnomalyㆍDeletionAnomaly
-- Anomaly▶️InsertionAnomalyㆍUpdateAnomalyㆍDeletionAnomaly
-- Anomaly▶️InsertionAnomalyㆍDeletionAnomalyㆍUpdateAnomaly
-- Anomaly▶️InsertionㆍDeletionㆍUpdate
-- Anomaly▶️IㆍDㆍU
-- Anomaly▶️IDU
 - InsertionㆍUpdateㆍDeletion Anomaly
 - InsertionㆍUpdateㆍDeletionAnomaly
 - IUD Anomaly
@@ -13,8 +16,14 @@
 - IUDAnomaly
 - -nomaly▶️평평한, 규칙적인
 - 이상
-- 이상▶️삽입이상ㆍ삭제이상ㆍ갱신이상
-- 이상▶️삽입ㆍ삭제ㆍ갱신
-- 이상▶️삽ㆍ삭ㆍ갱
-- 이상▶️삽삭갱
 - 이상(Anomaly)
+- 이상(Anomaly)의
+- 이상▶️삽갱삭
+- 이상▶️삽삭갱
+- 이상▶️삽입이상ㆍ갱신이상ㆍ삭제이상
+- 이상▶️삽입이상ㆍ삭제이상ㆍ갱신이상
+- 이상▶️삽입ㆍ갱신ㆍ삭제
+- 이상▶️삽입ㆍ삭제ㆍ갱신
+- 이상▶️삽ㆍ갱ㆍ삭
+- 이상▶️삽ㆍ삭ㆍ갱
+- 이상의

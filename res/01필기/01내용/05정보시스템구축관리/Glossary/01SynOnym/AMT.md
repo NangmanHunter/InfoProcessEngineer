@@ -1,0 +1,17 @@
+﻿- [Wiki▶️AMT](https://en.wikipedia.org/wiki/Asynchronous_Transfer_Mode)
+- AMT▶️UARTㆍRS-232ㆍ키보드입력
+- Asynchronous Transfer Mode
+- Asynchronous Transfer Mode Protocol
+- ATM
+- ATMP
+- B-ISDN과 결합하여 서비스를 제공
+- CBR, VBR처리가능
+- physical level
+- physical network level
+- 마이크로컨트롤러 ↔ 센서통신▶️UART (비동기)
+- 물리계층
+- 비동기 전송 방식
+- 비동기식(Asynchronous)
+- 비동기전송방식
+- 비동기전송방식프로토콜
+- 컴퓨터 ↔ 구형프린터▶️RS-232 (비동기)

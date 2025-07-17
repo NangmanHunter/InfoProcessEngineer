@@ -1,0 +1,35 @@
+﻿- →
+- AR
+- ASR
+- Asso
+- Association
+- Association Relationship
+- Association RelationShip
+- Association 관계
+- AssociationR
+- AssociationRelationship
+- ASsociationRelationShip
+- AssociationRelationShip
+- Association관계
+- Class-Object
+- 📌→ mehtod() ->
+- 📌A mehtod() D
+- 📌AR mehtod() DR
+- 📌Association mehtod() Dependecy
+- 📌AssociationRelationship mehtod() DependecyRelationship
+- 📌매개인자 mehtod() 반환인자
+- 매개변수
+- 매개변수인자
+- 매개변수함수인자
+- 매개인자
+- 연관
+- 연관 관계
+- 연관(Association) 관계
+- 연관관계
+- 지속연결
+- 지속적연결
+- 지속적인 연결
+- 지속적인연결
+- 클래스-객체
+- 항상 갖고 있는 관계 (필드에 객체가 있음)
+- 항시연결

@@ -1,3 +1,13 @@
 ﻿- Natural User Interface
 - NUI
 - NUI(Natural User Interface) 
+- NUI▶️VUI
+- VUI👉NUI
+- 손가락으로 줌인/아웃
+- 자연스러운 행동 기반 (제스처, 터치 등)
+- 자연어 명령
+- 터치
+- 터치스크린
+- 핸드폰
+- 휴대폰
+- 휴대폰이나 태블릿에서의 터치

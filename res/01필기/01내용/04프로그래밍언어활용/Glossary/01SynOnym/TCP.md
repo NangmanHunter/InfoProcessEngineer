@@ -1,13 +1,21 @@
-﻿- Connection Oriented Service
+﻿
+
+- Connection Oriented Service
 - connection-oriented service
 - ConnectionOrientedService
 - Connection-Oriented-Service
 - connection-oriented-service
 - COS
 - CS
+- Stream
+- Stream (흐름 기반)
+- Stream방식
 - TCP
 - TCP(Transmission Control Protocol)
 - Transmission Control 
 - Transmission Control Protocol
 - TransmissionControl 
 - TransmissionControlProtocol
+- 사용자 관점에서 stream
+- 스트림
+- 스트림방식

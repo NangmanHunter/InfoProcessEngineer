@@ -1,9 +1,9 @@
 ﻿- S
 - Script Language
 - script programming language
-- scripting language
-- Scripting language
 - Scripting Language
+- Scripting language
+- scripting language
 - ScriptingLanguage
 - ScriptLanguage
 - SL

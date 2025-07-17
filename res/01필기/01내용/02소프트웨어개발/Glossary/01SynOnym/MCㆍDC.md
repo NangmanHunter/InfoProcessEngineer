@@ -1,42 +1,42 @@
-- MC/DC (Modified Condition/Decision Coverage)
-- MC/DC
-- Modified Condition/Decision Coverage
-- 각 조건이 독립적으로 결과에 영향을 미치는지까지 검사
-- 가장 엄격, 항공 등 안전 분야 필수
-- 결정 포인트 내 모든 개별 조건식은 독립적으로 전체 조건식에 영향
-- 결정 내부의 하나의 조건이 다른 조건과 무관하게 독립적으로 결정에 영향을 주는 경우를 추가
-- ➕ A and B (0,0 = F, F 경우 제외), A or B(1,1 = T,T 경우 제외)
-- 변경조건/결정 커버리지(MC/DC, Modified Condition Decision Coverage)
-- 변경조건/결정 커버리지
-- 변경조건ㆍ결정 커버리지
-- 변경조건ㆍ결정커버리지
-- 변경조건커버리지ㆍ결정커버리지
-- Modified Condition Decision Coverage
-- Modified ConditionDecision Coverage
-- ModifiedConditionDecision Coverage
-- ModifiedConditionDecisionCoverage
-- Modified Condition/ Decision Coverage
-- Modified Condition / Decision Coverage
-- Modified Condition Coverage / Decision Coverage
-- Modified Condition/Branch Coverage
-- Modified Condition Coverage/Branch Coverage
-- ModifiedCondition Coverage/Branch Coverage
-- ModifiedConditionCoverage/BranchCoverage
-- 수정분기/조건 검증기준
-- 변경분기/조건 검증기준
-- 수정분기/조건검증기준
-- 수정분기조건검증기준
-- 수정조건분기검증기준
-- 수정조건분기 검증기준
-- 수정조건/분기검증기준
-- 수정조건/분기 검증기준
-- 변경분기/조건검증기준
+﻿- ➕ A and B (0,0 = F, F 경우 제외), A or B(1,1 = T,T 경우 제외)
 - [Wiki▶️MC/DC](https://en.wikipedia.org/wiki/Modified_condition/decision_coverage)
+- MC/DC
+- MC/DC (Modified Condition/Decision Coverage)
 - MCC+MDC
 - MCDC
+- Modified Condition / Decision Coverage
+- Modified Condition Coverage / Decision Coverage
+- Modified Condition Coverage/Branch Coverage
+- Modified Condition Decision Coverage
+- Modified Condition/ Decision Coverage
+- Modified Condition/Branch Coverage
+- Modified Condition/Decision Coverage
+- Modified ConditionDecision Coverage
+- ModifiedCondition Coverage/Branch Coverage
+- ModifiedConditionCoverage/BranchCoverage
+- ModifiedConditionDecision Coverage
+- ModifiedConditionDecisionCoverage
+- 가장 엄격, 항공 등 안전 분야 필수
+- 각 조건이 독립적으로 결과에 영향을 미치는지까지 검사
 - 개별 조건식이 다른 개별 조건식의 영향을 받지 않고 전체 조건식의 결과에 독립적으로 영향을 주는 구조적 테스트 케이스
+- 결정 내부의 하나의 조건이 다른 조건과 무관하게 독립적으로 결정에 영향을 주는 경우를 추가
+- 결정 포인트 내 모든 개별 조건식은 독립적으로 전체 조건식에 영향
 - 독립적
-- 조건식독립적
 - 독립적영향
+- 변경분기/조건 검증기준
+- 변경분기/조건검증기준
+- 변경조건/결정 커버리지
+- 변경조건/결정 커버리지(MC/DC, Modified Condition Decision Coverage)
+- 변경조건커버리지ㆍ결정커버리지
+- 변경조건ㆍ결정 커버리지
+- 변경조건ㆍ결정커버리지
+- 수정분기/조건 검증기준
+- 수정분기/조건검증기준
+- 수정분기조건검증기준
+- 수정조건/분기 검증기준
+- 수정조건/분기검증기준
+- 수정조건분기 검증기준
+- 수정조건분기검증기준
+- 조건식독립적
 - 조건식독립적영향
 - 해당 개별 조건식이 전체 조건식의 결과에 영향을 주는 조건 조합을 찾아 커버리지를 테스트하는 방법

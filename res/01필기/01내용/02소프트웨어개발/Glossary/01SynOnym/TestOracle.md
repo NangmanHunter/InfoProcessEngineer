@@ -1,5 +1,7 @@
-﻿- Test Oracle
+﻿- Oracle
+- Test Oracle
 - TestOracle
+- 오라클
 - 올바른지
 - 올바른지 판단
 - 올바름
@@ -8,3 +10,4 @@
 - 테스트 오라클
 - 테스트 오라클(Test Oracle)  
 - 테스트오라클
+- 테스트오라클(TestOracle)

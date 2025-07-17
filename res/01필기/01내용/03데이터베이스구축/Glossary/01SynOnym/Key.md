@@ -1,35 +1,43 @@
 ﻿- Attribute
-- C
 - c
+- C
 - CK(PKㆍAK)ㆍSKㆍFK
 - CKㆍSKㆍFK
 - col
 - Col
 - Column
+- Field Key
+- FieldKey
 - j
 - K
 - k
+- K▶️C(PㆍA)ㆍSㆍF
+- K▶️CK(PKㆍAK)ㆍSKㆍFK
+- K▶️CKㆍPKㆍAKㆍSKㆍFK
+- K▶️CKㆍSKㆍFK
+- K▶️CㆍSㆍF
+- K▶️PCKㆍACKㆍSKㆍFK
+- K▶️PKㆍAKㆍSKㆍFK
 - Key
 - key
 - Key Attribute
 - Key 속성
 - KeyAttribute
+- Key가되는 Attribute
+- Key가되는 Field
+- Key가되는 속성
 - Key속성
 - 기준이 되는 애트리뷰트
+- 데이터베이스에서 조건에 만족하는 튜플을 찾거나 순서대로 정렬할 때 기준이 되는 속성
 - 속성
 - 애트리뷰트
 - 열
 - 키
 - 키 Attribute
 - 키 속성
+- 키(Key)
 - 키Attribute
 - 키속성
 - 튜플들을 서로 구분할 수 있는 기준이 되는 
-- 필드키
 - 필드 키
-- Field Key
-- FieldKey
-- Key가되는 Attribute
-- Key가되는 속성
-- Key가되는 Field
-- 키(Key)
+- 필드키

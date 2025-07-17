@@ -8,8 +8,10 @@
 - Black-box Testing
 - BlackBoxTest
 - BlackBoxTesting
+- 동치 클래스 분해 및 경계값 분석을 이용하는 테스트 기법
 - 블랙박스 테스트
 - 블랙박스 테스트 (Black Box Test) 
 - 블랙박스 테스트(Black-box Testing) 
 - 블랙박스테스트
 - 블랙박스테스트팅
+- 소프트웨어가 수행할 특정 기능을 알기 위해서 각 기능이 완전히 작동되는 것을 입증하는 테스트

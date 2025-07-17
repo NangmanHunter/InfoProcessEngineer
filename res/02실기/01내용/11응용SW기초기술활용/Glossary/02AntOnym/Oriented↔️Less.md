@@ -1,0 +1,2 @@
+﻿- ConnectionOriented↔️ConnectionLess
+- Oriented↔️Less

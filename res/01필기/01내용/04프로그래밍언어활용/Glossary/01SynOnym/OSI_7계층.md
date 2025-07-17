@@ -1,13 +1,25 @@
-﻿- 7 Layer
+﻿- [Wiki▶️OSI7Layer](https://en.wikipedia.org/wiki/OSI_model)
+- 7 Layer
+- 7 Layer
 - 7 Layer OSI 
+- 7Layer
 - 7Layer
 - 7Layer OSI 
 - 7LayerOSI 
+- 7OSI모델
+- 7OSI참조모델
+- 7계층
 - 7계층
 - 7계층 OSI 
+- 7계층 OSI모델
+- 7계층 OSI참조모델
 - 7계층OSI 
+- 7계층OSI모델
+- 7계층OSI참조모델
+- Open System Interconnection
 - Open Systems Interconnection (OSI) model
 - Open Systems Interconnection Model
+- OSI
 - OSI 7 Layer
 - OSI 7 계층
 - OSI 7 계층 모델
@@ -16,32 +28,44 @@
 - OSI 7계층
 - OSI 7계층 모델
 - OSI 7계층모델
+- OSI Layer
 - OSI Model
 - OSI model
+- OSI model
+- OSI Model
 - OSI model by layer
+- OSI reference model
+- OSI 기본 참조 모델
+- OSI 기본 참조모델
+- OSI 기본참조 모델
+- OSI 기본참조모델
+- OSI 참조 모델
+- OSI 참조모델
+- OSI(7)
+- OSI(7Layer)
+- OSI(7계층)
+- OSI(Open System Interconnection)
+- OSI(Open System Interconnection) 참조 모델
+- OSI(Open System Interconnection) 참조모델
+- OSI(Open System Interconnection)참조모델
 - OSI_7계층
 - OSI-7계층
 - OSI7계층모델
 - OSI-7계층모델
-- OSI(Open System Interconnection)
-- OSI
-- Open System Interconnection
-- OSI(Open System Interconnection) 참조 모델
-- OSI(Open System Interconnection) 참조모델
-- OSI(Open System Interconnection)참조모델
-- OSI참조모델
-- OSI참조 모델
-- OSI 참조 모델
-- OSI 참조모델
-- 7OSI참조모델
+- OSIL
+- OSILayer
+- OSIM
+- OSImodel
+- OSIModel
+- OSIModel(7)
+- OSIModel(7Layer)
+- OSIModel(7계층)
+- OSI기본참조모델
 - OSI모델
+- OSI참조 모델
+- OSI참조모델
 - 📌01👉OSI모델▶️7
 - 📌02👉OSI모델▶️43
 - 📌03👉OSI모델▶️4ㆍ3
 - 📌04👉OSI모델▶️APSTㆍNDP
 - 📌05👉OSI모델▶️APSTNDP
-- 7OSI모델
-- 7계층OSI모델
-- 7계층 OSI모델
-- 7계층OSI참조모델
-- 7계층 OSI참조모델

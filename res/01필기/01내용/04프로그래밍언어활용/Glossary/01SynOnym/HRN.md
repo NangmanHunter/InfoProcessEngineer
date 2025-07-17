@@ -5,6 +5,8 @@
 - HRN 스케줄링알고리즘
 - HRN(Hightest Response-ratio Next)
 - HRN_Scheduling
+- HRN▶️대/서
+- HRN▶️대/서+1
 - HRNScheduling
 - HRN-Scheduling
 - HRN방식
@@ -15,6 +17,16 @@
 - HRN스케줄링
 - HRN스케줄링 알고리즘
 - HRN스케줄링알고리즘
+- Next▶️다음에 실행할 프로세스를 고른다
+- Response-Ratio▶️(대기시간 + 서비스시간)/서비스시간
+- Response-Ratio▶️대/서
+- Response-Ratio▶️대/서+1
+- Response-Ratio▶️대기시간/서비스시간
+- Response-Ratio▶️대기시간/서비스시간 + 1 
+- 📌01 FCFS▶️대기시간
+- 📌02 SJF ▶️1/서비스시간
+- 📌03 HRN ▶️대기시간/서비스시간
+- 실행 시간이 긴 프로세스에 불리한 SJF 기법을 보완
 - 우선순위 = (대기시간 + 서비스시간)/서비스시간
 - 우선순위 = 대기 시간/서비스 시간 + 1 
 - 우선순위 = 대기/서비스

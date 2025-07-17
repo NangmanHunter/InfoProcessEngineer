@@ -1,6 +1,14 @@
-﻿- Hub & Spoke
+﻿- H
+- H&S
+- H&S방식
+- HS
+- HS방식
+- Hub & Spoke
 - Hub 방식
 - Hub&Spoke
 - Hub&Spoke 방식
 - Hub&Spoke방식
 - Hub방식
+- H방식
+- Spoke▶️바퀴살
+- Spoke▶️중심에서 뻗은 선

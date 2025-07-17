@@ -1,14 +1,18 @@
-﻿- Distinct
-- DISTINCT
-- ID
+﻿- DISTINCT
+- Distinct
 - id
-- Identifier
+- ID
 - identifier
-- UNIQUE
-- unique
+- Identifier
 - Unique
+- unique
+- UNIQUE
 - unique identifier
 - Uniqueness
+- 📌유일성▶️✅최소유일성
+- 📌유일성▶️✅최소유일성ㆍ❌최소유일성
+- 📌유일성▶️❌최소유일성
+- 📌유일성▶️❌최소유일성ㆍ✅최소유일성
 - 고유
 - 고유한
 - 구별
@@ -26,6 +30,7 @@
 - 식별할수있는
 - 유일
 - 유일성
+- 유일성(Unique)
 - 유일하게
 - 유일하게 구별할 수 있는
 - 유일하게 식별

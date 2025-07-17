@@ -1,6 +1,6 @@
 ﻿- ×
-- Cartesian Product
 - Cartesian product
+- Cartesian Product
 - CARTESIAN PRODUCT 
 - Cartesian Product (카르테시안 곱)
 - Cartesian Product 집합 연산자
@@ -11,11 +11,13 @@
 - CartesianProduct 연산자
 - CartesianProduct 집합연산자
 - CartesianProduct연산자
+- CP
 - CROSS JOIN
-- x
 - X
+- x
 - 곱
 - 교차곱
+- 교차곱(CARTESIAN PRODUCT)
 - 두 개의 릴레이션을 카티션프로덕트
 - 릴레이션을 카티션프로덕트
 - 카르테시안 곱

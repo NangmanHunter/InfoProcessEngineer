@@ -1,8 +1,8 @@
-- 의미(Semantics)
-- 의미
-- 프로토콜의미
-- 프로토콜 의미
+﻿- Protocol Semantics
+- ProtocolSemantics
 - Semantics
 - SemanticsProtocol
-- ProtocolSemantics
-- Protocol Semantics
+- 의미
+- 의미(Semantics)
+- 프로토콜 의미
+- 프로토콜의미
