@@ -1,6 +1,13 @@
 ﻿- method
 - Method
 - method()
+- 📌Method>>메서드
+- 📌Method>>메서드>>메소드
+- 📌메서드>>메소드
 - 메서드
+- 메서드(method)
 - 메소드
 - 함수
+- 🔎C언어▶️❌Method👉InstanceMethodㆍStaticMethod
+- 🔎Java▶️✅Method👉InstanceMethodㆍStaticMethod
+- 🔎Python▶️✅Method👉InstanceMethodㆍStaticMethod

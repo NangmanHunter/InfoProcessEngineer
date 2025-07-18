@@ -1,0 +1,15 @@
+﻿- Class참조
+- This
+- this
+- this▶️class ✅child extends parent {}
+- this▶️class ✅child extends parent{}
+- this▶️class ✅childClass extends parentClass{}
+- this▶️class ✅now extends parent{}
+- this▶️class ✅now extends parentClass{}
+- this▶️class ✅now{}
+- this▶️class ✅nowClass extends parentClass{}
+- 본인클래스참조
+- 자기클래스참조
+- 클래스참조
+- 현재의 실행중인 메소드가 속한 클래스를 가리키는 예약어
+- 현재클래스참조

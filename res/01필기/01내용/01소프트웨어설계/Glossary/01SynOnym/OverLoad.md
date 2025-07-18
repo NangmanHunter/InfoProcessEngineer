@@ -1,17 +1,31 @@
 ﻿- ()
 - (🔴상이)
+- L
+- Load
+- load
+- Loading
+- loading
 - method()
 - method(🔴상이)
 - Method▶️OverLoadingMethod
 - MethodOverLoading
 - OL
+- OverLoad
 - OverLoading
+- Overloading
 - OverLoading▶️✅Method
 - OverLoading▶️✅MethodOverLoading
 - OverLoading▶️❌FieldOverLoadingㆍ✅MethodOverLoading
 - OverLoading▶️❌Fieldㆍ✅Method
 - OverLoading▶️MethodOverLoading
 - OverLoadingMethod
+- 💡축약표현▶️OverLoad
+- 💡축약표현▶️OverLoad >> OverLoading
+- 💡축약표현▶️OverLoad vs. OverLoading
+- 💡축약표현▶️OverLoad>>OverLoading
 - 📌OL동일▶️✅methodㆍ❌()
 - 📌OR동일▶️✅methodㆍ✅()ㆍ❌{}
+- 로드
+- 로딩
+- 오버로드
 - 오버로딩(Overloading)

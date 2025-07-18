@@ -1,8 +1,5 @@
 
 
-## .update()
-- 없는것
-- 추가
 
 
 ##
@@ -32,3 +29,39 @@ for i in  range(0, 6):
 ## print()
 - Python-print() ≠ ❌Java-print()
 - Python-print() = ✅Java-println()
+
+
+## TrueㆍFalse
+```
+- C     ▶️1ㆍ0
+- Java  ▶️trueㆍfalse
+- Python▶️TrueㆍFalse
+```
+
+
+## {}
+{}
+ㄴ❌[]
+
+Set
+ㄴ{}
+ㄴ집합
+ㄴ비중복
+ㄴ유일
+ㄴ유일한
+ㄴ유일성
+
+.add()
+- 비중복첨가
+- 유일▶️✅첨가
+- 중복▶️❌첨가
+
+.update()
+- 비중복첨가
+- 유일▶️✅첨가
+- 중복▶️❌첨가
+
+
+## .update()
+- 없는것
+- 추가

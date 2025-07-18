@@ -1,0 +1,19 @@
+﻿- Hide
+- Hiding
+- 💡축약표현▶️Hide
+- 💡축약표현▶️Hide >> Hiding
+- 💡축약표현▶️Hide vs. Hiding
+- 💡축약표현▶️Hide>>Hiding
+- 📍Hiding▶️✅StaticMethodㆍStaticMethod
+- 📍Hiding▶️❌InstanceMethodㆍInstanceMethod
+- 📍Hiding▶️❌InstanceMethodㆍStaticMethod
+- 📍Hiding▶️❌StaticMethodㆍInstanceMethod
+- 🔴01 부모ㆍRide▶️자식메서드
+- 🔴02 부모ㆍHide▶️부모메서드
+- 🟠01 부모ㆍOverRide▶️자식메서드
+- 🟠02 부모ㆍHide    ▶️부모메서드
+- 변수 타입(참조 타입)에 따라 호출
+- 숨기기 (Hiding)
+- 이름만 같고 별도로 동작
+- 컴파일 시점 (다형성 적용 안 됨)
+- 클래스 메서드 (static)

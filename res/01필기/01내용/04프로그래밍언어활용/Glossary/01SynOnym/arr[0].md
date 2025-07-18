@@ -1,40 +1,72 @@
-- arr[0]
-- array[0]
-- ary[0]
-- arr[0] = *(arr+0)
-- arr[0] = *(arr+0) = *arr
-- arr[0] = *(arr+0) = *(arr) = *arr
-- a[0] = *(a+0) = *a
-- a[0] = *(a+0) = *(a)= *a
-- a[0] = *a
-- a[0]
-- *(arr+0)
-- *(arr)
-- *(array+0)
-- *(array)
-- *(ary+0)
-- *(ary)
-- *(a+0)
+﻿- *(a + 0)
 - *(a)
+- *(a+0)
+- *(arr + 0)
+- *(arr)
+- *(arr+0)
+- *(array + 0)
+- *(array)
+- *(array+0)
+- *(ary + 0)
+- *(ary)
+- *(ary+0)
 - *a
+- *a = *(a+0) = a[0]
+- *a = a[0]
 - *arr
-- *array
-- *ary
-- arr[0]▶️*arr
-- arr[0] 🟰 *arr
-- array[0]🟰*array
-- arr[0]🟰*arr
-- a[0]🟰*a
-- ✅a[0]🟰*a
-- arr[0]▶️*(arr+0)
-- arr[0]▶️*(arr+0)▶️*arr
-- arr[0] = *arr
-- array[0] = *array
-- a[0] = *a
-- [0] = *
-- a[0] = *a
 - *arr = *(arr)= *(arr+0) = arr[0]
 - *arr = *(arr+0) = arr[0]
-- *a = a[0]
-- *a = *(a+0) = a[0]
 - *arr = arr[0]
+- *array
+- *ary
+- *p
+- *p = *a
+- *p = *arr
+- *p = *array
+- *p = a[0]
+- *p = arr[0]
+- *p = array[0]
+- [0] = *
+- ✅a[0]🟰*a
+- a[0]
+- a[0] = *(a+0) = *(a)= *a
+- a[0] = *(a+0) = *a
+- a[0] = *a
+- a[0] = *a
+- a[0] = *a
+- a[0]🟰*a
+- arr[0]
+- arr［0］
+- arr［０］
+- ａｒｒ［０］
+- arr[0] = *(arr+0)
+- arr[0] = *(arr+0) = *(arr) = *arr
+- arr[0] = *(arr+0) = *arr
+- arr[0] = *arr
+- arr[0] 🟰 *arr
+- arr[0]▶️*(arr+0)
+- arr[0]▶️*(arr+0)▶️*arr
+- arr[0]▶️*arr
+- arr[0]🟰*arr
+- array[0]
+- array[0] = *array
+- array[0]🟰*array
+- ary[0]
+- C언어ㆍString▶️char *p
+- C언어ㆍString▶️char *p = ""
+- C언어ㆍString▶️char *p=""
+- C언어ㆍString▶️char *str
+- C언어ㆍString▶️char *str = ""
+- C언어ㆍString▶️char *str=""
+- C언어ㆍString▶️char str[]
+- C언어ㆍString▶️char str[] = ""
+- C언어ㆍString▶️char str[]=""
+- C언어ㆍString▶️char str[1]={}
+- C언어ㆍString▶️char str[1]={''}
+- C언어ㆍString▶️char str[1]={'s'}
+- C언어ㆍString▶️char* p
+- C언어ㆍString▶️char* p = ""
+- C언어ㆍString▶️char* p=""
+- C언어ㆍString▶️Char배열
+- C언어ㆍString▶️char배열
+- C언어ㆍString▶️배열
