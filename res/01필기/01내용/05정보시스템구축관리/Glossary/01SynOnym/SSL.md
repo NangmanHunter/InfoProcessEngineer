@@ -1,8 +1,17 @@
-﻿- Https
+﻿- 443
+- HTTPs
+- Https
 - Https사용
 - Https에서사용
+- L(443)
+- L▶4
+- L▶443
 - Secure Sockets Layer
+- Secure Sockets Layer
+- Sockets Layer
 - SSL
+- SSL(443)
+- SSL/TLS (Secure Sockets Layer / Transport Layer Security)
 - 📌개발회사▶️넷스케이프 (Netscape)
 - 📌실제사용▶️HTTPS의 실질 보안 주체
 - 📌현재상태▶️❌ 폐기됨 (보안 취약)

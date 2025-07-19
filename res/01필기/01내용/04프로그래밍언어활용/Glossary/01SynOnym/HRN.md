@@ -1,4 +1,14 @@
-﻿- Hightest Response-ratio Next
+﻿- Highest Ratio Next
+- Highest response Ratio Next
+- Highest Response Ratio Next
+- Highest Response ratio Next
+- Highest Responseratio Next
+- Highest ResponseRatio Next
+- Highest responseRatio Next
+- Highest Response-ratio Next
+- Highest response-Ratio Next
+- Highest Response-Ratio Next
+- Hightest Response-ratio Next
 - HRN
 - HRN Scheduling
 - HRN 스케줄링 알고리즘

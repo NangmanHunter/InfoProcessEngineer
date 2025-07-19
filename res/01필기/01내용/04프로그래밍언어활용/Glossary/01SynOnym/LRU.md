@@ -7,8 +7,15 @@
 - Least Recently Used
 - LRU
 - LRU(Least Recently Used)
+- LRU←(+)
+- 단순점유기간
+- 단순점유기간수
+- 역으로가다
+- 제거
 - 좌
 - 좌측
 - 좌측적
 - 좌향
 - 좌향적
+- 최초부분
+- 최후부분

@@ -1,14 +1,27 @@
-﻿- Secure Shell
+﻿- 22
+- CLI
+- H(22)
+- H▶2
+- H▶22
+- Kernel
 - Secure SHell
-- Secure Shell Protocol
+- Secure SHell
+- Secure Shell
+- Secure Shell
 - Secure SHell Protocol
+- Secure Shell Protocol
+- Shell
 - SSH
+- SSH (Secure Shell)
 - SSH Protocol
+- SSH(22)
 - SSHProtocol
 - SSH보안통신프로토콜
 - SSH보안프로토콜
 - SSH통신프로토콜
 - SSH프로토콜
+- 📌SSH▶️22
+- 📌SSL▶️443
 - 기본적으로는 22번 포트를 사용
 - 다른 컴퓨터에 로그인, 원격 명령 실행, 파일 복사 등을 수행할 수 있도록
 - 데이터 암호화와 강력한 인증 방법으로 보안성이 낮은 네트워크에서도 안전하게 통신

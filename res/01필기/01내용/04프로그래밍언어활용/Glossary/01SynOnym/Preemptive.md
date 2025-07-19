@@ -3,19 +3,19 @@
 - empt▶️점하다
 - empt▶️취하다
 - empty는 Old English ‘ǣmettig’에서 유래▶️empt와 어원이 전혀 다름 (비슷하게 보여도 다른 뿌리)
-- FCFSㆍSJFㆍHRN▶️SRT
-- FCFSㆍSJFㆍHRN▶️SRTF
-- NonPreemptive▶️Preemptive
-- NP▶️P
 - pre- -empt -ive
-- Preemptive
-- Preemptive
 - preemptive
+- Preemptive
+- Preemptive
 - Preemptive스케줄링
+- 📌FCFSㆍSJFㆍHRN▶️SRT
+- 📌FCFSㆍSJFㆍHRN▶️SRTF
+- 📌NonPreemptive▶️Preemptive
+- 📌NP▶️P
+- 📌비선점형▶️선점형
 - 다른 작업이 오면 현재 작업 중단 가능
 - 더 중요한 작업이 오면 현재 작업을 중단
 - 복잡함 (문맥 교환, 오버헤드 있음)
-- 비선점형▶️선점형
 - 빠름 (긴급 작업 처리 용이)
 - 선점
 - 선점 스케줄링
