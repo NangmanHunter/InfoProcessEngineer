@@ -22,10 +22,10 @@
 - Declaration(↖)
 - Declaration↖
 - executes
-- Implement
 - implement
-- implementation
+- Implement
 - Implementation
+- implementation
 - Implementation(↘)
 - Implementation▶️---▷
 - Implementation▶️✅Ineterface-Class
@@ -38,8 +38,8 @@
 - Implementation▶️실현
 - Implementation↘
 - Implementation관계 
-- implements
 - Implements
+- implements
 - implements 
 - implements or executes
 - implements▶️✅Ineterface-Class

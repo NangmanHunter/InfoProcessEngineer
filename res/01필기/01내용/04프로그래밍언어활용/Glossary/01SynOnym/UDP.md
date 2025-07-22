@@ -3,15 +3,15 @@
 - connectionless service
 - ConnectionLessService
 - connectionless-service
-- connection-less-service
 - Connection-Less-Service
-- UDP
-- Udp
+- connection-less-service
 - udp
 - UDP
+- UDP
+- Udp
 - UDP(User Datagram Protocol)
+- User Datagram Protocol
+- User Datagram Protocol
 - user Datagram protocol
 - user datagram protocol
-- User Datagram Protocol
-- User Datagram Protocol
 - user-datagram-protocol

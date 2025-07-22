@@ -1,7 +1,7 @@
-﻿- Subquery
-- SubQuery
-- sub-query
+﻿- SubQuery
+- Subquery
 - Sub-query
+- sub-query
 - WHERE 00 = (SELECT ... )
 - WHERE 00 = (SELECT문)
 - WHERE절(SELECT문)

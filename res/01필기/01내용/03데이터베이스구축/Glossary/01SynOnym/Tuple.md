@@ -1,11 +1,11 @@
 ﻿- i
 - Record
-- ROW
 - Row
+- ROW
 - T
 - TP
-- TuPle
 - Tuple
+- TuPle
 - 가로
 - 가로행
 - 릴레이션을 구성하는 각각의 행을 의미

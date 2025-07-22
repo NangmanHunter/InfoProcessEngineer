@@ -1,7 +1,7 @@
-﻿- declarative
-- Declarative
-- declarative programming language
+﻿- Declarative
+- declarative
 - Declarative Programming Language
+- declarative programming language
 - Declarative ProgrammingLanguage
 - DeclarativeProgramming Language
 - DeclarativeProgrammingLanguage

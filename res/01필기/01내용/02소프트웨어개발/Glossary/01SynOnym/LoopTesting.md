@@ -1,8 +1,8 @@
 ﻿- L
 - Loop
 - Loop Testing
-- LooPTesting
 - LoopTesting
+- LooPTesting
 - LPT
 - LT
 - LTesting

@@ -15,8 +15,8 @@
 - IP=IP주소
 - IP▶️IP주소
 - IPA
-- IPAddress
 - IpAddress
+- IPAddress
 - IP주소
 - IP주소
 - 🔎AddressProtocol = Address
