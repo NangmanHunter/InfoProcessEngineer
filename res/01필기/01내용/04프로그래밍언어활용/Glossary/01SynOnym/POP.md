@@ -1,0 +1,70 @@
+﻿- Non Object Oriented 
+- NonObjectOriented
+- NOO
+- NOOP
+- OOP▶️POP
+- OOP◀️POP
+- P
+- PCP
+- PL
+- PO
+- pop
+- POP
+- Pop
+- POP▶️구상쪽
+- POP▶️추상쪽<<구상쪽
+- POPL
+- POP👉OOP
+- POP적
+- Procedural
+- procedural
+- Procedural Oriented
+- Procedural Oriented Programming
+- Pro-cedural Oriented Programming
+- PRo-cedural Oriented Programming
+- Pro-Cedural Oriented Programming
+- Procedural Programming
+- procedural programming
+- Procedural programming
+- Pro-Cedural Programming
+- PRo-cedural Programming
+- ProceduralOriented
+- Procedural-Oriented
+- Procedure
+- Procedure▶️P
+- Procedure▶️PC
+- Procedure▶️PR
+- Procedure▶️PRo-cedure
+- Procedure▶️Pro-cedure
+- Procedure▶️Pro-Cedure
+- PRP
+- 구상추상
+- 귀납
+- 귀납식
+- 비객체지향적
+- 서술식
+- 서술식적
+- 시
+- 시간
+- 시간성
+- 시간적
+- 절차
+- 절차=절차지향
+- 절차성
+- 절차적
+- 절차적
+- 절차적=절차지향적
+- 절차지향
+- 절차지향성
+- 절차지향적
+- 절차지향적 프로그래밍
+- 절차지향적프로그래밍
+- 절차지향형
+- 절차형
+- 표현▶️POP
+- 표현▶️POP>>PP
+- 표현▶️POP-OOP>>PP-OOP
+- 표현▶️PP<<POP
+- 표현▶️PP-OOP<<POP-OOP
+- 표현▶️PP-OOPvs.POP-OOP
+- 표현▶️PPvs.POP

@@ -1,8 +1,8 @@
 ﻿- PreEmptive
-- PreEmptive Scheduling
 - Preemptive Scheduling
-- PreemptiveScheduling
+- PreEmptive Scheduling
 - PreEmptiveScheduling
+- PreemptiveScheduling
 - 선점 스케줄링
 - 선점(Preemptive) 스케줄링
 - 선점스케줄링

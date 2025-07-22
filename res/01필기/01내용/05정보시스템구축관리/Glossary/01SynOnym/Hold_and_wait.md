@@ -1,11 +1,11 @@
 ﻿- Hold & Wait
-- Hold And Wait
-- Hold and Wait
 - Hold and wait
+- Hold and Wait
+- Hold And Wait
 - Hold&Wait
 - Hold_and_wait
-- HoldandWait
 - HoldAndWait
+- HoldandWait
 - Hold-and-Wait
 - 점유 및 대기
 - 점유대기

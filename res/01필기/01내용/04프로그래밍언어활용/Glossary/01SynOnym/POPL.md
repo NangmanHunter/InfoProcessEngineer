@@ -1,0 +1,55 @@
+﻿- Non Object Oriented Language
+- Non Object Oriented Programming Language
+- NOOL
+- NOOPL
+- POL
+- POP Language
+- POP 언어
+- popl
+- POPLanguage
+- POP언어
+- POP언어 종류
+- POP언어의 종류
+- POP언어의종류
+- POP언어종류
+- PP 언어
+- PP언어
+- Procedural Language
+- Procedural Oriented Language
+- Procedural Oriented Programming Language
+- Procedural Oriented ProgrammingLanguage
+- Procedural OrientedLanguage
+- procedural programming language
+- Procedural Programming Language
+- ProceduralOriented Language
+- Procedural-Oriented Language
+- ProceduralOriented ProgrammingLanguage
+- ProceduralOrientedLanguage
+- ProceduralOrientedProgramming Language
+- ProceduralOrientedProgrammingLanguage
+- ProceduralProgrammingLanguage
+- 절차적 언어
+- 절차적 프로그래밍 언어
+- 절차적 프로그래밍언어
+- 절차적언어
+- 절차적프로그래밍언어
+- 절차지향적 언어
+- 절차지향적 프로그래밍 언어
+- 절차지향적 프로그래밍언어
+- 절차지향적언어
+- 절차지향형언어
+- 절차형 언어
+- 절차형 프로그래밍 언어
+- 절차형 프로그래밍언어
+- 절차형언어
+- 절차형프로그래밍언어
+- 표현▶️POPL
+- 표현▶️POPL>>PPL
+- 표현▶️POPL-POP>>PPL-PP
+- 표현▶️POP-POPL>>PP-PPL
+- 표현▶️PPL-PP<<POPL-POP
+- 표현▶️PPL-PPvs.POPL-POP
+- 표현▶️PPL-PPvs.POPL-POP
+- 표현▶️PPLvs.POPL
+- 표현▶️PP-PPL<<POP-POPL
+- 표현▶️PP-PPLvs.POP-POPL

@@ -4,12 +4,12 @@
 - Non-RDB
 - NonRDBMS
 - Non-RDBMS
-- Non-relational Database
 - Non-Relational Database
-- NonRelationalDatabase
+- Non-relational Database
 - NonrelationalDatabase
-- Non-relationalDatabase
+- NonRelationalDatabase
 - Non-RelationalDatabase
+- Non-relationalDatabase
 - NoSQL
 - NoSQL DB
 - NoSQL DBMS

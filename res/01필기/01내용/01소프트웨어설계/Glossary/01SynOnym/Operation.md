@@ -1,5 +1,5 @@
-﻿- method
-- Method
+﻿- Method
+- method
 - Operation
 - Service
 - 데이터를 처리하는 함수

@@ -1,0 +1,60 @@
+﻿- SCL
+- SCP Language
+- SCPL
+- SCPLanguage
+- SCP언어
+- SCP언어종류
+- Script Language
+- script programming language
+- Script 언어
+- SCRipt 언어
+- Scripting Language
+- scripting language
+- Scripting language
+- ScriPting Programming Language
+- ScRipting Programming Language
+- Scripting Programming Language
+- Scri-pting Programming Language
+- Scri-Pting Programming Language
+- Sc-Ripting Programming Language
+- Scripting ProgrammingLanguage
+- ScriptingLanguage
+- ScriptingProgramming Language
+- SCriptingProgrammingLanguage
+- ScriptingProgrammingLanguage
+- ScRiptingProgrammingLanguage
+- SCRiptingProgrammingLanguage
+- ScRiptingProgramming언어
+- SCriptingProgramming언어
+- ScriptLanguage
+- SCriptLanguage
+- SCRiptLanguage
+- Script언어
+- SCRipt언어
+- Script언어 종류
+- SCRL
+- SCRL 종류
+- SCRL종류
+- SCR언어
+- SCR언어 종류
+- SCR언어종류
+- SC언어
+- SL
+- SPL
+- SP언어
+- SRP언어
+- 스크립트 언어
+- 스크립트 언어의 종류
+- 스크립트 프로그래밍 언어
+- 스크립트 프로그래밍 언어(script programming language)
+- 스크립트언어
+- 스크립트언어 종류
+- 스크립트언어의 종류
+- 스크립트프로그래밍 언어
+- 스크립트프로그래밍언어
+- 스크립팅 언어
+- 스크립팅언어
+- 표현▶️SCPL>>SCRL
+- 표현▶️SCP👉SCPL
+- 표현▶️SCP언어
+- 표현▶️SCP언어>>SCR언어

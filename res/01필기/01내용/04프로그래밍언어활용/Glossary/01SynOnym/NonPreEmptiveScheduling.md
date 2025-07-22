@@ -1,11 +1,11 @@
 ﻿- NonPreEmptive
-- NonPreemptive Scheduling
 - NonPreEmptive Scheduling
+- NonPreemptive Scheduling
 - Non-preemptive Scheduling
-- NonPreEmptiveScheduling
 - NonPreemptiveScheduling
-- Non-preemptiveScheduling
+- NonPreEmptiveScheduling
 - Non-PreemptiveScheduling
+- Non-preemptiveScheduling
 - 비선점 스케줄링
 - 비선점(Non-preemptive) 스케줄링
 - 비선점스케줄링
