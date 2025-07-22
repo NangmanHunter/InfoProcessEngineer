@@ -1,10 +1,10 @@
-﻿- Mi
-- MI
-- MiC
-- Mic
+﻿- MI
+- Mi
 - MIC
-- Micro
+- Mic
+- MiC
 - MiCro
+- Micro
 - 미
 - 미시
 - 미시적

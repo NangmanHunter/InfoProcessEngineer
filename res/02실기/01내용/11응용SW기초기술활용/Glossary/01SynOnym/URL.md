@@ -7,10 +7,10 @@
 - SㆍAㆍPㆍQㆍF
 - Uniform Resource Locator
 - Uniform_Resource_Locator
-- UniformResourceLocator
 - uniformResourceLocator
-- uniform-Resource-Locator
+- UniformResourceLocator
 - uniform-resource-locator
+- uniform-Resource-Locator
 - URL
 - URL(Uniform Resource Locator)
 - URL▶️SAPQF

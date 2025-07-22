@@ -1,7 +1,7 @@
-﻿- Trust Zone
-- Trust zone
-- TrustZone
+﻿- Trust zone
+- Trust Zone
 - Trustzone
+- TrustZone
 - Trust-zone
 - TrustZone Technology
 - TrustZoneTechnology

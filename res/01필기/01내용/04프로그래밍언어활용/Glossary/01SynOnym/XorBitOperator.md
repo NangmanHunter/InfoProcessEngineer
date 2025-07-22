@@ -1,15 +1,15 @@
 ﻿- ^
 - ⊕
 - Exclusive OR
-- xor
 - XOR
+- xor
 - XOR (Exclusive OR, 배타적 논리합)
-- XorBitOperator
-- XORBitOperator
 - XOrBitOperator
-- xor비트연산
+- XORBitOperator
+- XorBitOperator
 - XOR비트연산
-- XOR비트연산자
+- xor비트연산
 - xor비트연산자
+- XOR비트연산자
 - 배타적 논리합
 - 배타적논리합

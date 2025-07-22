@@ -1,13 +1,13 @@
 ﻿- P
 - PL
-- Procedural
 - procedural
+- Procedural
 - Procedural Language
-- Procedural Programming
-- Procedural programming
 - procedural programming
-- Procedural Programming Language
+- Procedural programming
+- Procedural Programming
 - procedural programming language
+- Procedural Programming Language
 - ProceduralProgrammingLanguage
 - 절차
 - 절차적
