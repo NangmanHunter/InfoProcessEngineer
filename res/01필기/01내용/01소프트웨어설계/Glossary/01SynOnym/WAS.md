@@ -1,8 +1,8 @@
-﻿- API
-- api
-- api Server
-- api server
+﻿- api
+- API
 - API Server
+- api server
+- api Server
 - APIServer
 - api-server
 - Application Programming Interface
@@ -11,15 +11,15 @@
 - ApplicationProgrammingInterfaceServer
 - ApplicationServer 
 - AS
-- Back
 - back
+- Back
 - Back End Server
-- Backend Server
 - BackEnd Server
-- backendServer
-- BackendServer
+- Backend Server
 - backEndServer
 - BackEndServer
+- backendServer
+- BackendServer
 - BackServer
 - DB에 접근로직
 - DB에 접근하는 로직
@@ -45,8 +45,8 @@
 - Web Application Server 
 - Web Application Server Program
 - Web Application Server Software
-- Web Applicationprogram
 - Web ApplicationProgram
+- Web Applicationprogram
 - Web Application-program
 - Web ApplicationServer
 - Web ApplicationServer 

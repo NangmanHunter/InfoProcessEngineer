@@ -5,16 +5,16 @@
 - DCP언어의 종류
 - DCP언어의종류
 - DCP언어종류
-- DeClarative Programming Language
-- declarative programming language
 - Declarative Programming Language
+- declarative programming language
+- DeClarative Programming Language
 - De-Clarative Programming Language
 - Declarative ProgrammingLanguage
 - DeclarativeProgramming Language
-- DEclarativeProgrammingLanguage
-- DeClarativeProgrammingLanguage
 - DeclarativeProgrammingLanguage
 - DEClarativeProgrammingLanguage
+- DEclarativeProgrammingLanguage
+- DeClarativeProgrammingLanguage
 - Declare Programming Language
 - Declare ProgrammingLanguage
 - DECPL

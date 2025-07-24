@@ -25,9 +25,9 @@
 - G관계
 - I
 - IN
-- Inheritance
-- Inheritance
 - INheritance
+- Inheritance
+- Inheritance
 - Inheritance(↘)
 - Inheritance▶️───▷
 - Inheritance▶️✅Class-Class
@@ -39,8 +39,8 @@
 - is-a
 - I관계
 - R▶️GR
-- RelationShip▶️GeneralizationRelationShip
 - Relationship▶️GeneralizationRelationship
+- RelationShip▶️GeneralizationRelationShip
 - 📌UML▶️✅일반화
 - 📌UML▶️일반화
 - 📌UML의미▶️BottomUp방식

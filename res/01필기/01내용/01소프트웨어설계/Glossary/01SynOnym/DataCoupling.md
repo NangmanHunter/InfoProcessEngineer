@@ -1,12 +1,12 @@
 ﻿- Data Coupling
 - DataCoupling
 - DC
-- Function
 - function
-- Function형
+- Function
 - function형
-- F형
+- Function형
 - f형
+- F형
 - 데이터 결합도는 한 모듈이 다른 모듈에 순수한 데이터만을 전달할 때 발생하는 결합
 - 모듈 간의 인터페이스가 자료 요소로만 구성될 때의 결합도
 - 반환함수

@@ -1,6 +1,6 @@
-﻿- bit
+﻿- Bit
 - Bit
-- Bit
+- bit
 - Bit(Stream)
 - Stream
 - 비트

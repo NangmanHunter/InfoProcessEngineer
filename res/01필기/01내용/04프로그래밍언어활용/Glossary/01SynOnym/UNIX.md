@@ -1,7 +1,7 @@
 ﻿- 1960년대 AT&T 벨(Bell) 연구소, MIT, General Electric사와 함께 공동개발한 운영체제
-- unix
-- UNIX
 - Unix
+- UNIX
+- unix
 - 📌UNIX / Linux▶️루트 디렉토리	/ (하나)	
 - 📌Window▶️드라이브마다 루트가 있음 (C:, D:\ 등)
 - 대부분 C 언어로 작성▶️이식성이 높으며, 장치프로세스 간의 호환성이 높다
