@@ -3,12 +3,12 @@
 - 1:1방식
 - 1대1방식
 - P2P
-- Point To Point
 - Point to Point
+- Point To Point
 - Point-to-Point
 - Point-to-Point 방식
 - Point-to-Point방식
-- PTP
 - PtP
+- PTP
 - 일대일
 - 일대일방식

@@ -1,17 +1,17 @@
 ﻿- Authentication Credentials
 - AuthenticationCredentials
-- credential
 - Credential
+- credential
 - Credentials
 - User Authentication
 - User Inforamtion
 - UserAuthentication
 - UserInfo
 - UserInforamtion
-- Username:Password
 - username:password
-- username+password
+- Username:Password
 - Username+Password
+- username+password
 - UsernamePassword
 - Username-Password
 - UserPass

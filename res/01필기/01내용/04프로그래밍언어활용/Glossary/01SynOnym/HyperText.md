@@ -2,7 +2,7 @@
 - HT
 - Hyper▶️“hyper-”는 “초월하는, 확장된”이라는 뜻의 접두사
 - Hyper▶️기존 linear text(직선형 텍스트)를 넘어선 텍스트라는 의미에서 붙음
-- Hypertext
 - HyperText
+- Hypertext
 - 다른 문서나 그림으로 이동할 수 있는 연결을 가지고 있는 텍스트
 - 본질은 ‘정보 간 연결성’과 ‘탐색 자유도’

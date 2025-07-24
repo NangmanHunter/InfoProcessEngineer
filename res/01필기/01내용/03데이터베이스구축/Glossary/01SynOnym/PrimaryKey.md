@@ -3,21 +3,21 @@
 - Main Key
 - MainKey
 - PCK
-- pk
 - PK
+- pk
 - Primary Cadiadate Key
 - Primary CadiadateKey
-- Primary Key
 - Primary key
+- Primary Key
 - Primary 키
 - PrimaryCadiadate Key
 - PrimaryCadiadateKey
-- primaryKey
-- Primarykey
 - PrimaryKey
 - primarykey
-- Primary-key
+- primaryKey
+- Primarykey
 - primary-key
+- Primary-key
 - Primary키
 - 기본
 - 기본키

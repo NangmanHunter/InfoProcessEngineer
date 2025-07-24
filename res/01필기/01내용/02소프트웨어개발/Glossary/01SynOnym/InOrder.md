@@ -1,11 +1,11 @@
-﻿- Inorder
-- InOrder
-- Inorder Traversal
+﻿- InOrder
+- Inorder
 - InOrder Traversal
+- Inorder Traversal
 - InOrder▶️순서대로
 - InOrder▶️정해진순서에따라
-- InOrderTraversal
 - InorderTraversal
+- InOrderTraversal
 - Inorder운행
 - 중
 - 중위

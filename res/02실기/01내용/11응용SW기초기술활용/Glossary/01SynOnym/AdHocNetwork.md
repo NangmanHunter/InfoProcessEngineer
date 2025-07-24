@@ -1,10 +1,10 @@
 ﻿- [노트북] ↔ [스마트폰] ↔ [태블릿]   ← 자체 연결만으로 구성
 - Ad Hoc
 - AdHoc
-- Ad-hoc
 - Ad-Hoc
-- AdHoc Network
+- Ad-hoc
 - Adhoc Network
+- AdHoc Network
 - Ad-hoc Network
 - Ad-hoc Network (애드혹 네트워크)
 - AdHocNetwork

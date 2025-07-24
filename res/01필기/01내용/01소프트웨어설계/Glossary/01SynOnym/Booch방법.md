@@ -8,7 +8,7 @@
 - MacroProcessㆍMicroProcess
 - MacroㆍMicro
 - MACㆍMIC
-- MAㆍMI
 - MaㆍMi
+- MAㆍMI
 - 부치
 - 부치방법

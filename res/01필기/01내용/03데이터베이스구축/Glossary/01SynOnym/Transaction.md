@@ -1,5 +1,5 @@
-﻿- transaction
-- Transaction
+﻿- Transaction
+- transaction
 - 묶음
 - 묶음단위
 - 일괄묶음

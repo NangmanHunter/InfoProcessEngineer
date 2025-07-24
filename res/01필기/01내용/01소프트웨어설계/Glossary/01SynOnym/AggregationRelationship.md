@@ -14,8 +14,8 @@
 - Aggregation=❌종속
 - Aggregation=독립
 - AggregationR
-- AggregationRelationship
 - AGgregationRelationship
+- AggregationRelationship
 - Aggregation관계
 - AggreR
 - AGR

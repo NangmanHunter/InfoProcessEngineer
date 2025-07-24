@@ -33,15 +33,15 @@
 - ⭕실행가능한 소프트웨어중시
 - ⭕실행가능한소프트웨어중시
 - ⭕협력
-- AGile
 - Agile
+- AGile
 - Agile Model
 - Agile 모델
 - Agile 모형
 - AgileModel
 - Agile모델
-- AGile모형
 - Agile모형
+- AGile모형
 - AGM
 - ALM
 - AM
