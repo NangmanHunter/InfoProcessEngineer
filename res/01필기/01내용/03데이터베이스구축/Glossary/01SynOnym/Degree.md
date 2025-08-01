@@ -7,21 +7,21 @@
 - ∠R
 - attr()
 - attr(R)
-- Col
 - col
+- Col
 - Column
-- Deg
 - deg
+- Deg
 - deg()
 - Deg()
 - deg()
 - Deg()
-- Deg(R)
 - deg(R)
-- degree
+- Deg(R)
 - Degree
-- degree()
+- degree
 - Degree()
+- degree()
 - j
 - R의 차수
 - R의차수

@@ -4,12 +4,12 @@
 - ?00=00
 - ?A=B
 - ?id=1
-- parameter
 - Parameter
-- Parameters
+- parameter
 - parameters
-- query
+- Parameters
 - Query
+- query
 - queryString
 - QueryURL
 - URLQuery

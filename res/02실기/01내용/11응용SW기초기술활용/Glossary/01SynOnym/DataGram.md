@@ -3,18 +3,18 @@
 - ❌순서보장(재정렬 필요)
 - ❌접속 절차
 - ❌접속절차
-- DataGram
 - Datagram
+- DataGram
 - Datagram 방식: 엽서 보내기 → 매번 주소 쓰고, 우편 경로는 유동적
-- Datagram방식
 - DataGram방식
+- Datagram방식
 - DG
 - DG방식
 - Ex. UDP, 일반적인 IP 네트워크
-- gram
 - Gram
-- Gram방식
+- gram
 - gram방식
+- Gram방식
 - G방식
 - UDP(Datagram)/IP(Datagram)
 - UDP/IP (Datagram)

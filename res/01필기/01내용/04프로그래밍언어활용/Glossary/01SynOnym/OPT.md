@@ -1,10 +1,10 @@
 ﻿- OPT
 - OPT(OPTimal replacement, 최적 교체)
-- Optimal
 - OPTimal
-- OPTimal Replacement
-- OPTimal replacement
+- Optimal
 - Optimal Replacement
+- OPTimal replacement
+- OPTimal Replacement
 - OptimalReplacement
 - 최적
 - 최적 교체

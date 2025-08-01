@@ -25,9 +25,9 @@
 - G관계
 - I
 - IN
-- Inheritance
-- Inheritance
 - INheritance
+- Inheritance
+- Inheritance
 - Inheritance(↘)
 - Inheritance▶️───▷
 - Inheritance▶️✅Class-Class
@@ -39,8 +39,8 @@
 - is-a
 - I관계
 - R▶️GR
-- RelationShip▶️GeneralizationRelationShip
 - Relationship▶️GeneralizationRelationship
+- RelationShip▶️GeneralizationRelationShip
 - 📌UML▶️✅일반화
 - 📌UML▶️일반화
 - 📌UML의미▶️BottomUp방식
@@ -63,7 +63,11 @@
 - 📌일반의미▶️일반화관계<<상속관계
 - 📌일반의미▶️추상구상>>구상추상
 - 📌일반의미▶️하향>>상향
+- 🔎개발표현▶️상속관계
+- 🔎개발표현▶️일반화관계
+- 🔎개발표현▶️일반화관계>>상속관계
 - 🔎상속관계　▶️정순표현(↘)
+- 🔎일반표현▶️하위관계
 - 🔎일반화관계▶️역순표현(↖)
 - 🚩표현▶️↖
 - 🚩표현▶️↖일반상속
@@ -93,6 +97,9 @@
 - 귀납관계(↖)
 - 귀납법관계(↖)
 - 귀납화관계(↖)
+- 부모관계
+- 부모자식관계
+- 부모-자식관계
 - 상속
 - 상속(Inheritance) 관계
 - 상속관계
@@ -153,6 +160,8 @@
 - 일반ㆍ상속
 - 일반ㆍ상속관계
 - 일반ㆍ상속관계
+- 자녀관계
+- 자식관계
 - 전부
 - 전부사용
 - 전부상속
