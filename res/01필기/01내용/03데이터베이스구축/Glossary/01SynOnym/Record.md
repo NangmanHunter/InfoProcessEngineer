@@ -1,7 +1,7 @@
 ﻿- R
 - RC
-- Record
 - ReCord
+- Record
 - Tuple
 - 레코드
 - 레코드(Record)

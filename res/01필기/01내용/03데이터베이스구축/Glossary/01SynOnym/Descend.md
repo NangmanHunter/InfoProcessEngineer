@@ -1,11 +1,11 @@
-﻿- DESCend
-- Descend
+﻿- Descend
+- DESCend
 - Descendant
-- Descending
 - DESCending
+- Descending
 - Descending Order
 - DescendingOrder
-- scend▶️DEscend
-- scend▶️Descend
 - Scend▶️DEScend
 - SCend▶️DESCend
+- scend▶️DEscend
+- scend▶️Descend

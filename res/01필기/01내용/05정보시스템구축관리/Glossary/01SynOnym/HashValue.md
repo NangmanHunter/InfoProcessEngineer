@@ -1,10 +1,10 @@
 ﻿- (hash/message) digests
 - hash codes
 - Hash Key
-- hash value
 - Hash Value
-- Hash Values
+- hash value
 - hash values
+- Hash Values
 - hashes
 - HashKey
 - HashValue

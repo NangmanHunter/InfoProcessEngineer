@@ -1,6 +1,6 @@
 ﻿- Class참조
-- this
 - This
+- this
 - this▶️class ✅child extends parent {}
 - this▶️class ✅child extends parent{}
 - this▶️class ✅childClass extends parentClass{}

@@ -1,10 +1,10 @@
 ﻿- IP나 ICMP의 특성을 악용
 - IP나 ICMP의 특성을 악용하여 엄청난 양의 데이터를 한 사이트에 집중적으로 보냄
 - Smurf
-- Smurfing
 - SMURFING
-- Smurfing(스머핑)
+- Smurfing
 - SMURFING(스머핑)
+- Smurfing(스머핑)
 - Smurfing공격
 - Smurf공격
 - 스머프

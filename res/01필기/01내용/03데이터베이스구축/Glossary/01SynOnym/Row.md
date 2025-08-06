@@ -1,6 +1,6 @@
 ﻿- Record
-- Row
 - row
+- Row
 - Row(→)↔️Cardinality(↓)
 - Row(→)↔️Record수(↓)
 - Row(→)↔️Row수(↓)
@@ -11,5 +11,5 @@
 - Tuple
 - 튜플
 - 행
-- 행(Row)
 - 행(row)
+- 행(Row)

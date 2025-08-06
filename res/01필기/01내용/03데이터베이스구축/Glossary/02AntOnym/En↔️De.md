@@ -1,3 +1,3 @@
 ﻿- En↔️De
-- EnCryption↔️DeCryption
 - Encryption↔️Decryption
+- EnCryption↔️DeCryption

@@ -2,10 +2,10 @@
 - REpresentational State Transfer
 - RESTful API
 - Restful Protocol
-- Restful 프로토콜
 - restful 프로토콜
+- Restful 프로토콜
 - RestfulProtocol
-- restful프로토콜
 - Restful프로토콜
+- restful프로토콜
 - SOAP보다 가벼운 프로토콜
 - 아키텍처 스타일 (HTTP 기반)
