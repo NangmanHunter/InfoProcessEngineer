@@ -6,10 +6,10 @@
 - Ph- + ishing
 - Phi + ishing
 - Phi- + -ishing
-- Phishing
-- PHiShing
 - PhiShing
 - PHIShing
+- Phishing
+- PHiShing
 - Phi-shing
 - PHShing
 - PrivateData + Fishing

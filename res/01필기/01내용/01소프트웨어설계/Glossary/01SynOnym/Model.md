@@ -1,10 +1,10 @@
 ﻿- M
 - MD
 - MDL
-- MO
 - Mo
-- MOD
+- MO
 - Mod
+- MOD
 - Model
 - 기법
 - 모델

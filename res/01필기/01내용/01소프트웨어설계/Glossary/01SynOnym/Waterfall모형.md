@@ -1,14 +1,14 @@
-﻿- Waterfall
-- WaterFall
-- Waterfall Model
+﻿- WaterFall
+- Waterfall
 - WaterFall Model
+- Waterfall Model
 - Waterfall 모델
 - Waterfall 모형
-- WaterfallModel
 - WaterFallModel
+- WaterfallModel
 - Waterfall모델
-- WaterFall모형
 - Waterfall모형
+- WaterFall모형
 - WF
 - WFM
 - WM

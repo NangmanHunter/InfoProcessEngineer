@@ -5,8 +5,8 @@
 - ✅SELECT 집계함수() GROUP BY 속성
 - ❌SELECT * GROUP BY 속성
 - ❌SELECT 속성 GROUP BY 속성
-- Group By
 - GROUP BY
+- Group By
 - GroupBy
 - Group-By
 - GroupBy▶️✅그룹함수

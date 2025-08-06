@@ -1,9 +1,9 @@
 ﻿- ✅LEFT JOIN
-- LEFT JOIN
 - Left Join
+- LEFT JOIN
 - LEFT JOIN ON
-- LEFT OUTER JOIN
 - Left Outer Join
+- LEFT OUTER JOIN
 - Left OuterJoin
 - LeftJoin
 - LeftOuter Join

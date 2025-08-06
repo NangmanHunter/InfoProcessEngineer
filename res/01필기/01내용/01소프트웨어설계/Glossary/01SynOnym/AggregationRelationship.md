@@ -14,14 +14,16 @@
 - Aggregation=❌종속
 - Aggregation=독립
 - AggregationR
-- AggregationRelationship
 - AGgregationRelationship
+- AggregationRelationship
 - Aggregation관계
 - AggreR
 - AGR
 - AR
 - Ex. 학급 - 학생 (학생은 학급 없어도 존재 가능)
 - Ex. 학생은 학급이 없어도 혼자 존재 가능함
+- 📌표현▶️❌하위관계
+- 📌표현▶️집합관계
 - 느슨하게 연결됨
 - 단순포함관계
 - 부분전체관계 + 독립관계
@@ -47,5 +49,3 @@
 - 하나의 사물이 다른 사물에 포함되어 있는 관계로, 전체와 부분으로 구분되어지며 서로 독립적이다
 - 흰 마름모
 - 흰마름모
-- 📌표현▶️집합관계
-- 📌표현▶️❌하위관계

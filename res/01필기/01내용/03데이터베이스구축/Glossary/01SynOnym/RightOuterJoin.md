@@ -1,9 +1,9 @@
 ﻿- ✅RIGHT JOIN
-- Right Join
 - RIGHT JOIN
+- Right Join
 - RIGHT JOIN ON
-- RIGHT OUTER JOIN
 - Right Outer Join
+- RIGHT OUTER JOIN
 - Right OuterJoin
 - RightJoin
 - RightOuter Join
