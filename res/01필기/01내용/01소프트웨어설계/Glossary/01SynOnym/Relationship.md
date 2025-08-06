@@ -5,13 +5,13 @@
 - ClassDiagram 6관계
 - ClassDiagram6관계
 - ClassDiagram관계
-- R
 - r
-- rel
+- R
 - Rel
+- rel
 - Relation
-- RelationShip
 - Relationship
+- RelationShip
 - Relationships
 - RS
 - UML 6관계
@@ -22,8 +22,8 @@
 - UML관계
 - 📌관계▶️Association👉Composition👉Generalization
 - 📌관계▶️Association관계👉Composition관계👉Generalization관계
-- 📌관계▶️ASsociationㆍDependency👉CompositionㆍAGgregation👉GeneralizationㆍRealization
 - 📌관계▶️AssociationㆍDependency👉CompositionㆍAggregation👉GeneralizationㆍRealization
+- 📌관계▶️ASsociationㆍDependency👉CompositionㆍAGgregation👉GeneralizationㆍRealization
 - 📌관계▶️AS👉C👉G
 - 📌관계▶️ASㆍD👉CㆍAG👉GㆍR
 - 📌관계▶️A👉C👉G

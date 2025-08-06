@@ -1,6 +1,6 @@
 ﻿- C
-- condition
 - Condition
+- condition
 - TC
 - Test Condition
 - TestCondition

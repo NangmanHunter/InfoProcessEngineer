@@ -1,12 +1,12 @@
 ﻿- ASC
-- ASCend
 - Ascend
+- ASCend
 - Ascendant
-- ASCending
 - Ascending
+- ASCending
 - Ascending Order
 - AscendingOrder
 - SC▶️ASC
-- scend▶️Ascend
-- SCend▶️ASCend
 - Scend▶️AScend
+- SCend▶️ASCend
+- scend▶️Ascend

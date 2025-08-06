@@ -1,5 +1,5 @@
-﻿- event▶️state
-- Event▶️State
+﻿- Event▶️State
+- event▶️state
 - State Diagram
 - State 다이어그램
 - StateDiagram

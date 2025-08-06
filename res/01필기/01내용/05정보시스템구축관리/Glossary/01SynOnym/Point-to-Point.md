@@ -1,13 +1,13 @@
 ﻿- 1:1 연결
 - 1대1
 - B2B
-- Point to Point
 - Point To Point
+- Point to Point
 - Point_to_Point
 - PointToPoint
 - Point-to-Point
-- PtP
 - PTP
+- PtP
 - 비투비
 - 비투비연결
 - 예: 전화선

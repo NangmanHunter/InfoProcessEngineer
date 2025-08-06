@@ -8,12 +8,12 @@
 - NonEqui
 - NonEqui-
 - NonEqui Join
-- Non-Equi Join
 - NON-EQUI JOIN
+- Non-Equi Join
 - NonEquiJoin
 - NonEquity
-- NonEQUItyJoin
 - NonEquityJoin
+- NonEQUItyJoin
 - Theta
 - Theta = (≠)
 - Theta = NonEqual
