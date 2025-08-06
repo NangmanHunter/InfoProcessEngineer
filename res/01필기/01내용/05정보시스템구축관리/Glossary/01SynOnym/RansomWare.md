@@ -1,11 +1,11 @@
 ﻿- Ransom
-- Ransom Ware
 - Ransom ware
-- Ransomware
-- RanSomWare
+- Ransom Ware
 - RansomWare
-- Ransom-ware
+- RanSomWare
+- Ransomware
 - Ransom-Ware
+- Ransom-ware
 - RSW
 - RW
 - 랜섬

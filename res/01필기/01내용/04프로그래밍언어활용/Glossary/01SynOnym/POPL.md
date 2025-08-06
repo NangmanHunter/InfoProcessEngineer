@@ -19,8 +19,8 @@
 - Procedural Oriented Programming Language
 - Procedural Oriented ProgrammingLanguage
 - Procedural OrientedLanguage
-- procedural programming language
 - Procedural Programming Language
+- procedural programming language
 - ProceduralOriented Language
 - Procedural-Oriented Language
 - ProceduralOriented ProgrammingLanguage

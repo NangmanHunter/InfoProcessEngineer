@@ -5,20 +5,20 @@
 - example.com:8080/00
 - https://example.com:8080/00
 - https://example.com:8080/api
-- https://example.com:8080/path
 - https://example.com:8080/Path
-- https://example.com:8080/📌path
+- https://example.com:8080/path
 - https://example.com:8080/📌Path
+- https://example.com:8080/📌path
 - https://example.com:8080Path
 - https://example.com:8080📌/path
 - https://example.com:8080📌Path
 - P
-- path
 - Path
-- Path To Resource
-- path to resource
+- path
 - Path to Resource
 - Path to resource
+- Path To Resource
+- path to resource
 - PathToResource
 - PathURL
 - PTR
