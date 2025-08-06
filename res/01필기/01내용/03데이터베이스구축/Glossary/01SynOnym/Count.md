@@ -1,5 +1,5 @@
-﻿- COUNT
-- Count
+﻿- Count
+- COUNT
 - COUNT()
 - COUNT(*)
 - COUNT(속성)

@@ -1,8 +1,8 @@
-﻿- cat
-- Cat
-- concatenate
-- conCATenate
+﻿- Cat
+- cat
 - conCatenate
+- conCATenate
+- concatenate
 - display
 - 내용을 출력(display)
 - 내용을출력(display)

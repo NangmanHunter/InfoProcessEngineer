@@ -1,6 +1,6 @@
 ﻿- Session Hijacking
-- SessionHiJacking
 - SessionHijacking
+- SessionHiJacking
 - SHJ
 - TCP의 3-way 핸드셰이크가 완료된 후에 공격자가 시퀀스 번호 등을 조작하여 정상적인 세션을 가로채고 인증 없이 통신을 탈취하는 공격
 - 세션 가로채기
