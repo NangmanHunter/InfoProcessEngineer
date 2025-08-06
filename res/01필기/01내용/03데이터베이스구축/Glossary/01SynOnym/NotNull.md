@@ -1,10 +1,10 @@
 ﻿- ❌NULL
 - ❌NullAble
-- NOT NULL
 - Not Null
-- NotNull
-- NOTNULL
+- NOT NULL
 - NotNULL
+- NOTNULL
+- NotNull
 - NotNULL▶️✅유일성
 - NULL 허용 여부❌
 - NULL 허용 여부❌(NOT NULL)

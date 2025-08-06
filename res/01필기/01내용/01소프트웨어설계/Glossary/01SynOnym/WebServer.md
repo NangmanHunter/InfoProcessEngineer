@@ -1,12 +1,12 @@
-﻿- front
-- Front
-- Frontend
+﻿- Front
+- front
 - frontend
+- Frontend
 - Frontend Server
-- FrontEndServer
 - FrontendServer
-- frontServer
+- FrontEndServer
 - FrontServer
+- frontServer
 - HTTP Server
 - Server
 - Static Web
@@ -15,15 +15,15 @@
 - StaticWeb
 - StaticWebServer
 - WBS
-- Web
 - WEB
+- Web
 - Web Page
 - Web Server
 - WebPage
 - WebProgram
 - WEBS
-- WebServer
 - WEBServer
+- WebServer
 - WebServer Software
 - WebServerProgram
 - WebServerProgram

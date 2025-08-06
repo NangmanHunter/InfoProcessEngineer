@@ -14,8 +14,8 @@
 - CCㆍDC
 - CDC
 - Condition/Decision
-- Condition/decision coverage
 - Condition/Decision Coverage
+- Condition/decision coverage
 - Condition/DecisionCoverage
 - ConditionCoverageㆍDecisionCoverage
 - ConditionDecisionCoverage

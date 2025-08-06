@@ -1,2 +1,2 @@
-﻿- Algol
-- ALGOL
+﻿- ALGOL
+- Algol
