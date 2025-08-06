@@ -1,16 +1,16 @@
 ﻿- Attribute
-- c
 - C
+- c
 - CK(PKㆍAK)ㆍSKㆍFK
 - CKㆍSKㆍFK
-- col
 - Col
+- col
 - Column
 - Field Key
 - FieldKey
 - j
-- K
 - k
+- K
 - K▶️C(PㆍA)ㆍSㆍF
 - K▶️CK(PKㆍAK)ㆍSKㆍFK
 - K▶️CKㆍPKㆍAKㆍSKㆍFK
@@ -18,8 +18,8 @@
 - K▶️CㆍSㆍF
 - K▶️PCKㆍACKㆍSKㆍFK
 - K▶️PKㆍAKㆍSKㆍFK
-- Key
 - key
+- Key
 - Key Attribute
 - Key 속성
 - KeyAttribute

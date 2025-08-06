@@ -2,8 +2,8 @@
 - Bottom Up IntegrationTest
 - BottomUp Integration Test
 - BottomUp IntegrationTest
-- BottomUpIntegrationTest
 - bottomUpIntegrationTest
+- BottomUpIntegrationTest
 - BottomUpIntegrationTesting
 - BUIT
 - UIT

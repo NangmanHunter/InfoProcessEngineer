@@ -6,9 +6,9 @@
 - SLCM
 - Software Development Life Cycle Model
 - Software Life Cycle Model
-- WaterfallModelㆍPrototypeModelㆍSprialModelㆍAgileModel
-- WaterFallModelㆍProtoTypeModelㆍSPrialModelㆍAGileModel
 - WaterFallModelㆍPRototypeModelㆍSPrialModelㆍAGileModel
+- WaterFallModelㆍProtoTypeModelㆍSPrialModelㆍAGileModel
+- WaterfallModelㆍPrototypeModelㆍSprialModelㆍAgileModel
 - WFMㆍPRMㆍSPMㆍAGM
 - WFMㆍPTMㆍSPMㆍAGM
 - WFㆍPRㆍSPㆍAG M
@@ -16,8 +16,8 @@
 - WFㆍPTㆍSPㆍAG M
 - WFㆍPTㆍSPㆍAGM
 - WMㆍPMㆍSMㆍAM
-- WPSA
 - wpsa
+- WPSA
 - W-P-S-A
 - WPSAM
 - WㆍPㆍSㆍA M

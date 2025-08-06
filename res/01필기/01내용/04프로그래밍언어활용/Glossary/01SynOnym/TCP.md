@@ -3,8 +3,8 @@
 - Connection Oriented Service
 - connection-oriented service
 - ConnectionOrientedService
-- Connection-Oriented-Service
 - connection-oriented-service
+- Connection-Oriented-Service
 - COS
 - CS
 - Stream

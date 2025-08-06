@@ -4,9 +4,9 @@
 - empt▶️취하다
 - empty는 Old English ‘ǣmettig’에서 유래▶️empt와 어원이 전혀 다름 (비슷하게 보여도 다른 뿌리)
 - pre- -empt -ive
+- Preemptive
+- Preemptive
 - preemptive
-- Preemptive
-- Preemptive
 - Preemptive스케줄링
 - 📌FCFSㆍSJFㆍHRN▶️SRT
 - 📌FCFSㆍSJFㆍHRN▶️SRTF

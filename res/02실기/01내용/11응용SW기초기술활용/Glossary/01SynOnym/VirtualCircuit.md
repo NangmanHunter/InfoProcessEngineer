@@ -15,18 +15,18 @@
 - 🔎전송계층▶️STㆍDG
 - 🚩TCP(ST)/IP(DG)
 - 🚩TCP(Stream)/IP
-- 🚩TCP(Stream)/IP(Datagram)
-- 🚩TCP(STream)/IP(DataGram)
 - 🚩TCP(STream)/IP(Datagram)
+- 🚩TCP(STream)/IP(DataGram)
+- 🚩TCP(Stream)/IP(Datagram)
 - 🚩TCP(VC느낌)/IP
 - 🚩TCP/IP (VC 느낌)
 - 🚩TCP/IP(VC 느낌)
 - 🚩TCP/IP(VC느낌)
-- 🚩TL(ST)/NL(DataGram)
 - 🚩TL(ST)/NL(Datagram)
+- 🚩TL(ST)/NL(DataGram)
 - 🚩TL(ST)/NL(DG)
-- 🚩전송계층(ST)/네트워크계층(DataGram)
 - 🚩전송계층(ST)/네트워크계층(Datagram)
+- 🚩전송계층(ST)/네트워크계층(DataGram)
 - 🚩전송계층(ST)/네트워크계층(DG)
 - 가상 회선 
 - 가상 회선 방식
