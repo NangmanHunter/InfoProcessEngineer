@@ -1,8 +1,8 @@
 ﻿- Policy Management
 - Policy_Management
-- PolicyManagement
-- policyManagement
 - policymanagement
+- policyManagement
+- PolicyManagement
 - policy-management
 - 정책 관리
 - 정책 관리 기술

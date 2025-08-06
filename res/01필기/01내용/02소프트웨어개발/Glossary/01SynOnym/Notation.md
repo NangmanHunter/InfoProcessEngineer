@@ -1,11 +1,11 @@
-﻿- expression
-- Expression
-- expression notation
+﻿- Expression
+- expression
 - Expression notation
+- expression notation
 - Mathematical expression
 - mathematical expression 
-- Notation
 - notation
+- Notation
 - 기
 - 기법
 - 법

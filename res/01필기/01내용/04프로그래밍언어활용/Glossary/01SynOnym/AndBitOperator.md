@@ -15,44 +15,44 @@
 - and
 - And
 - and
-- and Operator
 - And Operator
-- and 연산자
+- and Operator
 - And 연산자
+- and 연산자
 - AndBitOperator
-- AndOperator
 - andOperator
-- And연산자
+- AndOperator
 - and연산자
+- And연산자
 - And연산자▶️비트And연산자
 - BAO
 - Binary AND
 - Binary AND Operator
-- BinaryAnd
 - BinaryAND
+- BinaryAnd
 - BinaryAND Operator
-- BinaryANDOperator
 - BinaryAndOperator
+- BinaryANDOperator
 - BinaryAND연산
 - BinaryAND연산자
-- Bit AND
 - Bit And
-- Bit AND Operator
+- Bit AND
 - Bit And Operator
+- Bit AND Operator
 - Bit And 연산
 - Bit And 연산자
-- Bit ANDOperator
 - Bit AndOperator
+- Bit ANDOperator
 - Bit And연산
 - Bit And연산자
-- BitAND
 - BitAnd
-- BitAND Operator
+- BitAND
 - BitAnd Operator
+- BitAND Operator
 - BitAnd 연산
 - BitAnd 연산자
-- BitAndOperator
 - BitANDOperator
+- BitAndOperator
 - BitAnd연산
 - BitAnd연산자
 - bitwise AND operator
@@ -63,8 +63,8 @@
 - 비트 단위 AND 연산자
 - 비트AND
 - 비트AND 연산자
-- 비트AND연산
 - 비트And연산
-- 비트And연산자
+- 비트AND연산
 - 비트AND연산자
+- 비트And연산자
 - 비트연산자▶️And비트연산자

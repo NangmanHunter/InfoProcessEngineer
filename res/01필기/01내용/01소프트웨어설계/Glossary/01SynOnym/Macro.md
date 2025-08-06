@@ -1,10 +1,10 @@
-﻿- MA
-- Ma
-- Mac
-- MaC
+﻿- Ma
+- MA
 - MAC
-- Macro
+- MaC
+- Mac
 - MaCro
+- Macro
 - 거
 - 거시
 - 거시적
