@@ -1,17 +1,17 @@
 ﻿- Post
-- PostFix 
 - Postfix 
-- Postfix Notation
+- PostFix 
 - Postfix notation
-- Postfix 표기
+- Postfix Notation
 - PostFix 표기
-- PostFix 표기법
+- Postfix 표기
 - Postfix 표기법
+- PostFix 표기법
 - PostfixNotation
-- PostFix표기
 - Postfix표기
-- Postfix표기법
+- PostFix표기
 - PostFix표기법
+- Postfix표기법
 - 포스트픽스 표기법
 - 후
 - 후위

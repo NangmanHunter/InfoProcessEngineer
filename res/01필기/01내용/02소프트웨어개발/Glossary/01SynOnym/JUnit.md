@@ -1,6 +1,6 @@
 ﻿- Java 언어용 xUnit 테스트 프레임워크의 구체적인 구현체 이름
-- jUnit
 - JUnit
+- jUnit
 - Kent Beck과 Erich Gamma등이 개발한 자바 프로그래밍 언어용 유닛 테스트 프레임워크
 - xUnit▶️JUnit
 - xUnit계열의 한종류

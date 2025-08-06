@@ -1,9 +1,9 @@
 ﻿- Thing
 - Thing▶️Class
-- Thing▶️InterFaceㆍClass
 - Thing▶️InterfaceㆍClass
+- Thing▶️InterFaceㆍClass
 - Things
 - 사물
 - 사물(Things)
-- 사물▶️InterfaceㆍClass
 - 사물▶️InterFaceㆍClass
+- 사물▶️InterfaceㆍClass
