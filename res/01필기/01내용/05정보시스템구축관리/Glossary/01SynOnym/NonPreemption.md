@@ -1,7 +1,7 @@
 ﻿- Non 선점
 - NonPreemption
-- Non-preemption
 - Non-Preemption
+- Non-preemption
 - Non-Preemptive
 - Non선점
 - 계속
@@ -10,8 +10,8 @@
 - 단순성
 - 단순함 (문맥 교환 적음)
 - 비선점
-- 비선점(Non-preemption)
 - 비선점(Non-Preemption)
+- 비선점(Non-preemption)
 - 비선점(Non-Preemptive)
 - 비선점형: 한 번 시작된 작업은 끝날 때까지 계속함
 - 설계 단순

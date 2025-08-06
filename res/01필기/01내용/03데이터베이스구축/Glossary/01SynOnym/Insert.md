@@ -9,8 +9,8 @@
 - IIV
 - IIV문
 - II문
-- INSERT
 - Insert
+- INSERT
 - INSERT INTO
 - INSERT INTO ~ VALUES ~
 - INSERT INTO VALUES
@@ -24,8 +24,8 @@
 - Insert▶️InsertInto▶️InsertIntoValues
 - InsertInto
 - InsertIntoValues
-- INSERT문
 - Insert문
+- INSERT문
 - I문
 - I문▶️IIV문
 - I문▶️II문

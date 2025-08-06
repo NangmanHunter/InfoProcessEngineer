@@ -1,12 +1,12 @@
-﻿- DISTINCT
-- Distinct
-- id
+﻿- Distinct
+- DISTINCT
 - ID
-- identifier
+- id
 - Identifier
-- Unique
-- unique
+- identifier
 - UNIQUE
+- unique
+- Unique
 - unique identifier
 - Uniqueness
 - 📌유일성▶️✅최소유일성

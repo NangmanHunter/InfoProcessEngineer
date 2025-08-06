@@ -1,8 +1,8 @@
 ﻿- Chage Mode
-- CHageMODe
 - ChageMode
-- CHMOD
+- CHageMODe
 - chmod
+- CHMOD
 - 📌01 chmod▶️사용자ㆍ그룹ㆍ기타사용자
 - 📌02 chmod▶️사용자ㆍ그룹ㆍ기타
 - 📌03 chmod▶️사용자(읽기쓰기실행)ㆍ그룹(읽기쓰기실행)ㆍ기타(읽기쓰기실행)
