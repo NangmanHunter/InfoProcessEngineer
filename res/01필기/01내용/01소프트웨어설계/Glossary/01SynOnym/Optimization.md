@@ -1,11 +1,11 @@
-﻿- optimal
-- Optimal
-- optimization
+﻿- Optimal
+- optimal
 - Optimization
-- Optimize
+- optimization
 - optimize
-- Optimizing
+- Optimize
 - optimizing
+- Optimizing
 - 최적
 - 최적시키다
 - 최적의

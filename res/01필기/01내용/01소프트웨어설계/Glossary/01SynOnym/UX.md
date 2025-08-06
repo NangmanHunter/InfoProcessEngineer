@@ -1,8 +1,8 @@
 ﻿- UI👉UX
 - User eXperience
-- UsereXperience
-- UserEXperience
 - UserExperience
+- UserEXperience
+- UsereXperience
 - UX
 - UX(사용자 경험)
 - UX▶️UI

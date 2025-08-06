@@ -2,8 +2,8 @@
 - ✅속성 AS 00
 - ❌* 00
 - ❌* AS 00
-- AliaS
 - Alias
+- AliaS
 - AS
 - AS ''
 - AS 00

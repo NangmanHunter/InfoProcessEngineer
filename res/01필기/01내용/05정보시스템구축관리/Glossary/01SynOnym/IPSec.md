@@ -1,8 +1,8 @@
 ﻿- IP Security
 - IP 네트워크에서 안전한 통신을 제공하는 프로토콜 모음입니다. 
 - IP(Internet Protocol) 계층에서 IP패킷단위의 데이터변조방지 및 은닉기능을 제공하는 네트워크계층
-- IPSec
 - IPsec
+- IPSec
 - IPsec (인터넷 프로토콜 보안)
 - IPSecurity
 - IPsec은 데이터 암호화, 무결성 검증, 발신자 인증 등을 통해 보안 연결을 설정하고 유지합니다. 
