@@ -1,11 +1,11 @@
 ﻿- ✅FULL JOIN
 - FJ
 - FOJ
-- FULL JOIN
 - Full Join
+- FULL JOIN
 - FULL JOIN ON
-- Full Outer Join
 - FULL OUTER JOIN
+- Full Outer Join
 - Full OuterJoin
 - FullJoin
 - FullOuter Join

@@ -1,17 +1,17 @@
-﻿- Object oriented
-- Object Oriented
-- Object_oriented
+﻿- Object Oriented
+- Object oriented
 - Object_Oriented
-- ObjectOriented
+- Object_oriented
 - Objectoriented
+- ObjectOriented
+- Object-Oriented
+- Object-Oriented
 - Object-oriented
-- Object-Oriented
-- Object-Oriented
 - OO
 - OOL
-- OOP
-- oop
 - Oop
+- oop
+- OOP
 - OOP▶️추상쪽
 - OOP▶️추상쪽>>구상쪽
 - OOP적

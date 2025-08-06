@@ -1,7 +1,7 @@
 ﻿- Hypertext + Preprocessor
 - Hypertext Preprocessor
-- Php
 - PHP
+- Php
 - PHP(Professional Hypertext Preprocessor)
 - Professional Hypertext Preprocessor
 - 웹 페이지에서 링크를 포함하는 문서 형식 + 실행 전에 미리 처리(변환)하는 도구

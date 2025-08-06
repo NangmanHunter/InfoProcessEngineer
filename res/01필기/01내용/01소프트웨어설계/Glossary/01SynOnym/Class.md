@@ -3,8 +3,8 @@
 - Attribute+Operation
 - AttributeㆍOperation
 - AㆍO
-- class
 - Class
+- class
 - Class= Attribute + Operation
 - Class=AO
 - Class▶️AO

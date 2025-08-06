@@ -6,8 +6,8 @@
 - $2^{15}+2^{14}$≤ <$2^{16}$
 - $2^{15}+2^{14}$≤ ≤$2^{16}-1$
 - $2^{16}$
-- $N<2^{16}$
 - $n<2^{16}$
+- $N<2^{16}$
 - (49152~65535)
 - (49152-65535)
 - (49152-65535)
@@ -48,8 +48,8 @@
 - Dynamic-Private-Ephemeral Port (49152~65535)
 - DynamicPrivateEphemeralPort
 - DynamicPrivatePort
-- n< $2^{16}$
 - N< $2^{16}$
+- n< $2^{16}$
 - not assigned
 - not assigned Port
 - Random Port

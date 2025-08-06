@@ -2,8 +2,8 @@
 - <키 값, 포인터>
 - Idx
 - Ind
-- Index
 - InDex
+- Index
 - 색인
 - 색인(Index)
 - 인덱스

@@ -1,6 +1,6 @@
 ﻿- Cipher
-- Ciphertext
 - CipherText
+- Ciphertext
 - Encrypted PlainText
 - Encrypted Text
 - EncryptedPlainText

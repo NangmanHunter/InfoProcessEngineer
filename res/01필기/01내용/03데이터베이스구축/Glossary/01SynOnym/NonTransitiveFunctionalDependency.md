@@ -2,9 +2,9 @@
 - NFD▶️❌명시적용어
 - Non-transitive dependency
 - NonTransitive Functional Dependency
-- Non-Transitive Functional Dependency
-- Non-transitive Functional Dependency
 - Non-transitive functional dependency
+- Non-transitive Functional Dependency
+- Non-Transitive Functional Dependency
 - NonTransitive FunctionalDependency
 - NonTransitiveFunctional Dependency
 - NonTransitiveFunctionalDependency

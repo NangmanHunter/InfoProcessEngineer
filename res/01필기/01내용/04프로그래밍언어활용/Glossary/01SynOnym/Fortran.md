@@ -1,2 +1,2 @@
-﻿- Fortran
-- FORTRAN
+﻿- FORTRAN
+- Fortran
