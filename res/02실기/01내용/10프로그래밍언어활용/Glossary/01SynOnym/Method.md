@@ -1,5 +1,5 @@
-﻿- method
-- Method
+﻿- Method
+- method
 - method()
 - 📌Method>>메서드
 - 📌Method>>메서드>>메소드

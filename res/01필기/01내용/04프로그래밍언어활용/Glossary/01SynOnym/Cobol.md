@@ -1,2 +1,2 @@
-﻿- COBOL
-- Cobol
+﻿- Cobol
+- COBOL

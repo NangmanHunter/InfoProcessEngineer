@@ -1,11 +1,11 @@
 ﻿- P
-- Prototype
 - ProtoType
+- Prototype
 - Prototype Design Pattern
 - Prototype DesignPattern
-- Prototype Pattern
-- Prototype Pattern
 - ProtoType Pattern
+- Prototype Pattern
+- Prototype Pattern
 - Prototype 디자인 패턴
 - Prototype 패턴
 - ProtoTypePattern

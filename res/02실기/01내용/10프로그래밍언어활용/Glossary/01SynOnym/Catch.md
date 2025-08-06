@@ -1,10 +1,10 @@
-﻿- Catch
-- catch
+﻿- catch
+- Catch
 - catch▶️하나만실행
 - TCF구문
 - try-catch
 - TryCatchFinally
-- try-catch-finally
 - Try-Catch-Finally
+- try-catch-finally
 - TryCatchFinally구문
 - try-catch-finally구문

@@ -1,13 +1,13 @@
-﻿- Data Store
-- data store
-- DataStore
-- datastore
+﻿- data store
+- Data Store
 - dataStore
+- datastore
+- DataStore
 - data-store
 - DS
 - S
-- store
 - Store
+- store
 - 자료 저장소
 - 자료 저장소(Data Store)
 - 자료저장

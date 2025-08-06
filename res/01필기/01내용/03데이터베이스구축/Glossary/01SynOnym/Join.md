@@ -1,4 +1,4 @@
-﻿- join
+﻿- Join
 - JOIN
-- Join
+- join
 - 조인

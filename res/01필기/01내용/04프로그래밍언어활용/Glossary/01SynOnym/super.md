@@ -1,8 +1,8 @@
 ﻿- JavaSuper
-- java-super
 - Java-super
-- super
+- java-super
 - Super
+- super
 - super▶️class child extends ✅parent {}
 - super▶️class child extends ✅parent{}
 - super▶️class childClass extends ✅parentClass{}
