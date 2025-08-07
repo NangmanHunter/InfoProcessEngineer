@@ -1,10 +1,10 @@
 ﻿- C
 - CDT
 - Condition
-- Condition Testing
 - ConDition Testing
-- ConditionTesting
+- Condition Testing
 - ConDitionTesting
+- ConditionTesting
 - CT
 - CTesting
 - 조건

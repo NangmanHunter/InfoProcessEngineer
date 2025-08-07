@@ -1,26 +1,26 @@
 ﻿- A▶️B
 - U
 - U▶️US
-- Update
 - UPDATE
+- Update
 - UPDATE ~ SET ~
-- UPDATE SET
 - Update Set
+- UPDATE SET
 - UPDATE SET문
 - UPDATE~ SET~
 - Update▶️UpdateSet
 - UpdateSet
 - UPDATE-SET
+- UpdateSet문
+- UpdateSet문
 - UPDATESET문
-- UpdateSet문
-- UpdateSet문
 - UPDATE-SET문
-- Update문
 - UPDATE문
-- UPDATEㆍSET
+- Update문
 - UpdateㆍSet
-- UPDATEㆍSET문
+- UPDATEㆍSET
 - UpdateㆍSet문
+- UPDATEㆍSET문
 - US
 - US문
 - U문

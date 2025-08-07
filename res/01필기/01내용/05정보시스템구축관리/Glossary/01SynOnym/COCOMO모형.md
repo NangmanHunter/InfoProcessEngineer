@@ -6,9 +6,9 @@
 - COCOMO-Model
 - COCOMO모델
 - COCOMO모형
-- Constructive Cost Model
-- COnstructive COst MOdel
 - constructive cost model
+- COnstructive COst MOdel
+- Constructive Cost Model
 - Constructive CostModel
 - ConstructiveCost Model
 - ConstructiveCostModel

@@ -12,9 +12,9 @@
 - Link Layer
 - LinkLayer
 - LinkLayer
-- Link-layer
-- link-layer
 - Link-Layer
+- link-layer
+- Link-layer
 - LL
 - LLayer
 - NetworkAccess

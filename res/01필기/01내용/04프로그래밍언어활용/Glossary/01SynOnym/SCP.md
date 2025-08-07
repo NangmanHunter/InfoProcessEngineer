@@ -5,9 +5,9 @@
 - Script▶️SC>>SP
 - Script▶️SC>>SP>>SR
 - Script▶️SC>>SR
-- Script▶️SCri-pt>>Sc-Ript
-- Script▶️Scri-Pt>>Sc-Ript
 - Script▶️Scri-pt>>Sc-ript
+- Script▶️Scri-Pt>>Sc-Ript
+- Script▶️SCri-pt>>Sc-Ript
 - Script▶️SP>>SR
 - Script▶️자음모음-자음👉1자음모음-2자음👉1자음3자음모음-2자음👉1자음3자음👉1자음3자음>>1자음3자음
 - Script▶️자음모음-자음모음👉1자음모음-2자음모음👉1자음2자음
