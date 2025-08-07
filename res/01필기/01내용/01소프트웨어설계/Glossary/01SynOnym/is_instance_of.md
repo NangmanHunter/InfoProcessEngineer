@@ -6,20 +6,20 @@
 - IIO
 - IIO관계
 - II관계
-- instance
 - Instance
-- instance of
-- Instance Of
+- instance
 - Instance of
+- Instance Of
+- instance of
 - Instance-Class관계
 - instanceof
 - Instance관계
 - is instance of
 - is_instance_of
-- isinstanceof
-- isInstanceof
 - IsInstanceOf
 - isInstanceOf
+- isinstanceof
+- isInstanceof
 - is-instance-of
 - Object-Class 관계
 - Object-Class관계

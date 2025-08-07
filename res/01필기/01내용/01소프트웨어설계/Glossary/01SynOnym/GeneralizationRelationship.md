@@ -25,11 +25,15 @@
 - GR
 - GR
 - G관계
+- hierarchy
+- Hierarchy
+- Hierarchy관계
+- hierarchy관계
 - I
 - IN
 - Inheritance
-- Inheritance
 - INheritance
+- Inheritance
 - Inheritance(↘)
 - Inheritance▶️───▷
 - Inheritance▶️✅Class-Class
@@ -41,8 +45,8 @@
 - is-a
 - I관계
 - R▶️GR
-- RelationShip▶️GeneralizationRelationShip
 - Relationship▶️GeneralizationRelationship
+- RelationShip▶️GeneralizationRelationShip
 - 📌UML▶️✅일반화
 - 📌UML▶️일반화
 - 📌UML의미▶️BottomUp방식
@@ -97,6 +101,7 @@
 - 결국-최초기준-고정유무-고정-상속관계
 - 결국-최초기준-고정유무-고정-하위관계
 - 계관계
+- 계층
 - 계층관계
 - 계층적관계
 - 공식관계(↖)
@@ -117,6 +122,10 @@
 - 부모관계
 - 부모자식관계
 - 부모-자식관계
+- 분류계층
+- 분류계층관계
+- 분류계층적관계
+- 분류관계
 - 상속
 - 상속(Inheritance) 관계
 - 상속관계

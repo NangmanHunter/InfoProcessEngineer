@@ -18,6 +18,12 @@
 - CR
 - Ex. 사람 - 심장 (사람 없으면 심장도 의미 없음)
 - Ex. 사람 객체가 소멸되면 심장도 같이 소멸
+- FolderHierarchy
+- Folder-hierarchy
+- folder-hierarchy
+- FolderHierarchy관계
+- Folderhierarchy관계
+- Folder관계
 - 📌일반의미▶️Aggregation<<Composition
 - 📌일반의미▶️Aggregation관계<<Composition관계
 - 📌일반의미▶️Composition>>Aggregation
@@ -118,6 +124,13 @@
 - 포함하는관계(↘)
 - 포함ㆍ구성관계
 - 포함ㆍ피포함관계
+- 폴더계층
+- 폴더계층관계
+- 폴더계층적관계
+- 폴더파일계층
+- 폴더-파일계층
+- 폴더폴더계층
+- 폴더-폴더계층
 - 피구성ㆍ구성관계
 - 피포함
 - 피포함관계

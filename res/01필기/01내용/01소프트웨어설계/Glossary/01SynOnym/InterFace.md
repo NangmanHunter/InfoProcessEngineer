@@ -1,5 +1,5 @@
-﻿- Interface
-- InterFace
+﻿- InterFace
+- Interface
 - Inter-face
 - InterFace(Java)▶️✅Cosntantㆍ❌Fieldㆍ✅Method
 - InterFace(Java)▶️✅Method
