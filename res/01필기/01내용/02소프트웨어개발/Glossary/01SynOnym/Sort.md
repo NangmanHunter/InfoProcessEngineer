@@ -1,5 +1,5 @@
-﻿- Sort
-- sort
+﻿- sort
+- Sort
 - Sorting
 - 정렬
 - 정렬(Sort)

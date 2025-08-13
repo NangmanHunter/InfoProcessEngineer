@@ -1,12 +1,12 @@
 ﻿- InFix
-- Infix 표기
 - InFix 표기
-- InFix 표기법
+- Infix 표기
 - Infix 표기법
-- Infix표기
+- InFix 표기법
 - InFix표기
-- InFix표기법
+- Infix표기
 - Infix표기법
+- InFix표기법
 - 중
 - 중위
 - 중위 연산식

@@ -13,8 +13,8 @@
 - |R|
 - Cardinality
 - i
-- row
 - Row
+- row
 - the number of its elements
 - 가로개수
 - 개

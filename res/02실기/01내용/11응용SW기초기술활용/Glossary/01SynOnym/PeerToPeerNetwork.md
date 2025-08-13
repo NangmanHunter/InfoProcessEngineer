@@ -5,15 +5,15 @@
 - P2P
 - P2PNetwork
 - PeerToPeer Network
-- Peer-To-Peer Network
 - Peer-to-Peer Network
+- Peer-To-Peer Network
 - Peer-to-Peer Network (P2P, 피어 투 피어)
 - PeerToPeerNetwork
 - Peer-to-PeerNetwork
-- PTP
 - PtP
-- PTPNetwork
+- PTP
 - PtPNetwork
+- PTPNetwork
 - 노드 간 직접 통신
 - 모든 노드가 동등한 역할
 - 서버 없음, 분산 구조

@@ -2,11 +2,15 @@
 - 01레벨
 - 1 Level
 - 1Level
-- Level
 - Level 01
 - Level 1
 - Lv
+- LV
 - Lv.
+- 📌Level▶️0Level vs. 1Level
+- 📌Level▶️Level=Depth vs. Level≠Depth
+- 📌Level▶️경우마다-학자마다-정의마다👉다름
+- 📌Level▶️편의상👉Level=Depth >> Level≠Depth
 - 레벨
 - 레벨01
 - 레벨1
