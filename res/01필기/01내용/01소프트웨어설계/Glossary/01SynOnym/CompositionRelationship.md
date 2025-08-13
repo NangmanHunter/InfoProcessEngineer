@@ -19,10 +19,10 @@
 - Ex. 사람 - 심장 (사람 없으면 심장도 의미 없음)
 - Ex. 사람 객체가 소멸되면 심장도 같이 소멸
 - FolderHierarchy
-- folder-hierarchy
 - Folder-hierarchy
-- Folderhierarchy관계
+- folder-hierarchy
 - FolderHierarchy관계
+- Folderhierarchy관계
 - Folder관계
 - 📌일반의미▶️Aggregation<<Composition
 - 📌일반의미▶️Aggregation관계<<Composition관계

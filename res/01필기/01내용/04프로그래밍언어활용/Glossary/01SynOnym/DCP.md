@@ -1,6 +1,6 @@
 ﻿- DCP
-- Declarative
 - declarative
+- Declarative
 - Declare
 - Declare▶️DC
 - Declare▶️DC>>DE

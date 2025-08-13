@@ -1,12 +1,12 @@
 ﻿- Spaghetti Code
 - Spaghetti 코드
-- spaghetti_code
 - Spaghetti_Code
+- spaghetti_code
 - SpaghettiCode
-- spaghetti-Code
-- Spaghetti-Code
 - spaghetti-code
 - Spaghetti-code
+- spaghetti-Code
+- Spaghetti-Code
 - Spaghetti코드
 - 스파게티 코드
 - 스파게티코드

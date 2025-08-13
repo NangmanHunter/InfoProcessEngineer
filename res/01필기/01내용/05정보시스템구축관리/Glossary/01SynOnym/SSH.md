@@ -4,12 +4,12 @@
 - H▶2
 - H▶22
 - Kernel
-- Secure SHell
-- Secure SHell
 - Secure Shell
 - Secure Shell
-- Secure SHell Protocol
+- Secure SHell
+- Secure SHell
 - Secure Shell Protocol
+- Secure SHell Protocol
 - Shell
 - SSH
 - SSH (Secure Shell)

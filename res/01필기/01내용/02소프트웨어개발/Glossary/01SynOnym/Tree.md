@@ -1,4 +1,9 @@
 ﻿- [Wiki▶️Tree](https://en.wikipedia.org/wiki/Tree_%28abstract_data_type%29)
 - Tree
+- Tree▶️✅1RootTree
+- Tree▶️❌2Root
+- Tree▶️❌2RootTree
+- Tree▶️1Root
+- Tree▶️1RootTree
 - 트리
 - 트리(Tree)

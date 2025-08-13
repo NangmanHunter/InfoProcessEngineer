@@ -1,16 +1,16 @@
 ﻿- ✅어디서든참조
 - ❌동시참조
 - S
-- SingleTon
 - Singleton
+- SingleTon
 - Singleton Design Pattern
 - Singleton DesignPattern
-- SingleTon Pattern
 - Singleton Pattern
+- SingleTon Pattern
 - Singleton 디자인패턴
 - Singleton 패턴
-- SingleTonPattern
 - SingletonPattern
+- SingleTonPattern
 - Singleton디자인패턴
 - Singleton패턴
 - ST

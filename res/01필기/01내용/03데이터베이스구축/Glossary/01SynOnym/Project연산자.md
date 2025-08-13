@@ -6,10 +6,10 @@
 - pi
 - Project
 - Project▶️✅DISTINCT
-- Project▶️Distinct
 - Project▶️DISTINCT
-- Project▶️Select Distinct
+- Project▶️Distinct
 - Project▶️SELECT DISTINCT
+- Project▶️Select Distinct
 - Project▶️SelectDistinct
 - Project▶️비중복
 - Project▶️유일
