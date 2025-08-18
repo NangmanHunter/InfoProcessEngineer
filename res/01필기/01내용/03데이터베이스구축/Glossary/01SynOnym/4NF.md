@@ -1,8 +1,8 @@
 ﻿- 4NF
 - 4정규형
 - 4정규형
-- MultiValued
 - Multivalued
+- MultiValued
 - Multivalued Dependency
 - MultivaluedDependency
 - 다값

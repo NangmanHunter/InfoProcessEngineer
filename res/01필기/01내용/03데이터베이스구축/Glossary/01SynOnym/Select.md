@@ -1,9 +1,9 @@
 ﻿- S▶️SFㆍSFW
-- SELECT
 - Select
+- SELECT
 - SELECT ❌'속성' FROM ❌'테이블' WHERE ❌'속성'=✅'값'
-- Select From
 - SELECT FROM
+- Select From
 - SELECT FROM WHERE
 - SELECT 속성 FROM 테이블 WHERE 속성=✅'값'
 - SELECT 속성 FROM 테이블 WHERE 속성=값
@@ -17,8 +17,8 @@
 - SELECT-FROM-WHERE문
 - SelectFrom문
 - SELECT-FROM문
-- SELECT문
 - Select문
+- SELECT문
 - Select문▶️SelectFrom문
 - Select문▶️SelectFrom문ㆍSelectFromWhere문
 - SFW문

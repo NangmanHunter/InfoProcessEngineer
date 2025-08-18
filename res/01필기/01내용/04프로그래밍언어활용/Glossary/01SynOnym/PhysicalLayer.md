@@ -1,9 +1,9 @@
 ﻿- PHL
 - Physical
-- Physical Layer
 - PHysical Layer
-- PhysicalLayer
+- Physical Layer
 - PHysicalLayer
+- PhysicalLayer
 - PL
 - 기계적, 전기적, 기능적, 절차적 특성
 - 기계적ㆍ전기적ㆍ기능적ㆍ절차적 특성

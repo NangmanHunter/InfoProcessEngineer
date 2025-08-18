@@ -4,8 +4,8 @@
 - 1Level
 - Level 01
 - Level 1
-- Lv
 - LV
+- Lv
 - Lv.
 - 📌Level▶️0Level vs. 1Level
 - 📌Level▶️Level=Depth vs. Level≠Depth
@@ -14,3 +14,5 @@
 - 레벨
 - 레벨01
 - 레벨1
+- 위계
+- 준위

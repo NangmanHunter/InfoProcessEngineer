@@ -1,5 +1,5 @@
-﻿- DDOS
-- DDoS
+﻿- DDoS
+- DDOS
 - DDoS 공격
 - DDoS공격
 - Distributed Denial of Service

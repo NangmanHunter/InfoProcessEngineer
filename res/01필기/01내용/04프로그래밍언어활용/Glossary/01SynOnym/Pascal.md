@@ -1,2 +1,2 @@
-﻿- PASCAL
-- Pascal
+﻿- Pascal
+- PASCAL

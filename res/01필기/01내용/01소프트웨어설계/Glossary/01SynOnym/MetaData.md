@@ -1,10 +1,10 @@
 ﻿- Meta
 - Meta Data
-- MetaData
-- metadata
 - Metadata
-- Meta-Data
+- metadata
+- MetaData
 - meta-data
+- Meta-Data
 - 데이터를 설명하는 데이터
 - 데이터를 설명하는데이터
 - 데이터를설명하는 데이터
