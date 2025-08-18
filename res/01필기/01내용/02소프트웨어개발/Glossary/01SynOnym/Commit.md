@@ -1,3 +1,3 @@
-﻿- Commit
-- commit
+﻿- commit
+- Commit
 - 커밋

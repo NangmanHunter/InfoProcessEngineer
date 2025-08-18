@@ -1,0 +1,2 @@
+﻿- Root↔️Leaf
+- RootNode↔️LeafNode

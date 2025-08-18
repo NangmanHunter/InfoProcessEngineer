@@ -6,31 +6,31 @@
 - SCP언어종류
 - Script Language
 - script programming language
-- Script 언어
 - SCRipt 언어
-- Scripting Language
-- scripting language
+- Script 언어
 - Scripting language
-- ScriPting Programming Language
-- ScRipting Programming Language
+- scripting language
+- Scripting Language
 - Scripting Programming Language
-- Scri-pting Programming Language
+- ScRipting Programming Language
+- ScriPting Programming Language
 - Scri-Pting Programming Language
+- Scri-pting Programming Language
 - Sc-Ripting Programming Language
 - Scripting ProgrammingLanguage
 - ScriptingLanguage
 - ScriptingProgramming Language
-- SCriptingProgrammingLanguage
-- ScriptingProgrammingLanguage
 - ScRiptingProgrammingLanguage
 - SCRiptingProgrammingLanguage
-- ScRiptingProgramming언어
+- SCriptingProgrammingLanguage
+- ScriptingProgrammingLanguage
 - SCriptingProgramming언어
-- ScriptLanguage
-- SCriptLanguage
+- ScRiptingProgramming언어
 - SCRiptLanguage
-- Script언어
+- SCriptLanguage
+- ScriptLanguage
 - SCRipt언어
+- Script언어
 - Script언어 종류
 - SCRL
 - SCRL 종류

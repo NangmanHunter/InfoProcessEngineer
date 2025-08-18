@@ -1,8 +1,8 @@
 ﻿- 06결합도
 - 6결합도
 - C
-- CouPling
 - Coupling
+- CouPling
 - CP
 - DeCoupling
 - 결합도

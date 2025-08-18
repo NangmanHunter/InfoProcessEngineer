@@ -1,0 +1,11 @@
+﻿- Root Node
+- root node
+- RootNode
+- 루트 노드
+- 루트 노드(root node 뿌리 노드)
+- 루트노드
+- 뿌리 노드
+- 뿌리노드
+- 최상위 노드
+- 최상위 노드를 루트 노드(root node 뿌리 노드)
+- 최상위노드

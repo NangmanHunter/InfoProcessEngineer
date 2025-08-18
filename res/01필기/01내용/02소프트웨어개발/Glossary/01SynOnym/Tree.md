@@ -1,9 +1,14 @@
 ﻿- [Wiki▶️Tree](https://en.wikipedia.org/wiki/Tree_%28abstract_data_type%29)
+- [Wiki▶️트리구조](https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EA%B5%AC%EC%A1%B0)
 - Tree
 - Tree▶️✅1RootTree
 - Tree▶️❌2Root
 - Tree▶️❌2RootTree
 - Tree▶️1Root
 - Tree▶️1RootTree
+- TreeStructure
+- 나무구조
 - 트리
+- 트리 구조
 - 트리(Tree)
+- 트리구조

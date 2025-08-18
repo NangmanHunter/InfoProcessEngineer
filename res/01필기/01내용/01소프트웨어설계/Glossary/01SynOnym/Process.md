@@ -1,6 +1,6 @@
 ﻿- P
-- process
 - Process
+- process
 - 기능
 - 버블
 - 변환

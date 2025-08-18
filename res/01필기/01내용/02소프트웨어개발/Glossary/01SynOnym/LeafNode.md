@@ -1,0 +1,25 @@
+﻿- leaf node
+- Leaf Node
+- LeafNode
+- LN
+- LN개수
+- LN개수=실익개수
+- LN수
+- LN수=실익개수
+- LN수=실익수
+- terminal node
+- Terminal Node
+- TerminalNode
+- TN
+- 📌계층실익개수▶️LeafNode수
+- 📌위계실익개수▶️LeafNode수
+- 📌트리실익개수▶️LeafNode수
+- 리프 노드
+- 말단 노드
+- 말단 노드 (terminal node)
+- 말단노드
+- 잎 노드
+- 잎 노드(leaf node 리프 노드) 
+- 잎 노드(leaf node 리프 노드) 또는 말단 노드 (terminal node)
+- 잎노드
+- 자식 노드가 없는 노드

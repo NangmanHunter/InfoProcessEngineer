@@ -4,8 +4,8 @@
 - 1Level
 - Level 01
 - Level 1
-- LV
 - Lv
+- LV
 - Lv.
 - 📌Level▶️0Level vs. 1Level
 - 📌Level▶️Level=Depth vs. Level≠Depth

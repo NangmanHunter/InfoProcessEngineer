@@ -1,0 +1,14 @@
+﻿- IN
+- Internal Node
+- internal node
+- InternalNode
+- 내부 노드
+- 내부 노드(internal node)
+- 내부노드
+- 잎 노드가 아닌 노드
+- 잎 노드가 아닌 노드를 내부 노드(internal node)
+- 잎노드가 아닌 노드
+- 잎노드가아닌 노드
+- 잎노드아닌
+- 잎노드아닌 노드
+- 잎노드아닌노드

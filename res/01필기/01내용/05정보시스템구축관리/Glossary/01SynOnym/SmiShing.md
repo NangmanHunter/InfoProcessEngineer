@@ -1,24 +1,24 @@
 ﻿- Phishing▶️Smishing
 - Sm + ishing
-- Sm- + -ishing
 - SM- + -ishing
+- Sm- + -ishing
 - Sm+ishing
-- Smi + Shing
 - Smi + shing
+- Smi + Shing
 - Smi + -shing
-- SMIShing
-- SMiShing
-- Smishing
 - Smishing
 - SmiShing
+- Smishing
+- SMIShing
+- SMiShing
 - Smi-shing
 - SMS
 - SMS + Fishing
 - SMS + F-ishing
 - SMS- + F-ishing
 - SM-S + F-ishing
-- SMS- + -ishing
 - Sms- + -ishing
+- SMS- + -ishing
 - SMS + Phishing
 - SMShing
 - SShing

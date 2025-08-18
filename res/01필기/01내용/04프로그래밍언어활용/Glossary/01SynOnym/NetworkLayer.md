@@ -16,12 +16,12 @@
 - IPLayer
 - IP계층
 - N
-- Network
 - NetWork
+- Network
 - Network Layer
 - NetWork=네트워크=IP=Internet=인터넷
-- NetWorkLayer
 - NetworkLayer
+- NetWorkLayer
 - NetWork계층=네트워크계층=IP계층=Internet계층=인터넷계층
 - NL
 - NW
