@@ -1,7 +1,7 @@
-﻿- Alter
-- ALTER
-- Alter Table
+﻿- ALTER
+- Alter
 - ALTER TABLE
+- Alter Table
 - Alter Table Add
 - Alter Table Alter
 - Alter Table Drop
@@ -23,8 +23,8 @@
 - ALTER-TABLE-DROP문
 - AlterTable문
 - ALTER-TABLE문
-- ALTER문
 - Alter문
+- ALTER문
 - Alter문▶️AlterTable문
 - Alter문▶️AlterTable문▶️AlterTableAdd문ㆍAlterTableAlter문ㆍAlterTableDrop문
 - A문▶️AT문

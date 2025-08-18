@@ -1,2 +1,2 @@
-﻿- BASIC
-- Basic
+﻿- Basic
+- BASIC

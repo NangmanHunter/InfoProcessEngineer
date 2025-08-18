@@ -1,3 +1,3 @@
-﻿- NetWork▶️NetWorkAccess
-- Network▶️NetworkAccess
+﻿- Network▶️NetworkAccess
+- NetWork▶️NetWorkAccess
 - NetWorkLayer▶️NetWorkAccessLayer

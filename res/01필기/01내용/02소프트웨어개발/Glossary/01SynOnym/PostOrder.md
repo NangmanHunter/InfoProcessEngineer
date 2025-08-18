@@ -1,11 +1,11 @@
-﻿- PostOrder
-- Postorder
-- PostOrderTraversal
+﻿- Postorder
+- PostOrder
 - PostorderTraversal
-- Postorder순회
+- PostOrderTraversal
 - PostOrder순회
-- PostOrder운행
+- Postorder순회
 - Postorder운행
+- PostOrder운행
 - 후
 - 후위
 - 후위 순회

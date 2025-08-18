@@ -1,5 +1,5 @@
-﻿- Leaf Node
-- leaf node
+﻿- leaf node
+- Leaf Node
 - LeafNode
 - LN
 - LN개수
@@ -7,8 +7,8 @@
 - LN수
 - LN수=실익개수
 - LN수=실익수
-- Terminal Node
 - terminal node
+- Terminal Node
 - TerminalNode
 - TN
 - 📌계층실익개수▶️LeafNode수

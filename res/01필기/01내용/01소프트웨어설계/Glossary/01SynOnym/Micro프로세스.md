@@ -1,5 +1,5 @@
-﻿- Micro
-- micro
+﻿- micro
+- Micro
 - Micro Development Process
 - Micro DevelopmentProcess
 - Micro Process

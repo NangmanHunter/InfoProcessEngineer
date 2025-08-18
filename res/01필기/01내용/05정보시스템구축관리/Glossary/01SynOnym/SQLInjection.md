@@ -4,8 +4,8 @@
 - SQL 삽입(Injection) 공격
 - SQL 인젝션
 - SQL 주입
-- SqlInjection
 - SQLInjection
+- SqlInjection
 - SQLInjection 공격
 - SQLInjection공격
 - SQL삽입

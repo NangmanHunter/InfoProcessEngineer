@@ -1,8 +1,8 @@
 ﻿- Spear
-- Spear Phishing
 - Spear PhiShing
-- SpearPhishing
+- Spear Phishing
 - SpearPhiShing
+- SpearPhishing
 - 발송 메일의 본문 링크나 첨부된 파일을 클릭하도록 유도해 사용자의 개인 정보를 탈취
 - 사회공학기법으로
 - 스피어

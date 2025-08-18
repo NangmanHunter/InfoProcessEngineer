@@ -1,7 +1,7 @@
-﻿- StereoType
-- Stereotype
-- Stereo-Type
+﻿- Stereotype
+- StereoType
 - Stereo-type
+- Stereo-Type
 - UML 기본기능외 추가기능
 - UML기본기능외 추가기능
 - UML기본기능외추가기능
