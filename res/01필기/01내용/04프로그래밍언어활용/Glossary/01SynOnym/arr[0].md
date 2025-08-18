@@ -67,6 +67,6 @@
 - C언어ㆍString▶️char* p
 - C언어ㆍString▶️char* p = ""
 - C언어ㆍString▶️char* p=""
-- C언어ㆍString▶️Char배열
 - C언어ㆍString▶️char배열
+- C언어ㆍString▶️Char배열
 - C언어ㆍString▶️배열

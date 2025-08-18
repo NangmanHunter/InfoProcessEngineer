@@ -6,8 +6,8 @@
 - ⭕Null + PK
 - ⭕Null+PK
 - F Key
-- FK
 - fk
+- FK
 - FK▶️✅Null
 - FK▶️✅NullAble
 - FK▶️✅Nullㆍ❌최소성
@@ -19,13 +19,13 @@
 - Foreign Key
 - Foreign key
 - Foreign Key
-- ForeignKey
-- Foreignkey
-- foreignkey
 - foreignKey
 - ForeignKey
-- foreign-key
+- foreignkey
+- ForeignKey
+- Foreignkey
 - Foreign-key
+- foreign-key
 - Foreign키
 - Null + PK
 - Null + 기본키

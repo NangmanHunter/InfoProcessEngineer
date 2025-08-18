@@ -1,9 +1,9 @@
 ﻿  - PL
   - Presentation
-  - Presentation Layer
   - PResentation Layer
-  - PResentationLayer
+  - Presentation Layer
   - PresentationLayer
+  - PResentationLayer
   - PRL
   - 서로 다른 데이터 표현 형태를 갖는 시스템 간의 상호 접속을 위해 필요한 계층
   - 코드 변환, 데이터 암호화, 데이터 압축, 구문 검색 등의 기능을 수행

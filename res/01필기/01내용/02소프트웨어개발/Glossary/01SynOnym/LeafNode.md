@@ -1,6 +1,10 @@
-﻿- leaf node
-- Leaf Node
+﻿- Leaf Node
+- leaf node
 - LeafNode
+- LeafNode개수
+- Leaf개수
+- Leaf노드개수
+- Leaf수
 - LN
 - LN개수
 - LN개수=실익개수
@@ -15,6 +19,9 @@
 - 📌위계실익개수▶️LeafNode수
 - 📌트리실익개수▶️LeafNode수
 - 리프 노드
+- 리프개수
+- 리프노드개수
+- 리프수
 - 말단 노드
 - 말단 노드 (terminal node)
 - 말단노드

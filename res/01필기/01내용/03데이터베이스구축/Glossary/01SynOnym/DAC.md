@@ -9,8 +9,8 @@
 - dis- (떨어져) + cernere (가르다, 분리하다)
 - discernere (분리하다, 구별하다 → 판단하다)
 - discretio = 분리, 식별
-- Discretion
 - discretion
+- Discretion
 - discretion + ary
 - Discretionary
 - Discretionary Access Control

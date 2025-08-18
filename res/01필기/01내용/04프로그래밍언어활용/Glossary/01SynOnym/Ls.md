@@ -1,10 +1,10 @@
-﻿- List
+﻿- list
 - LiSt
-- list
+- List
 - li-st
-- ls
-- Ls
 - LS
+- Ls
+- ls
 - l-s
 - 파일목록
 - 파일목록확인

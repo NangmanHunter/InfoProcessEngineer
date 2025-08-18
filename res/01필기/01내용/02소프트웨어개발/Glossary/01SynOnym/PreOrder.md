@@ -1,5 +1,5 @@
-﻿- PreOrder
-- Preorder
+﻿- Preorder
+- PreOrder
 - PreOrder▶️A()C
 - PreOrder▶️A(BDE)C
 - PreOrder▶️ABC
@@ -8,8 +8,8 @@
 - PreOrder▶️Tree순회
 - PreOrder▶️트리순회
 - PreOrderTraversal
-- PreOrder순회
 - Preorder순회
+- PreOrder순회
 - Preorder운행
 - TreeTraversal
 - Tree순회

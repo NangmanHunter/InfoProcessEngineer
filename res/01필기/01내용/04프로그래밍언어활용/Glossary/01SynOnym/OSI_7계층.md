@@ -29,10 +29,10 @@
 - OSI 7계층 모델
 - OSI 7계층모델
 - OSI Layer
-- OSI Model
-- OSI model
 - OSI model
 - OSI Model
+- OSI Model
+- OSI model
 - OSI model by layer
 - OSI reference model
 - OSI 기본 참조 모델
@@ -55,8 +55,8 @@
 - OSIL
 - OSILayer
 - OSIM
-- OSImodel
 - OSIModel
+- OSImodel
 - OSIModel(7)
 - OSIModel(7Layer)
 - OSIModel(7계층)

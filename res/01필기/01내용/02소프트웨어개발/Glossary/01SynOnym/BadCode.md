@@ -1,10 +1,10 @@
 ﻿- Bad Code
 - Bad 코드
-- badcode
-- BadCode
 - badCode
-- bad-code
+- BadCode
+- badcode
 - Bad-Code
+- bad-code
 - Bad코드
 - 나쁜 코드(Bad Code)
 - 나쁜코드
