@@ -1,5 +1,5 @@
-﻿- child node
-- Child Node
+﻿- Child Node
+- child node
 - ChildNode
 - 자식 노드
 - 자식 노드(child node)

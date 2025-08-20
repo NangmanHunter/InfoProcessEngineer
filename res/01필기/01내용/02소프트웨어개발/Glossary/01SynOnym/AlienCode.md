@@ -1,9 +1,9 @@
 ﻿- Alien Code
 - Alien 코드
 - AlienCode
-- alien-code
-- alien-Code
 - Alien-Code
+- alien-Code
+- alien-code
 - Alien코드
 - 개발자없어
 - 아주 오래

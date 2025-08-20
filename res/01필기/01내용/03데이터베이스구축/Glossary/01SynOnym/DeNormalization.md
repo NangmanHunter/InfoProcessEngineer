@@ -1,6 +1,6 @@
 ﻿- De
-- Denormalization
 - DeNormalization
+- Denormalization
 - DN
 - 반정규화
 - 반정규화(Denormalization)

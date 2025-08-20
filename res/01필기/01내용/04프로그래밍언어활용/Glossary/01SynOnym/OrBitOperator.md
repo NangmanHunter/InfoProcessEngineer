@@ -2,11 +2,11 @@
 - |  =  & | ^
 - | = & | ^
 - A | B = (A & B) | (A ^ B)
-- Or
-- or
 - OR
+- or
+- Or
 - OrBitOperator
-- Or비트연산
 - OR비트연산
-- Or비트연산자
+- Or비트연산
 - OR비트연산자
+- Or비트연산자

@@ -1,5 +1,5 @@
-﻿- root node
-- Root Node
+﻿- Root Node
+- root node
 - RootNode
 - 루트 노드
 - 루트 노드(root node 뿌리 노드)

@@ -1,6 +1,6 @@
 ﻿- IN
-- internal node
 - Internal Node
+- internal node
 - InternalNode
 - 내부 노드
 - 내부 노드(internal node)

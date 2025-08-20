@@ -1,13 +1,13 @@
-﻿- plain
-- Plain
+﻿- Plain
+- plain
 - Plain Text
-- PlainText
-- plaintext
 - plainText
 - Plaintext
+- PlainText
+- plaintext
 - plain-text
-- Text
 - text
+- Text
 - 본
 - 본래
 - 본래정보
