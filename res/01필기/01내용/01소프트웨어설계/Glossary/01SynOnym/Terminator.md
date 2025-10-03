@@ -1,6 +1,6 @@
 ﻿- T
-- terminator
 - Terminator
+- terminator
 - 단말
 - 단말(Terminator)
 - 시스템과 교신하는 외부 개체

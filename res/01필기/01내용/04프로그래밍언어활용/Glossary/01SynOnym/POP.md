@@ -8,35 +8,35 @@
 - PCP
 - PL
 - PO
-- Pop
-- POP
 - pop
+- POP
+- Pop
 - POP▶️구상쪽
 - POP▶️추상쪽<<구상쪽
 - POPL
 - POP👉OOP
 - POP적
-- procedural
 - Procedural
+- procedural
 - Procedural Oriented
 - Procedural Oriented Programming
-- Pro-Cedural Oriented Programming
-- PRo-cedural Oriented Programming
 - Pro-cedural Oriented Programming
-- Procedural programming
-- procedural programming
+- PRo-cedural Oriented Programming
+- Pro-Cedural Oriented Programming
 - Procedural Programming
-- PRo-cedural Programming
+- procedural programming
+- Procedural programming
 - Pro-Cedural Programming
+- PRo-cedural Programming
 - ProceduralOriented
 - Procedural-Oriented
 - Procedure
 - Procedure▶️P
 - Procedure▶️PC
 - Procedure▶️PR
-- Procedure▶️Pro-Cedure
-- Procedure▶️Pro-cedure
 - Procedure▶️PRo-cedure
+- Procedure▶️Pro-cedure
+- Procedure▶️Pro-Cedure
 - PRP
 - 구상추상
 - 귀납

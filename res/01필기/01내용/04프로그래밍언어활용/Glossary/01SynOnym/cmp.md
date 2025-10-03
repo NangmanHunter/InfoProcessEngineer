@@ -4,11 +4,11 @@
 - ASCII값차이
 - ASCII차
 - ASCII차이
-- CMP
 - cmp
-- CoMPare
-- compare
+- CMP
 - Compare
+- compare
+- CoMPare
 - 그뒷부분비연산
 - 최초차이까지연산
 - 최초차이부분차이값반환

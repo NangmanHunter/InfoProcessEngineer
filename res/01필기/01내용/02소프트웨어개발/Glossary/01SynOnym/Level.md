@@ -11,8 +11,8 @@
 - Level 00
 - Level 01
 - Level 1
-- LV
 - Lv
+- LV
 - Lv.
 - 📌Level▶️0Level vs. 1Level
 - 📌Level▶️0Level vs. 1Level👉정의나름

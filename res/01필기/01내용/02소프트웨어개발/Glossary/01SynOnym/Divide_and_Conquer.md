@@ -1,12 +1,12 @@
 ﻿- Divide & Conquer
 - Divide &Conquer
 - Divide / Conquer
-- Divide and Conquer
-- Divide and Conquer
 - Divide and conquer
 - Divide And Conquer
-- Divide and conquer Algorithm
+- Divide and Conquer
+- Divide and Conquer
 - Divide and conquer algorithm
+- Divide and conquer Algorithm
 - Divide Conquer
 - Divide&Conquer
 - Divide/Conquer

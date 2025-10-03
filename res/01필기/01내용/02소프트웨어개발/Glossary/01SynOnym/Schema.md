@@ -1,14 +1,14 @@
 ﻿- 3단계 스키마 구조(Three-Schema Architecture)
-- Database Schema
 - database schema
+- Database Schema
 - Database_Schema
-- databaseschema
 - DatabaseSchema
-- database-schema
-- Database-Schema
+- databaseschema
 - Database-schema
-- Schema
+- Database-Schema
+- database-schema
 - schema
+- Schema
 - Schema(스키마)
 - 📌위치▶️02소프트웨어개발vs.03데이터베이스구축
 - 📌위치▶️추상vs.구상

@@ -25,10 +25,10 @@
 - GR
 - GR
 - G관계
-- Hierarchy
 - hierarchy
-- hierarchy관계
+- Hierarchy
 - Hierarchy관계
+- hierarchy관계
 - I
 - IN
 - Inheritance
@@ -45,8 +45,8 @@
 - is-a
 - I관계
 - R▶️GR
-- RelationShip▶️GeneralizationRelationShip
 - Relationship▶️GeneralizationRelationship
+- RelationShip▶️GeneralizationRelationShip
 - 📌UML▶️✅일반화
 - 📌UML▶️일반화
 - 📌UML의미▶️BottomUp방식
