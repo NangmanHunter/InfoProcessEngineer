@@ -8,7 +8,7 @@
     <summary>🌴DirectoryTree</summary>
 
 ```
-📁 IPEngineer
+📁 InformationProcessingEngineer
 ├── 📁 etc
 │   ├── 📁 GitIgnore
 │   ├── 📁 GPT
@@ -106,7 +106,7 @@
     <summary>🌳FileTree</summary>
 
 ```
-📁 IPEngineer
+📁 InformationProcessingEngineer
 ├── 📁 etc
 │   ├── 📁 GitIgnore
 │   │   ├── 📄 GPT고찰.md
