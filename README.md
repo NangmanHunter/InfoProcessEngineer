@@ -1387,7 +1387,7 @@
 </details>
 
 ## AnchorFileMap
-<details>
+<details open>
     <summary>📌AnchorFile</summary>
     
 - 📄[01소프트웨어설계](res/01필기/01내용/01소프트웨어설계/01소프트웨어설계_02내용.md)
